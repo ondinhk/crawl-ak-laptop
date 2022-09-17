@@ -2,6 +2,7 @@ import urllib.request
 import json
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from threading import Thread
@@ -35,12 +36,12 @@ def startThread():
     print(f'It took {end_time - start_time: 0.2f} second(s) to complete.')
     print(TOTAL)
 
-def getProductInCategory(listCategory):
-    DRIVER_CHROME = webdriver.Chrome(ChromeDriverManager().install())
-    for i in listCategory:
+
+def getProductInCategory(linkCategories):
+    DRIVER_CHROME = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    for i in linkCategories:
         dataCategory = []
         page = urllib.request.urlopen(i.get('url'))
-        # page = urllib.request.urlopen('https://www.ankhang.vn/laptop-chuwi.html')
         soup = BeautifulSoup(page, 'html.parser')
         container = soup.find('ul', class_='ul product-list product-lists pro-container-2020')
         listItems = container.find_all('li', class_="p-item-2021")
@@ -52,6 +53,8 @@ def getProductInCategory(listCategory):
                 dataCategory.append(getContentInPage(id_product, link, DRIVER_CHROME))
             except:
                 print("Error when getContentInPage {} {}".format(id_product, path))
+            finally:
+                continue
         TOTAL.append({i.get('name'): len(dataCategory)})
         exportDataToJson(i.get('name'), dataCategory)
 
@@ -65,22 +68,33 @@ def getContentInPage(id_product, url, DRIVER_CHROME):
     listSpecifications = containerContent.find_all('span')
     listImages = soup.find('div', class_='list_img_product_smaill').find_all('a', class_='img-box')
     # Get context
+    images = []
+    specifications = ""
     try:
         name = soup.find('h1', class_='text-700').getText()
         try:
             cost = soup.find('span', class_='pro-oldprice').getText()
         except:
             cost = soup.find('span', class_='pro-price').getText().replace("\u0110", "D")
-        specifications = ""
-        images = []
         for item in listImages:
             images.append(item.get('href'))
         for item in listSpecifications:
             specifications = specifications + str(item.getText().rstrip('\n')) + ", "
-    except:
-        print("Error when get text")
+        try:
+            details = []
+            listDetails = soup.find('div', class_='content-item crib').find('div', class_='nd').find_all('p')
+            for item in listDetails:
+                try:
+                    detail = item.getText()
+                    details.append(detail)
+                except:
+                    detail = ''
+        except Exception as e:
+            details = []
+    except Exception as e:
+        print("Error when get text {}".format(e))
     content = {'id_prodcut': id_product, 'name': name, 'cost': cost, 'specifications': specifications,
-               'images': images}
+               'images': images, 'details': details}
     print("Done product: {}".format(id_product))
     return content
 
@@ -91,5 +105,23 @@ def exportDataToJson(name, data):
     print("Export {} Done".format(name))
 
 
+def testSinglePage():
+    DRIVER_CHROME = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+    id_product = 1
+    url = 'https://www.ankhang.vn/laptop-asus-rog-strix-g15-g513im-hn008w.html'
+    content = getContentInPage(id_product, url, DRIVER_CHROME)
+    with open('./data/test.json', 'w') as f:
+        json.dump(content, f)
+    print("Export {} Done".format('Test'))
+
+
+def printFileTest():
+    f = open('./data/test.json', 'r')
+    data = json.load(f)
+    print(data)
+
+
 if __name__ == '__main__':
+    # testSinglePage()
+    # printFileTest()
     startThread()

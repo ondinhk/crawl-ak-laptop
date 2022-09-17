@@ -1,231 +1,367 @@
 [
-  {
-    "id_prodcut": "18873",
-    "name": " MacBook Air 13 inch 2020 M1 MGN63SA/A ",
-    "cost": "28.990.000 VN\u0110",
-    "specifications": "CPU Apple M1 chip 8-core CPU with 4 perform\u00adance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 7-core GPU, Color Space Grey (X\u00e1m), Weight 1.29 Kg, OS macOS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_1.jpg",
-      "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_3.jpg",
-      "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_2.jpg",
-      "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_4.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "18875",
-    "name": " MacBook Air 13 inch 2020 M1 MGN93SA/A ",
-    "cost": "28.990.000 VN\u0110",
-    "specifications": "CPU Apple M1 chip 8-core CPU with 4 perform\u00adance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 7-core GPU, Color Silver (B\u1ea1c), Weight 1.29 Kg, OS macOS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/18875_18878_macbook_air_13_inch_2020_m1_mgna3saa_1.jpg",
-      "https://cdn.ankhang.vn/media/product/18875_18878_macbook_air_13_inch_2020_m1_mgna3saa_3.jpg",
-      "https://cdn.ankhang.vn/media/product/18875_18878_macbook_air_13_inch_2020_m1_mgna3saa_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "18876",
-    "name": " MacBook Air 13 inch 2020 M1 MGND3SA/A ",
-    "cost": "28.990.000 VN\u0110",
-    "specifications": "CPU Apple M1 chip 8-core CPU with 4 perform\u00adance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 7-core GPU, Color Gold (V\u00e0ng), Weight 1.29 Kg, OS macOS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_1.jpg",
-      "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_4.jpg",
-      "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_3.jpg",
-      "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "18885",
-    "name": " MacBook Pro 13 inch 2020 M1 MYD82SA/A ",
-    "cost": "36.990.000 VN\u0110",
-    "specifications": "CPU Apple M1 chip 8-core CPU with 4 performance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 8-core GPU, Color Space Grey (X\u00e1m), Weight 1.40 Kg, OS macOS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_1.jpg",
-      "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_6.jpg",
-      "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_5.jpg",
-      "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_4.jpg",
-      "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_3.jpg",
-      "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21075",
-    "name": " MacBook Pro 16 M1 Max- Z14X000G1 ",
-    "cost": "160.589.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 8TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1.jpg",
-      "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21074",
-    "name": " MacBook Pro 16 M1 Max- Z14X000G0 ",
-    "cost": "128.579.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 4TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0.jpg",
-      "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21071",
-    "name": " MacBook Pro 16 M1 Max- Z14Y0012P ",
-    "cost": "112.849.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 2TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p.jpg",
-      "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21073",
-    "name": " MacBook Pro 16 M1 Max- Z14Z000WY ",
-    "cost": "128.579.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 4TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy.jpg",
-      "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21070",
-    "name": " MacBook Pro 16 M1 Max- Z14X000FZ ",
-    "cost": "112.849.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 2TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz.jpg",
-      "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21069",
-    "name": " MacBook Pro 16 M1 Max- Z14V0012L ",
-    "cost": "102.179.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l.jpg",
-      "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21068",
-    "name": " MacBook Pro 16 M1 Max- Z14Y0012N ",
-    "cost": "102.179.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n.jpg",
-      "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21067",
-    "name": " MacBook Pro 16 M1 Max- Z14V0012K ",
-    "cost": "96.459.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 24-Core GPU, Color Grey (X\u00e1m), Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k.jpg",
-      "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21066",
-    "name": " MacBook Pro 16 M1 Pro- Z14V00125 ",
-    "cost": "80.619.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color Grey (X\u00e1m), Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125.jpg",
-      "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21065",
-    "name": " MacBook Pro 16 M1 Pro- Z14Y00124 ",
-    "cost": "80.619.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124.jpg",
-      "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21064",
-    "name": " MacBook Pro 16 M1 Pro- Z14V00122 ",
-    "cost": "75.449.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 512GB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color Grey (X\u00e1m), Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122.jpg",
-      "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21063",
-    "name": " MacBook Pro 16 M1 Pro- Z14Y00121 ",
-    "cost": "75.449.000 VND",
-    "specifications": "CPU Apple M1 PRO 10-Core, SSD 512GB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color Silver (B\u1ea1c), Weight 2.1kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121.jpg",
-      "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121_2.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21060",
-    "name": " MacBook Pro 14 M1 MAX- Z15H000VQ ",
-    "cost": "86.119.000 VND",
-    "specifications": "CPU Apple M1 MAX 10-Core CPU, SSD 1TB, RAM 32GB, Display 14.2Inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c (3024 x 1964) \u1edf 254 pixel m\u1ed7i inch, \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a 1600 nits, VGA 32-Core GPU, Color X\u00e1m, Pin lithium-polymer 96watt, Weight 1.6kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq.jpg",
-      "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq_3.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21059",
-    "name": " MacBook Pro 14 M1 MAX- Z15H000VP ",
-    "cost": "80.619.000 VND",
-    "specifications": "CPU Apple M1 MAX 10-Core CPU, SSD 1TB, RAM 32GB, Display 14.2Inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c (3024 x 1964) \u1edf 254 pixel m\u1ed7i inch, \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a 1600 nits, VGA 24-Core GPU, Color X\u00e1m, Pin lithium-polymer 96watt, Weight 1.6kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp.jpg",
-      "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp_3.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21058",
-    "name": " MacBook Pro 14 M1 MAX- Z15G001ML ",
-    "cost": "75.449.000 VND",
-    "specifications": "CPU Apple M1 MAX 10-Core CPU, SSD 512GB, RAM 32GB, Display 14.2Inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c (3024 x 1964) \u1edf 254 pixel m\u1ed7i inch, \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a 1600 nits, VGA 24-Core GPU, Color X\u00e1m, Pin lithium-polymer 96watt, Weight 1.6kg, OS Mac-OS, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml.jpg",
-      "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml_3.jpg"
-    ]
-  }
+    {
+        "id_prodcut": "18873",
+        "name": " MacBook Air 13 inch 2020 M1 MGN63SA/A ",
+        "cost": "28.990.000 VN\u0110",
+        "specifications": "CPU Apple M1 chip 8-core CPU with 4 perform\u00adance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 7-core GPU, Color Space Grey (X\u00e1m), Weight 1.29 Kg, OS macOS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_1.jpg",
+            "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_3.jpg",
+            "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_2.jpg",
+            "https://cdn.ankhang.vn/media/product/18873_macbook_air_13inch_2020_m1_mgn63sa_a_4.jpg"
+        ],
+        "details": [
+            "- Thi\u1ebft k\u1ebft g\u1ecdn nh\u1eb9, tinh t\u1ebf, sang tr\u1ecdng, lu\u00f4n n\u1ed5i b\u1eadt khi mang theo b\u00ean m\u00ecnh.",
+            "- B\u1ed9 vi x\u1eed l\u00fd CPU Apple M1 \u2013 8 nh\u00e2n (4 nh\u00e2n ti\u1ebft ki\u1ec7m \u0111i\u1ec7n v\u00e0 4 nh\u00e2n hi\u1ec7u n\u0103ng cao)",
+            "- GPU bao g\u1ed3m 7 l\u00f5i x\u1eed l\u00fd m\u01b0\u1ee3t m\u00e0 c\u00e1c t\u00e1c v\u1ee5 \u0111\u1ed3 h\u1ecda nhanh h\u01a1n t\u1edbi 5 l\u1ea7n so v\u1edbi phi\u00ean b\u1ea3n ti\u1ec1n nhi\u1ec7m.",
+            "- Dung l\u01b0\u1ee3ng l\u01b0u tr\u1eef SSD 256GB mang t\u1edbi t\u1ed1c \u0111\u1ed9 m\u00e1y t\u00ednh si\u00eau nhanh khi m\u1edf c\u00e1c \u1ee9ng d\u1ee5ng n\u1eb7ng, b\u1eadt/t\u1eaft m\u00e1y.",
+            "- M\u00e0n h\u00ecnh Retina 13.3inch, t\u1ea5m n\u1ec1n IPS k\u1ebft h\u1ee3p c\u00f9ng v\u1edbi \u0111\u1ed9 ph\u00e2n gi\u1ea3i cao (2560 x 1600 Pixels), mang t\u1edbi m\u1ed9t n\u1ed9i dung hi\u1ec3n th\u1ecb si\u00eau s\u1ed1ng \u0111\u1ed9ng v\u00e0 \u0111\u1eafm ch\u00ecm.",
+            "- B\u00e0n ph\u00edm Magic Keyboard (\u0111\u01b0\u1ee3c v\u00ed nh\u01b0 c\u00e2y \u0111\u0169a th\u1ea7n), mang t\u1edbi tr\u1ea3i nghi\u1ec7m g\u00f5 t\u1ed1t nh\u1ea5t t\u1edbi ng\u01b0\u1eddi d\u00f9ng.",
+            "- Th\u1eddi l\u01b0\u1ee3ng pin v\u01b0\u1ee3t tr\u1ed9i v\u1edbi th\u1eddi gian l\u01b0\u1edbt web, xem video l\u00ean t\u1edbi 18h \u0111\u1ed3ng h\u1ed3.",
+            "",
+            "MacBook Air 13inch 2020 M1 MGN63SA/A s\u1edf h\u1eefu m\u1ed9t thi\u1ebft k\u1ebf g\u1ecdn nh\u1eb9, tinh t\u1ebf v\u1edbi l\u1edbp khung \u0111\u01b0\u1ee3c ho\u00e0n thi\u1ec7n b\u1eb1ng ch\u1ea5t li\u1ec7u kim lo\u1ea1i v\u00f4 c\u00f9ng b\u1ec1n b\u1ec9 v\u00e0 ch\u1eafc ch\u1eafn, t\u1ed5ng th\u1ec3 c\u00e2n n\u1eb7ng ch\u1ec9 v\u1edbi 1.29kg v\u00e0 m\u1ecfng 15.2mm, r\u1ea5t nh\u1eb9 nh\u00e0ng cho m\u1ed7i chuy\u1ebfn di chuy\u1ec3n c\u1ee7a b\u1ea1n.",
+            "X\u00e9t v\u1ec1 t\u00ednh to\u00e0n di\u1ec7n, MacBook Air 13inch 2020 M1 MGN63SA/A c\u00f3 m\u1ed9t giao di\u1ec7n kh\u00e1 gi\u1ed1ng v\u1edbi phi\u00ean b\u1ea3n ti\u1ec1n nhi\u1ec7m tr\u01b0\u1edbc \u0111\u00f3, tuy r\u1eb1ng, s\u1ea3n ph\u1ea9m kh\u00f4ng ph\u1ea3i l\u00e0 \u0111\u1ee9ng s\u1ed1 1 v\u1ec1 c\u00e2n n\u1eb7ng nh\u01b0ng v\u1eabn \u0111\u01b0\u1ee3c gi\u1edbi ng\u01b0\u1eddi d\u00f9ng \u0111\u00e1nh gi\u00e1 cao v\u1ec1 t\u00ednh di \u0111\u1ed9ng, b\u1ea1n ho\u00e0n to\u00e0n c\u00f3 th\u1ec3 b\u1ecf ch\u00fang v\u00e0o t\u00fai x\u00e1ch, balo \u0111\u1ec3 mang theo t\u1edbi kh\u1eafp m\u1ecdi n\u01a1i m\u00e0 kh\u00f4ng h\u1ec1 c\u1ea3m th\u1ea5y v\u01b0\u1edbng v\u00edu, kh\u00f3 ch\u1ecbu.",
+            "V\u1ec1 m\u00e0u s\u1eafc, phi\u00ean b\u1ea3n MacBook Air 13inch 2020 M1 s\u1ebd c\u00f3 hai m\u00e0u s\u1eafc cho b\u1ea1n l\u1ef1a ch\u1ecdn \u0111\u00f3 l\u00e0 B\u1ea1c v\u00e0 X\u00e1m. \u1ede b\u00e0i vi\u1ebft n\u00e0y, An khang s\u1ebd th\u00f4ng tin t\u1edbi b\u1ea1n m\u1ed9t phi\u00ean b\u1ea3n m\u00e0u X\u00e1m kh\u00f4ng gian, kh\u00e1 nh\u00e3 nh\u1eb7n v\u00e0 ph\u00f9 h\u1ee3p v\u1edbi nhi\u1ec1u tip ng\u01b0\u1eddi d\u00f9ng th\u00edch s\u1ef1 \u0111\u01a1n gi\u1ea3n v\u00e0 kh\u00f4ng qu\u00e1 n\u1ed5i b\u1eadt.",
+            "B\u00c0N PH\u00cdM (MAGIC KEYBOARD)",
+            "M\u1eb7c d\u00f9 v\u1ebb b\u1ec1 ngo\u00e0i, Apple MacBook Air (M1 2020) tr\u00f4ng gi\u1ed1ng v\u1edbi phi\u00ean b\u1ea3n ti\u1ec1n nhi\u1ec7m tr\u01b0\u1edbc \u0111\u00f3, nh\u01b0ng khi m\u1edf ra,\u00a0b\u1ea1n m\u1edbi th\u1ea5y s\u1ef1 kh\u00e1c bi\u1ec7t n\u1ed5i b\u1eadt \u1edf khu v\u1ef1c b\u00e0n ph\u00edm. N\u00f3 \u0111\u01b0\u1ee3c l\u00e0m m\u1edbi v\u00e0 kh\u00e1 th\u00e2n thi\u1ec7n v\u1edbi ng\u01b0\u1eddi d\u00f9ng. B\u00e0n ph\u00edm c\u1ee7a s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 c\u00e2y \u0111\u0169a th\u1ea7n, n\u00f3 s\u1ebd gi\u00fap b\u1ea1n ho\u00e0n th\u00e0nh m\u1ecdi c\u00f4ng vi\u1ec7c m\u1ed9t c\u00e1ch nhanh ch\u00f3ng ngay c\u1ea3 khi b\u1ea1n thao t\u00e1c v\u0103n b\u1ea3n hay nh\u1eadp li\u1ec7u.",
+            "\u00a0",
+            "N\u1ebfu nh\u01b0 \u1edf phi\u00ean b\u1ea3n ti\u1ec1n nhi\u1ec7m, c\u00f3 kh\u00e1 nhi\u1ec1u ng\u01b0\u1eddi d\u00f9ng ph\u00e0n n\u00e0n v\u1ec1 thi\u1ebft k\u1ebf b\u00e0n ph\u00edm, th\u00ec sang phi\u00ean b\u1ea3n MacBook Air 13inch 2020 M1 t\u1ea5t c\u1ea3 m\u1ecdi th\u1ee9 d\u01b0\u1eddng nh\u01b0 \u0111\u00e3 \u0111\u01b0\u1ee3c c\u1ea3i ti\u1ebfn v\u00e0 mang l\u1ea1i tr\u1ea3i nghi\u1ec7m th\u1eadt s\u1ef1 t\u1ed1t cho ng\u01b0\u1eddi d\u00f9ng.",
+            "Phi\u00ean b\u1ea3n MacBook Air 13inch 2020 M1 c\u00f3 m\u1ed9t thi\u1ebft k\u1ebf b\u00e0n ph\u00edm kh\u00e1 n\u1ed5i b\u1eadt, k\u00edch th\u01b0\u1edbc ph\u00edm to, r\u00f5 r\u00e0ng v\u00e0 c\u1ea3m gi\u00e1c g\u00f5 kh\u00f4ng b\u1ecb n\u00f4ng nh\u01b0 phi\u00ean b\u1ea3n ti\u1ec1n nhi\u1ec7m. M\u1ed9t s\u1ed1 t\u00ednh n\u0103ng m\u1edbi \u0111\u01b0\u1ee3c b\u1ed5 sung nh\u01b0: Spotlight, Do Not Disturb v\u00e0 dictation, \u0111\u1ed9 s\u00e1ng c\u1ee7a Lauchpad v\u00e0 b\u00e0n ph\u00edm c\u0169ng \u0111\u1ec1u \u0111\u00e3 \u0111\u01b0\u1ee3c l\u00e0m m\u1edbi, \u0111\u00e2y l\u00e0 \u0111i\u1ec1u kh\u00e1 tuy\u1ec7t v\u1eddi c\u1ee7a h\u00e3ng s\u1ea3n xu\u1ea5t n\u00e0y.",
+            "C\u1ed4NG K\u1ebeT N\u1ed0I",
+            "",
+            "S\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c t\u00edch h\u1ee3p hai c\u1ed5ng k\u1ebft n\u1ed1i Thunderbolt/ USB4 t\u1ed1c \u0111\u1ed9 cao, d\u1ec5 d\u00e0ng t\u01b0\u01a1ng th\u00edch v\u1edbi c\u00e1c thi\u1ebft b\u1ecb ngo\u1ea1i vi kh\u00e1c. B\u00ean c\u1ea1nh ph\u1ea3i s\u1ebd c\u00f3 th\u00eam m\u1ed9t jack c\u1eafm tai nghe \u0111\u1ec3 b\u1ea1n c\u00f3 th\u1ec3 t\u1eadn h\u01b0\u1edfng nh\u1eefng video, phim, nghe nh\u1ea1c m\u1ed9t c\u00e1ch tr\u1ecdn v\u1eb9n v\u00e0 ri\u00eang t\u01b0.",
+            "M\u00c0N H\u00ccNH HI\u1ec2N TH\u1eca RETINA 13,3INCH",
+            "",
+            "MacBook Air 13inch 2020 M1 MGN63SA/A \u0111\u01b0\u1ee3c trang b\u1ecb m\u00e0n h\u00ecnh Retina c\u00f3 k\u00edch th\u01b0\u1edbc 13.3inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i cao (2560 x 1600 Pixels) mang t\u1edbi m\u1ed9t kh\u1ea3 n\u0103ng hi\u1ec3n th\u1ecb v\u00f4 c\u00f9ng s\u1eafc n\u00e9t. H\u01a1n n\u1eefa, h\u00e3ng Apple c\u0169ng c\u1eadp nh\u1eadt cho chi ti\u1ebft m\u00e0n h\u00ecnh c\u00f4ng ngh\u1ec7 hi\u1ec7n \u0111\u1ea1i True Tone gi\u00fap t\u1ef1 \u0111\u1ed9ng \u0111i\u1ec1u ch\u1ec9nh nhi\u1ec7t \u0111\u1ed9 m\u00e0u ph\u00f9 h\u1ee3p d\u1ef1a tr\u00ean \u0111i\u1ec1u ki\u1ec7n \u00e1nh s\u00e1ng m\u00f4i tr\u01b0\u1eddng xung quanh.",
+            "Ti\u1ebfp theo n\u1eefa ch\u00ednh l\u00e0 \u0111\u1ed9 s\u00e1ng m\u00e0n h\u00ecnh \u0111\u01b0\u1ee3c ghi nh\u1eadn t\u1edbi m\u1ee9c t\u1ed1i \u0111a \u0111\u1ea1t 400nitss, \u0111\u1ed9 bao ph\u1ee7 m\u00e0u s\u1eafc sRGB c\u0169ng t\u0103ng h\u01a1n 14% so v\u1edbi \u0111\u1ed9 bao ph\u1ee7 m\u00e0u s\u1eafc \u1edf nh\u1eefng m\u00e0n h\u00ecnh thi\u1ebft k\u1ebf th\u00f4ng th\u01b0\u1eddng, m\u1ed9t con s\u1ed1 \u0111\u1ea1t ng\u01b0\u1ee1ng 114,3% sRGB. Th\u1eadt tuy\u1ec7t v\u1eddi cho nh\u1eefng hi\u1ec3n th\u1ecb \u1ea5n t\u01b0\u1ee3ng v\u00e0 s\u1ed1ng \u0111\u1ed9ng khi b\u1ea1n l\u00e0m vi\u1ec7c v\u00e0 gi\u1ea3i tr\u00ed.",
+            "",
+            "Nh\u1eefng ng\u01b0\u1eddi d\u00f9ng c\u00f3 nhu c\u1ea7u mua Macbook \u0111\u1ec3 s\u1eed d\u1ee5ng th\u01b0\u1eddng c\u00f3 y\u00eau c\u1ea7u v\u1ec1 m\u1eb7t ph\u1ea7n c\u1ee9ng kh\u00f4ng qu\u00e1 cao. Ch\u1ee7 y\u1ebfu m\u00e1y c\u00f3 th\u1ec3 \u0111\u00e1p \u1ee9ng \u0111\u01b0\u1ee3c m\u01b0\u1ee3t \u0111a t\u00e1c v\u1ee5 h\u00e0ng ng\u00e0y l\u00e0 \u0111\u01b0\u1ee3c. Nh\u01b0ng kh\u00f4ng \u0111\u1ec3 ng\u01b0\u1eddi d\u00f9ng ph\u1ea3i th\u1ea5t v\u1ecdng, h\u00e3ng Apple kh\u00f4ng ng\u1eebng \u0111\u1ed5i m\u1edbi v\u00e0 c\u1ea3i ti\u1ebfn, \u00e1p d\u1ee5ng nh\u1eefng c\u00f4ng ngh\u1ec7 hi\u1ec7n \u0111\u1ea1i cho ch\u00ednh nh\u1eefng s\u1ea3n ph\u1ea9m c\u1ee7a h\u1ecd. Ch\u00ednh b\u1edfi v\u1eady, MacBook Air 13inch 2020 M1 \u0111\u00e3 l\u00e0m n\u00ean m\u1ed9t s\u1ef1 \u0111\u1ed9t ph\u00e1 b\u1edfi s\u1ee9c m\u1ea1nh c\u1ee7a hi\u1ec7u n\u0103ng th\u00f4ng qua con chip Apple M1 l\u00f5i 8 nh\u00e2n bao g\u1ed3m (4 nh\u00e2n hi\u1ec7u n\u0103ng cao v\u00e0 4 nh\u00e2n ti\u1ebft ki\u1ec7m \u0111i\u1ec7n n\u0103ng).\u00a0",
+            "Theo Apple, chip M1 cung c\u1ea5p CPU nhanh h\u01a1n 3,5 l\u1ea7n, GPU nhanh h\u01a1n 6 l\u1ea7n, kh\u1ea3 n\u0103ng h\u1ecdc m\u00e1y (ML) nhanh h\u01a1n t\u1edbi 15 l\u1ea7n v\u00e0 th\u1eddi l\u01b0\u1ee3ng pin d\u00e0i h\u01a1n g\u1ea5p 2 l\u1ea7n so v\u1edbi tr\u01b0\u1edbc \u0111\u00e2y.\u00a0V\u00e0 v\u1edbi M1 v\u00e0 Big Sur, ng\u01b0\u1eddi d\u00f9ng c\u00f3 quy\u1ec1n truy c\u1eadp v\u00e0o b\u1ed9 s\u01b0u t\u1eadp \u1ee9ng d\u1ee5ng l\u1edbn nh\u1ea5t t\u1eeb \u200b\u200btr\u01b0\u1edbc \u0111\u1ebfn nay d\u00e0nh cho Mac v\u00e0 t\u1ed1c \u0111\u1ed9 khung h\u00ecnh cao h\u01a1n cho c\u00e1c tr\u00f2 ch\u01a1i.",
+            "Ti\u1ebfp theo \u0111\u00f3 l\u00e0 \u0111\u1ebfn dung l\u01b0\u1ee3ng b\u1ed9 nh\u1edb trong 8GB c\u00f9ng v\u1edbi \u1ed5 c\u1ee9ng SSD 256GB th\u00ec cho k\u1ebft qu\u1ea3 v\u1ec1 t\u1ed1c \u0111\u1ed9 c\u1ee7a m\u00e1y t\u00ednh r\u1ea5t kh\u1ea3 quan, th\u1eadm ch\u00ed ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 m\u1edf li\u1ec1n m\u1ed9t l\u00fac t\u1edbi 20 tab v\u1ee5 chrome m\u00e0 kh\u00f4ng x\u1ea9y ra hi\u1ec7n tr\u1ea1ng gi\u1eadt lag. Tho\u1ea3i m\u00e1i l\u00e0m vi\u1ec7c, t\u1eadn h\u01b0\u1edfng nh\u1eefng ph\u00fat gi\u00e2y gi\u1ea3i tr\u00ed m\u1ed9t c\u00e1ch nh\u1eb9 nh\u00e0ng.",
+            "",
+            "N\u00f3i v\u1ec1 kh\u1ea3 n\u0103ng ch\u01a1i game th\u00ec MacBook Air 13inch 2020 M1 c\u0169ng cho m\u1ed9t k\u1ebft qu\u1ea3 kh\u00e1 t\u1ed1t, m\u00e1y c\u00f3 th\u1ec3 ch\u01a1i \u0111\u01b0\u1ee3c c\u00e1c t\u1ef1a game h\u1ea1ng AAA nh\u01b0: Rise of the Tomb Raider, Bioshock 2 Remasteres\u2026, nh\u01b0ng tr\u00ean th\u1ef1c t\u1ebf th\u00ec \u00edt khi ng\u01b0\u1eddi d\u00f9ng mua Macbook v\u1ec1 \u0111\u1ec3 ch\u01a1i game, n\u00ean vi\u1ec7c ch\u01a1i game tr\u00ean chi\u1ebfc Macbook Air th\u00ec ch\u1ec9 mang t\u00ednh ch\u1ea5t gi\u1ea3i tr\u00ed, m\u1eb7c d\u00f9 kh\u1ea3 n\u0103ng ch\u01a1i game c\u1ee7a s\u1ea3n ph\u1ea9m n\u00e0y \u0111\u00e3 \u0111\u01b0\u1ee3c ghi nh\u1eadn.",
+            "V\u1ec0 T\u1ea2N NHI\u1ec6T",
+            "Phi\u00ean b\u1ea3n\u00a0MacBook Air 13inch 2020 M1 MGN63SA/A kh\u00f4ng c\u00f3 qu\u1ea1t t\u1ea3n nhi\u1ec7t, do th\u1eeba h\u01b0\u1edfng \u0111\u1eb7c \u0111i\u1ec3m n\u1ed5i b\u1eadt l\u00e0 v\u1ecf kim lo\u1ea1i m\u00e1t m\u1ebb, b\u1ec1n b\u1ec9, n\u00ean s\u1ea3n ph\u1ea9m \u0111\u00e3 kh\u00f4ng t\u00edch h\u1ee3p t\u00ednh n\u0103ng n\u00e0y v\u00e0o trong s\u1ea3n ph\u1ea9m.",
+            "Apple \u0111ang s\u1eed d\u1ee5ng Neural Engine 16 l\u00f5i, m\u1ed9t b\u1ed9 x\u1eed l\u00fd t\u00edn hi\u1ec7u h\u00ecnh \u1ea3nh t\u00f9y ch\u1ec9nh \u0111\u1ec3 c\u1ea3i thi\u1ec7n kh\u1ea3 n\u0103ng hi\u1ec3n th\u1ecb v\u00e0 quang h\u1ecdc.\u00a0B\u1ed9 x\u1eed l\u00fd t\u00edn hi\u1ec7u h\u00ecnh \u1ea3nh (ISP) m\u1edbi nh\u1ea5t c\u1ee7a Apple c\u1ea3i thi\u1ec7n ch\u1ea5t l\u01b0\u1ee3ng h\u00ecnh \u1ea3nh c\u1ee7a m\u00e1y \u1ea3nh v\u1edbi kh\u1ea3 n\u0103ng gi\u1ea3m nhi\u1ec5u t\u1ed1t h\u01a1n, d\u1ea3i \u0111\u1ed9ng l\u1edbn h\u01a1n v\u00e0 c\u1ea3i thi\u1ec7n c\u00e2n b\u1eb1ng tr\u1eafng t\u1ef1 \u0111\u1ed9ng v\u00e0 nh\u1eadn di\u1ec7n khu\u00f4n m\u1eb7t n\u00e2ng cao ML \u0111\u1ec3 mang l\u1ea1i k\u1ebft qu\u1ea3 h\u00ecnh \u1ea3nh t\u1ed1t nh\u1ea5t.",
+            "\u0110i\u1ec1u n\u00e0y s\u1ebd mang l\u1ea1i \u201ch\u00ecnh \u1ea3nh r\u00f5 r\u00e0ng, s\u1eafc n\u00e9t h\u01a1n\u201d v\u1edbi nhi\u1ec1u chi ti\u1ebft h\u01a1n trong b\u00f3ng v\u00e0 v\u00f9ng s\u00e1ng v\u00e0 \u201ct\u00f4ng m\u00e0u da tr\u00f4ng t\u1ef1 nhi\u00ean h\u01a1n\u201d.",
+            "H\u01a1n n\u1eefa, b\u1ed9 x\u1eed l\u00fd m\u1edbi cho ph\u00e9p m\u00e1y t\u00ednh x\u00e1ch tay ngay l\u1eadp t\u1ee9c b\u1eadt v\u00e0 tr\u1edf l\u1ea1i nh\u1eefng g\u00ec b\u1ea1n \u0111ang l\u00e0m khi m\u1edf n\u1eafp c\u1ee7a n\u00f3.",
+            "Apple MacBook Air (M1 2020) c\u0169ng s\u1eed d\u1ee5ng camera FaceTime 720p c\u0169 gi\u1ed1ng nh\u01b0 phi\u00ean b\u1ea3n tr\u01b0\u1edbc.\u00a0N\u00f3 c\u0169ng h\u1ed7 tr\u1ee3 Wi-Fi 6, Bluetooth 5.0 v\u00e0 Touch ID.",
+            "Apple MacBook Air (M1 2020) c\u00f3 pin 49,9 watt gi\u1edd.\u00a0Theo c\u00f4ng ty, pin c\u00f3 th\u1ec3 k\u00e9o d\u00e0i \u0111\u1ebfn 15 gi\u1edd duy\u1ec7t web kh\u00f4ng d\u00e2y v\u00e0 l\u00ean \u0111\u1ebfn 18 gi\u1edd xem video.\u00a0Nh\u01b0 v\u1eady, pin c\u1ee7a m\u1eabu MacBook Air M1 n\u00e0y c\u00f3 tu\u1ed5i th\u1ecd pin l\u00e2u nh\u1ea5t t\u1eeb \u200b\u200btr\u01b0\u1edbc \u0111\u1ebfn nay tr\u00ean MacBook Air.",
+            "H\u00ccNH \u1ea2NH TH\u1ef0C T\u1ebe",
+            "",
+            "",
+            "",
+            "",
+            "An Khang Computer!",
+            "\u00a0",
+            "\u00a0"
+        ]
+    },
+    {
+        "id_prodcut": "18875",
+        "name": " MacBook Air 13 inch 2020 M1 MGN93SA/A ",
+        "cost": "28.990.000 VN\u0110",
+        "specifications": "CPU Apple M1 chip 8-core CPU with 4 perform\u00adance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 7-core GPU, Color Silver (B\u1ea1c), Weight 1.29 Kg, OS macOS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/18875_18878_macbook_air_13_inch_2020_m1_mgna3saa_1.jpg",
+            "https://cdn.ankhang.vn/media/product/18875_18878_macbook_air_13_inch_2020_m1_mgna3saa_3.jpg",
+            "https://cdn.ankhang.vn/media/product/18875_18878_macbook_air_13_inch_2020_m1_mgna3saa_2.jpg"
+        ],
+        "details": [
+            "C\u0169ng kh\u00e1 kh\u00f3 \u0111\u1ec3 c\u00f3 th\u1ec3 so s\u00e1nh v\u1edbi nh\u1eefng s\u1ea3n ph\u1ea9m\u00a0 s\u1eed d\u1ee5ng con chip Intel tr\u01b0\u1edbc \u0111\u00e2y c\u1ee7a Apple v\u00ec b\u1ed9 vi x\u1eed l\u00fd M1 n\u00e0y c\u00f3 c\u00e1ch ho\u1ea1t \u0111\u1ed9ng v\u00e0 v\u1eadn h\u00e0nh kh\u00e1c. Tuy nhi\u00ean, v\u1edbi b\u1ed9 vi x\u1eed l\u00fd M1, 8 l\u00f5i v\u00e0 ki\u1ebfn tr\u00fac 5 nm, M1 mang \u0111\u1ebfn hi\u1ec7u su\u1ea5t CPU nhanh h\u01a1n 3.5 l\u1ea7n, 7/8 nh\u00e2n GPU nhanh h\u01a1n 5 l\u1ea7n so v\u1edbi th\u1ebf h\u1ec7 tr\u01b0\u1edbc hi\u1ec7u n\u0103ng c\u1ee7a con Chip n\u00e0y \u0111\u01b0\u1ee3c \u0111\u00e1nh gi\u00e1 m\u1ea1nh v\u00e0 t\u1ed1i \u01b0u h\u01a1n h\u1eb3n khi s\u1eed d\u1ee5ng v\u00e0 v\u1eadn h\u00e0nh so v\u1edbi c\u00e1c s\u1ea3n ph\u1ea9m Macbook ti\u1ec1n nhi\u1ec7m.",
+            "Ngo\u00e0i ra, m\u00e1y \u0111\u01b0\u1ee3c trang b\u1ecb RAM 8GB, SSD 256GB, m\u00e1y c\u00f3 kh\u1ea3 n\u0103ng x\u1eed l\u00fd \u0111a nhi\u1ec7m hi\u1ec7u qu\u1ea3, kh\u00f4ng gian l\u01b0u tr\u1eef v\u00e0 v\u1eadn h\u00e0nh l\u1edbn cho s\u1ea3n ph\u1ea9m, m\u00e1y \u0111\u1ea1t t\u1ed1c \u0111\u1ed9 l\u00e0m vi\u1ec7c cao c\u0169ng nh\u01b0 th\u1eddi gian ph\u1ea3n h\u1ed3i l\u1edbn.",
+            "Chi\u1ebfc Apple M1 n\u00e0y v\u1eabn k\u1ebf th\u1eeba v\u00e0 ph\u00e1t huy \u0111\u01b0\u1ee3c t\u00ednh m\u1ecfng nh\u1eb9, sang tr\u1ecdng mang \u0111\u1eb7c tr\u01b0ng c\u1ee7a d\u00f2ng s\u1ea3n ph\u1ea9m Macbook. M\u00e1y \u0111\u01b0\u1ee3c ch\u1ebf t\u00e1c t\u1eeb v\u1ecf nh\u00f4m kim lo\u1ea1i nguy\u00ean kh\u1ed1i, \u00e1nh l\u00ean m\u00e0u b\u1ea1c sang tr\u1ecdng, l\u1ecbch l\u00e3m, t\u1ea1o ra nh\u1eefng \u0111\u01b0\u1eddng n\u00e9t trang nh\u00e3, tinh t\u1ebf.",
+            "M\u00e1y c\u00f3 tr\u1ecdng l\u01b0\u1ee3ng kh\u00e1 nh\u1eb9, ch\u1ec9\u00a01.29 kg, \u0111\u1ed9 m\u1ecfng t\u1eeb 4.1 mm \u0111\u1ebfn 16.1 mm, vi\u1ec7c di chuy\u1ec3n c\u00f9ng chi\u1ebfc m\u00e1y l\u00e0 kh\u00e1 ti\u1ec7n l\u1ee3i v\u00e0 d\u1ec5 d\u00e0ng. M\u00e1y c\u1ef1c k\u00ec m\u1ecfng nh\u01b0ng l\u1ea1i c\u00f3 dung l\u01b0\u1ee3ng pin \u0111\u00e1ng kinh ng\u1ea1c,\u00a0c\u00f9ng v\u1edbi Chip M1 kh\u00e1 ti\u1ebft ki\u1ec7mpin, n\u00ean s\u1ea3n ph\u1ea9m kh\u00e1 l\u00fd t\u01b0\u1edfng \u0111\u1ec3 \u0111\u1ed3ng h\u00e0nh c\u00f9ng b\u1ea1n trong c\u1ea3 m\u1ed9t ng\u00e0y d\u00e0i nhi\u1ec7t huy\u1ebft t\u1eeb c\u00f4ng vi\u1ec7c, h\u1ecdc t\u1eadp hay gi\u1ea3i tr\u00ed.",
+            "Ngo\u00e0i ra, c\u00f4ng ngh\u1ec7 b\u1ea3o m\u1eadt c\u1ea3m bi\u1ebfn v\u00e2n tay v\u1eabn \u0111\u01b0\u1ee3c Apple s\u1eed d\u1ee5ng trong s\u1ea3n ph\u1ea9m n\u00e0y. B\u1ea1n c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng \u0111\u0103ng nh\u1eadp ch\u1ec9 b\u1eb1ng m\u1ed9t ch\u1ea1m, \u0111\u1ed3ng th\u1eddi, c\u00e1c d\u1eef li\u1ec7u \u0111\u01b0\u1ee3c b\u1ea3o m\u1eadt, an to\u00e0n tuy\u1ec7t \u0111\u1ed1i.",
+            "Tuy c\u1ef1c k\u00ec m\u1ecfng nh\u1eb9 nh\u01b0ng Macbook Air n\u00e0y v\u1eabn \u0111\u01b0\u1ee3c trang b\u1ecb c\u00e1c c\u1ed5ng thi\u1ebft k\u1ebf c\u01a1 b\u1ea3n v\u1edbi\u00a02 c\u1ed5ng USB-C Thunderbolt / USB 4 v\u00e0 m\u1ed9t c\u1ed5ng tai nghe 3.5mm.\u00a0M\u00e1y \u0111\u01b0\u1ee3c trang b\u1ecb Wifi-6, k\u1ebft n\u1ed1i \u1ed5n \u0111\u1ecbnh, ph\u1ea1m vi ph\u1ee7 s\u00f3ng r\u1ed9ng.",
+            "",
+            "M\u00e0n h\u00ecnh 13.3 inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i 2560x1600, \u0111em \u0111\u1ebfn cho b\u1ea1n m\u1ed9t tr\u1ea3i nghi\u1ec7m h\u00ecnh \u1ea3nh s\u1eafc n\u00e9t, ch\u00e2n th\u1ef1c, m\u00e0u s\u1eafc sinh \u0111\u1ed9ng, r\u1ef1c r\u1ee1.",
+            "Vi\u1ec1n m\u00e0n h\u00ecnh \u0111\u01b0\u1ee3c thi\u1ebft k\u1ec3 si\u00eau m\u1ecfng, thanh m\u1ea3nh, t\u1ed1i \u01b0u kh\u00f4ng gian m\u00e0n h\u00ecnh v\u00e0 t\u0103ng \u0111\u1ed9 m\u1ecfng nh\u1eb9 c\u1ee7a s\u1ea3n ph\u1ea9m.",
+            "H\u1ec7 th\u1ed1ng \u00e2m thanh v\u1edbi 2 loa k\u00e9p, \u00e2m thanh s\u1ed1ng \u0111\u1ed9ng, ch\u00e2n th\u1ef1c cho ng\u01b0\u1eddi d\u00f9ng.",
+            "",
+            "\u00a0",
+            "\u00a0"
+        ]
+    },
+    {
+        "id_prodcut": "18876",
+        "name": " MacBook Air 13 inch 2020 M1 MGND3SA/A ",
+        "cost": "28.990.000 VN\u0110",
+        "specifications": "CPU Apple M1 chip 8-core CPU with 4 perform\u00adance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 7-core GPU, Color Gold (V\u00e0ng), Weight 1.29 Kg, OS macOS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_1.jpg",
+            "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_4.jpg",
+            "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_3.jpg",
+            "https://cdn.ankhang.vn/media/product/18876_18879_macbook_air_13_inch_2020_m1_mgne3saa_2.jpg"
+        ],
+        "details": [
+            "",
+            "M\u1ed9t s\u1ea3n ph\u1ea9m cao c\u1ea5p \u0111\u1ebfn t\u1eeb h\u00e3ng Apple. MacBook Air 13inch 2020 M1 MGND3SA/A hi\u1ec7n th\u00e2n v\u1edbi m\u00e0u v\u00e0ng sang tr\u1ecdng, b\u1ed9 c\u1ea5u h\u00ecnh m\u1ea1nh m\u1ebd, c\u00f3 th\u1ec3 chinh ph\u1ee5c \u0111\u01b0\u1ee3c m\u1ecdi t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng m\u1ed9t c\u00e1ch nhanh ch\u00f3ng, th\u1eddi l\u01b0\u1ee3ng pin l\u1ea1i c\u1ef1c d\u00e0i, m\u1ed9t s\u1ea3n ph\u1ea9m l\u00fd t\u01b0\u1edfng \u0111\u1ec3 b\u1ea1n c\u00f3 \u0111\u01b0\u1ee3c t\u00ednh c\u01a1 \u0111\u1ed9ng cao cho m\u1ed7i l\u1ea7n di chuy\u1ec3n.",
+            "THI\u1ebeT K\u1ebe",
+            "\u00a0",
+            "Khi nh\u1eafc t\u1edbi d\u00f2ng s\u1ea3n ph\u1ea9m c\u1ee7a Apple, ng\u01b0\u1eddi d\u00f9ng hay li\u00ean t\u01b0\u1edfng t\u1edbi m\u1ed9t c\u00e1i g\u00ec \u0111\u00f3 th\u1eadt cao c\u1ea5p v\u00e0 c\u00f3 th\u1ec3 ph\u1ea3i l\u00e0 m\u1ed9t ng\u01b0\u1eddi th\u1eadt c\u00f3 \u0111i\u1ec1u ki\u1ec7n m\u1edbi c\u00f3 th\u1ec3 s\u1edf h\u1eefu \u0111\u01b0\u1ee3c s\u1ea3n ph\u1ea9m c\u1ee7a h\u00e3ng s\u1ea3n xu\u1ea5t n\u00e0y. Nh\u01b0ng trong nh\u1eefng n\u0103m g\u1ea7n \u0111\u00e2y, s\u1ef1 c\u1ea3i ti\u1ebfn \u0111\u1ebfn t\u1eeb h\u00e3ng s\u1ea3n xu\u1ea5t n\u00e0y \u0111\u00e3 gi\u00fap cho ng\u01b0\u1eddi d\u00f9ng b\u1edbt \u0111au v\u00ed khi l\u1ef1a ch\u1ecdn \u0111\u1ed3ng h\u00e0nh c\u00f9ng s\u1ea3n ph\u1ea9m. M\u1ee9c gi\u00e1 c\u1ee7a nh\u00e0 s\u1ea3n xu\u1ea5t \u0111\u01b0a ra kh\u00f4ng qu\u00e1 cao, ch\u1ec9 h\u01a1n 20 tri\u1ec7u\u00a0l\u00e0 b\u1ea1n c\u00f3 th\u1ec3 s\u1edf h\u1eefu \u0111\u01b0\u1ee3c chi\u1ebfc MacBook Air 13inch M1 2020 n\u00e0y r\u1ed3i.",
+            "MacBook Air 13inch 2020 M1 MGND3SA/A c\u00f3 m\u1ed9t thi\u1ebft k\u1ebf gi\u1ed1ng nh\u01b0 nh\u1eefng anh em \u0111\u00e3 ra \u0111\u1eddi tr\u01b0\u1edbc \u0111\u00f3, n\u00f3 kh\u00f4ng \u0111\u01b0\u1ee3c c\u1ea3i ti\u1ebfn nhi\u1ec1u v\u1ec1 m\u1eb7t thi\u1ebft k\u1ebf nh\u01b0ng hi\u1ec7u n\u0103ng c\u1ee7a n\u00f3 l\u1ea1i \u0111\u01b0\u1ee3c s\u00e1nh ngang ng\u1eeda v\u1edbi nh\u1eefng chi\u1ebfc MacBook Pro r\u1ed3i. \u0110\u00e2y l\u00e0 m\u1ed9t d\u00f2ng s\u1ea3n ph\u1ea9m \u0111\u1eb9p, sang tr\u1ecdng nh\u1ea5t tr\u00ean th\u1ecb tr\u01b0\u1eddng hi\u1ec7n nay, bao b\u1ecdc b\u1edfi l\u1edbp khung kim lo\u1ea1i v\u00f4 c\u00f9ng ch\u1eafc ch\u1eafn, c\u00e2n n\u1eb7ng ch\u1ec9 c\u00f3 1.27kg v\u00e0 nh\u00ecn n\u00f3 gi\u1ed1ng nh\u01b0 m\u1ed9t t\u1edd gi\u1ea5y A4 v\u1eady.",
+            "",
+            "Tuy r\u1eb1ng, MacBook Air 13inch 2020 M1 MGND3SA/A kh\u00f4ng c\u00f2n l\u00e0 chi\u1ebfc laptop m\u1ecfng nh\u1eb9 nh\u1ea5t th\u00ec tr\u01b0\u1eddng, nh\u01b0ng v\u1ec1 t\u00ednh c\u01a1 \u0111\u1ed9ng s\u1ea3n ph\u1ea9m v\u1eabn \u0111\u01b0\u1ee3c \u0111\u00e1nh gi\u00e1 \u1edf m\u1ee9c cao, d\u1ec5 d\u00e0ng mang theo m\u1ed7i khi di chuy\u1ec3n m\u00e0 kh\u00f4ng h\u1ec1 c\u1ea3m th\u1ea5y v\u01b0\u1edbng v\u00edu, kh\u00f3 ch\u1ecbu.",
+            "S\u1ea3n ph\u1ea9m c\u00f2n \u0111\u01b0\u1ee3c trang b\u1ecb t\u1edbi hai c\u1ed5ng Thunderbolt 3 t\u1ed1c \u0111\u1ed9 truy\u1ec1n l\u00ean t\u1edbi 40Gb/s \u0111\u1ec3 b\u1ea1n c\u00f3 th\u1ec3 trao \u0111\u1ed5i d\u1eef li\u1ec7u t\u1edbi c\u00e1c thi\u1ebft b\u1ecb b\u00ean ngo\u00e0i m\u1ed9t c\u00e1ch nhanh ch\u00f3ng. M\u00e1y c\u00f2n \u0111\u01b0\u1ee3c t\u00edch h\u1ee3p c\u00f4ng ngh\u1ec7 m\u1ea1ng kh\u00f4ng d\u00e2y wifi 6 v\u1edbi t\u1ed1c \u0111\u1ed9 \u0111\u01b0\u1eddng truy\u1ec1n \u1ed5n \u0111\u1ecbnh, Bluetooth ti\u1ec7n l\u1ee3i cho m\u1ed7i l\u1ea7n trao \u0111\u1ed5i h\u00ecnh \u1ea3nh, v\u00e0 nhi\u1ec1u \u0111i\u1ec1u th\u00fa v\u1ecb n\u1eefa m\u00e0 t\u00f4i ch\u01b0a th\u1ec3 k\u1ec3 h\u1ebft.",
+            "M\u00c0N H\u00ccNH VI\u1ec0N M\u1eceNG H\u01a0N",
+            "",
+            "M\u00e0n h\u00ecnh c\u1ee7a MacBook Air 13inch 2020 M1 MGND3SA/A \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf v\u1edbi l\u1edbp vi\u1ec1n kh\u00e1 m\u1ecfng. K\u00edch th\u01b0\u1edbc m\u00e0n h\u00ecnh 13.3inch v\u1edbi \u0111\u1ed9 ph\u00e2n gi\u1ea3i 2560x1600, m\u00e0n h\u00ecnh Retina v\u1edbi t\u1ea5m n\u1ec1n IPS mang t\u1edbi m\u1ed9t g\u00f3c nh\u00ecn r\u1ed9ng r\u00e3i v\u00e0 s\u1eafc n\u00e9t t\u1eeb nhi\u1ec1u h\u01b0\u1edbng. V\u1edbi \u0111\u1ed9 s\u00e1ng l\u00ean t\u1edbi 365nits th\u00ec ho\u00e0n to\u00e0n c\u00f3 th\u1ec3 \u0111\u00e1p \u1ee9ng \u0111\u01b0\u1ee3c \u0111i\u1ec1u ki\u1ec7n l\u00e0m vi\u1ec7c \u1edf \u00e1nh s\u00e1ng ngo\u00e0i tr\u1eddi. Tuy r\u1eb1ng, n\u00f3 kh\u00f4ng th\u1eadt s\u1ef1 s\u1eafc n\u00e9t nh\u01b0ng nh\u1eefng m\u00e0n h\u00ecnh s\u1eed d\u1ee5ng c\u00f4ng ngh\u1ec7 OLED nh\u01b0ng theo c\u00e1 nh\u00e2n m\u00ecnh th\u00ec s\u1ea3n ph\u1ea9m v\u1eabn \u0111\u1ea3m b\u1ea3o \u0111\u00e1p \u1ee9ng \u0111\u1ee7 cho nhu c\u1ea7u s\u1eed d\u1ee5ng h\u00e0ng ng\u00e0y v\u1edbi \u0111\u1ed9 n\u00e9t t\u1ef1 nhi\u00ean v\u00e0 r\u00f5 r\u00e0ng nh\u01b0 ngo\u00e0i \u0111\u1eddi th\u1ef1c.",
+            "HI\u1ec6U N\u0102NG KH\u1eceE H\u01a0N",
+            "",
+            "MacBook Air 13inch 2020 M1 MGND3SA/A \u0111\u00e3 s\u1eed d\u1ee5ng m\u1ed9t con chip M1 \u0111\u1ec3 l\u00e0m n\u00ean s\u1ee9c m\u1ea1nh cho ch\u00ednh m\u00ecnh. Con chip n\u00e0y c\u00f3 t\u1ed1c \u0111\u1ed9 x\u1eed l\u00fd nhanh h\u01a1n g\u1ea5p 3.5 l\u1ea7n so v\u1edbi th\u1ebf h\u1ec7 ti\u1ec1n nhi\u1ec7m tr\u01b0\u1edbc \u0111\u00f3, n\u00f3 \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t d\u1ef1a tr\u00ean ti\u1ebfn tr\u00ecnh 5nm v\u00e0 bao g\u1ed3m 8 l\u00f5i trong \u0111\u00f3 c\u00f3 (4 l\u1ed7i ti\u1ebft ki\u1ec7m \u0111i\u1ec7n v\u00e0 4 l\u00f5i d\u00e0nh \u0111\u1ec3 x\u1eed l\u00fd cho c\u00f4ng vi\u1ec7c). \u0110\u1ed1i v\u1edbi c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng th\u00ec s\u1ea3n ph\u1ea9m c\u00f3 th\u1ec3 ch\u1ea1y m\u01b0\u1ee3t v\u1edbi work, excel, powerpoint\u2026 th\u1eadm ch\u00ed n\u00f3 c\u00f2n c\u00f3 th\u1ec3 ch\u1ec9nh s\u1eeda h\u00ecnh \u1ea3nh 2D tr\u00ean c\u00e1c ph\u1ea7n m\u1ec1m nh\u01b0: AI, Psd\u2026",
+            "M\u1ed9t card \u0111\u1ed3 h\u1ecda \u0111i c\u00f9ng c\u00f3 hi\u1ec7u su\u1ea5t v\u01b0\u1ee3t tr\u1ed9i, gi\u00fap b\u1ea1n c\u00f3 th\u1ec3 s\u00e1ng t\u1ea1o n\u1ed9i dung, render video \u1edf th\u1ec3 nh\u1eb9 v\u1edbi ch\u1ea5t l\u01b0\u1ee3ng h\u00ecnh \u1ea3nh \u1edf m\u1ee9c cao. B\u1ed9 nh\u1edb trong t\u00edch h\u1ee3p 8GB, \u1ed5 c\u1ee9ng SSD 256GB s\u1ebd gi\u00fap b\u1ea1n l\u01b0u tr\u1eef v\u00e0 t\u0103ng t\u1ed1c \u0111\u1ed9 cho m\u00e1y t\u00ednh, gi\u1ea3m b\u1edbt t\u00ecnh tr\u1ea1ng lag gi\u1eadt khi l\u00e0m vi\u1ec7c v\u1edbi nhi\u1ec1u \u1ee9ng d\u1ee5ng trong c\u00f9ng m\u1ed9t l\u00fac.",
+            "B\u00c0N PH\u00cdM",
+            "",
+            "B\u00e0n ph\u00edm c\u1ee7a s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c v\u00ed nh\u01b0 m\u1ed9t c\u00e2y \u0111\u0169a th\u1ea7n v\u1eady, h\u00e0nh tr\u00ecnh ph\u00edm 1mm mang l\u1ea1i kh\u1ea3 n\u0103ng g\u00f5 nh\u1ea1y b\u00e9n, tho\u1ea3i m\u00e1i v\u00e0 \u0111\u1eb7c bi\u1ec7t l\u00e0 c\u1ef1c k\u1ef3 y\u00ean t\u0129nh n\u1eefa. B\u00e0n ph\u00edm \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u00e8n n\u1ec1n v\u1eeba t\u1ea1o c\u1ea3m gi\u00e1c sang tr\u1ecdng, v\u1eeba gi\u00fap \u00edch cho ng\u01b0\u1eddi d\u00f9ng hay ph\u1ea3i l\u00e0m vi\u1ec7c trong b\u00f3ng t\u1ed1i.",
+            "B\u00e0n di chu\u1ed9t c\u1ee7a s\u1ea3n ph\u1ea9m c\u00f3 k\u00edch th\u01b0\u1edbc kh\u00e1 r\u1ed9ng, \u0111\u1ed9 nh\u1ea1y b\u00e9n cao v\u00e0 b\u1ea1n c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng n\u00f3 \u0111\u1ec3 thay th\u1ebf cho chu\u1ed9t r\u1eddi. Ho\u1eb7c n\u1ebfu b\u1ea1n th\u00edch s\u1eed d\u1ee5ng chu\u1ed9t r\u1eddi th\u00ec c\u00f3 th\u1ebf tham kh\u1ea3o th\u00eam chu\u1ed9t:\u00a0Apple Magic Mouse 2021 - MK2E3ZA/A",
+            "M\u1ed9t \u0111i\u1ec3m \u0111\u1eb7c bi\u1ec7t n\u1eefa \u1edf khu v\u1ef1c b\u00e0n ph\u00edm \u0111\u00f3 ch\u00ednh l\u00e0 chi\u1ebfu ngh\u1ec9 tay, gi\u1edbi ng\u01b0\u1eddi d\u00f9ng \u0111\u00e1nh gi\u00e1 kh\u00e1 cao v\u1ec1 chi\u1ebfu ngh\u1ec9 tay c\u1ee7a s\u1ea3n ph\u1ea9m, n\u00f3 \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf kh\u00e1 c\u00e2n \u0111\u1ed1i. Khi b\u1ea1n \u0111\u00e1nh m\u00e1y trong th\u1eddi gian d\u00e0i th\u00ec \u0111\u00e2y ch\u00ednh l\u00e0 \u0111i\u1ec3m l\u00fd t\u01b0\u1edfng cho ph\u1ea7n c\u1ed5 tay b\u1ea1n ngh\u1ec9 ng\u01a1i m\u00e0 kh\u00f4ng b\u1ecb m\u1ecfi ph\u1ea7n x\u01b0\u01a1ng c\u1ee7a c\u1ed5 tay.",
+            "B\u1ea2O M\u1eacT AN TO\u00c0N",
+            "",
+            "MacBook Air 13inch 2020 M1 MGND3SA/A \u0111\u01b0\u1ee3c t\u00edch h\u1ee3p b\u1ea3o m\u1eadt v\u00e2n tay, gi\u00fap ng\u01b0\u1eddi d\u00f9ng m\u1edf m\u00e1y nhanh ch\u00f3ng v\u00e0 an to\u00e0n ch\u1ec9 sau m\u1ed9t c\u00e1i ch\u1ea1m nh\u1eb9. \u1ede s\u1ea3n ph\u1ea9m, b\u1ea3o m\u1eadt v\u00e2n tay kh\u00f4ng ch\u1ec9 gi\u00fap m\u1edf kh\u00f3a m\u00e1y t\u00ednh, m\u00e0 n\u00f3 c\u00f2n \u1ee9ng d\u1ee5ng \u0111\u01b0\u1ee3c nhi\u1ec1u v\u00e0o vi\u1ec7c x\u00e1c nh\u1eadn th\u00f4ng tin mua s\u1eafm online ho\u1eb7c khi b\u1ea1n truy c\u1eadp v\u00e0o c\u00e1c t\u00e0i li\u1ec7u b\u1ea3o m\u1eadt m\u00e0 kh\u00f4ng c\u1ea7n ph\u1ea3i nh\u1eadp m\u1eadt kh\u1ea9u.",
+            "PIN TH\u1edcI L\u01af\u1ee2NG D\u00c0I",
+            "\u0110i\u1ec3m cu\u1ed1i c\u00f9ng m\u00e0 An Khang mu\u1ed1n nh\u1eafc t\u1edbi \u1edf s\u1ea3n ph\u1ea9m \u0111\u00f3 ch\u00ednh l\u00e0 th\u1eddi l\u01b0\u1ee3ng pin. Tr\u1ea3i qua b\u00e0i test v\u1ec1 th\u1eddi l\u01b0\u1ee3ng s\u1eed d\u1ee5ng pin, m\u1ed9t k\u1ebft qu\u1ea3 kinh ng\u1ea1c \u0111\u1ebfn t\u1eeb h\u00e3ng s\u1ea3n xu\u1ea5t, MacBook Air 13inch M1 2020 c\u00f3 th\u1eddi l\u01b0\u1ee3ng pin \u0111\u1ea1t t\u1edbi m\u1ee9c h\u01a1n 14h \u0111\u1ed3ng h\u1ed3. \u0110\u00e2y l\u00e0 m\u1ed9t con s\u1ed1 kh\u00f4ng h\u1ec1 nh\u1ecf, c\u00f3 l\u1ebd \u0111\u1ec3 \u0111\u1ea1t \u0111\u01b0\u1ee3c con s\u1ed1 n\u00e0y, h\u00e3ng s\u1ea3n xu\u1ea5t \u0111\u00e3 ph\u1ea3i n\u00e2ng c\u1ea5p v\u00e0 c\u1ea3i ti\u1ebfn kh\u00e1 nhi\u1ec1u v\u1ec1 hi\u1ec7u n\u0103ng b\u00ean trong. Nh\u01b0 v\u1eady, b\u1ea1n ho\u00e0n to\u00e0n c\u00f3 th\u1ec3 mang m\u00e1y theo l\u00e0m vi\u1ec7c su\u1ed1t c\u1ea3 ng\u00e0y d\u00e0i m\u00e0 kh\u00f4ng ph\u1ea3i lo l\u1eafng v\u1ec1 vi\u1ec7c h\u1ebft pin khi \u0111ang l\u00e0m vi\u1ec7c n\u1eefa r\u1ed3i.",
+            "PH\u1ea6N K\u1ebeT:",
+            "MacBook Air 13inch M1 2020 l\u00e0 chi\u1ebfc\u00a0laptop cao c\u1ea5p h\u1ed9i t\u1ee5 \u0111\u1ea7y \u0111\u1ee7 v\u1ebb \u0111\u1eb9p b\u00ean ngo\u00e0i v\u00e0 hi\u1ec7u n\u0103ng b\u00ean trong. \u0110\u1ebfn th\u1eddi \u0111i\u1ec3m hi\u1ec7n t\u1ea1i th\u00ec h\u00e3ng Apple v\u1eabn lu\u00f4n c\u1ed1 g\u1eafng \u0111\u1ec3 cho ra m\u1eaft nhi\u1ec1u d\u00f2ng s\u1ea3n ph\u1ea9m m\u1edbi v\u1edbi hi\u1ec7u n\u0103ng kh\u1ecfe h\u01a1n, gi\u00e1 th\u00e0nh r\u1ebb h\u01a1n \u0111\u1ec3 ng\u01b0\u1eddi d\u00f9ng d\u1ec5 ti\u1ebfp c\u1eadn v\u00e0 s\u1eed d\u1ee5ng. B\u1ea1n \u0111\u00e1nh gi\u00e1 th\u1ebf n\u00e0o v\u1ec1 s\u1ea3n ph\u1ea9m m\u1ecfng nh\u1eb9 n\u00e0y, h\u00e3y comment ngay b\u00ean d\u01b0\u1edbi ho\u1eb7c li\u00ean h\u1ec7 t\u1edbi HOTLINE 1900 2655 \u0111\u1ec3 \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 b\u1ea1n nh\u00e9."
+        ]
+    },
+    {
+        "id_prodcut": "18885",
+        "name": " MacBook Pro 13 inch 2020 M1 MYD82SA/A ",
+        "cost": "36.990.000 VN\u0110",
+        "specifications": "CPU Apple M1 chip 8-core CPU with 4 performance cores and 4 efficiency cores, RAM 8GB, SSD 256GB, Display 13.3Inch 2560x1600 IPS LED-backlit , VGA 8-core GPU, Color Space Grey (X\u00e1m), Weight 1.40 Kg, OS macOS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_1.jpg",
+            "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_6.jpg",
+            "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_5.jpg",
+            "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_4.jpg",
+            "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_3.jpg",
+            "https://cdn.ankhang.vn/media/product/18885_18887_macbook_pro_13_inch_2020_m1_myd92saa_2.jpg"
+        ],
+        "details": [
+            "",
+            "M\u1eabu MacBook Pro 13 inch 2020 c\u00f3 thi\u1ebft k\u1ebf kh\u00e1 gi\u1ed1ng v\u1edbi ng\u01b0\u1eddi ti\u1ec1n nhi\u1ec7m.\u00a0N\u00f3 c\u00f3 c\u00f9ng m\u1ed9t khung nh\u00f4m c\u0169, tr\u00f4ng v\u00e0 c\u1ea3m th\u1ea5y ch\u1eafc ch\u1eafn.",
+            "M\u1eb7c d\u00f9 c\u00f3 thi\u1ebft k\u1ebf t\u01b0\u01a1ng t\u1ef1, nh\u01b0ng m\u00f4 h\u00ecnh 2020 d\u00e0y v\u00e0 n\u1eb7ng h\u01a1n m\u1ed9t ch\u00fat so v\u1edbi m\u00f4 h\u00ecnh 2019.\u00a0N\u00f3 c\u00f3 k\u00edch th\u01b0\u1edbc 11,97 x 8,36 x 0,61 inch v\u00e0 n\u1eb7ng\u00a01.4\u00a0kg so v\u1edbi ng\u01b0\u1eddi ti\u1ec1n nhi\u1ec7m c\u1ee7a n\u00f3\u00a0",
+            "Khi b\u1ea1n m\u1edf n\u1eafp ph\u1eb3ng, tr\u01a1n tru, c\u00f3 m\u1ed9t s\u1ef1 thay \u0111\u1ed5i l\u1edbn tr\u00ean m\u00e1y t\u00ednh x\u00e1ch tay so v\u1edbi m\u1eabu 2019.\u00a0Apple \u0111\u00e3 thay th\u1ebf b\u00e0n ph\u00edm chuy\u1ec3n \u0111\u1ed5i Butterfly g\u00e2y tranh c\u00e3i b\u1eb1ng 'B\u00e0n ph\u00edm ma thu\u1eadt' m\u1edbi.",
+            "B\u00e0n ph\u00edm Magic m\u1edbi c\u00f3 c\u01a1 ch\u1ebf c\u1eaft k\u00e9o tinh t\u1ebf v\u1edbi h\u00e0nh tr\u00ecnh 1 mm, do \u0111\u00f3, mang l\u1ea1i tr\u1ea3i nghi\u1ec7m \u0111\u00e1nh m\u00e1y t\u1ed1t nh\u1ea5t ch\u01b0a t\u1eebng c\u00f3 tr\u00ean m\u00e1y t\u00ednh x\u00e1ch tay Mac.",
+            "C\u00f3 ph\u00edm Escape chuy\u00ean d\u1ee5ng cho ph\u00e9p chuy\u1ec3n \u0111\u1ed5i nhanh gi\u1eefa c\u00e1c ch\u1ebf \u0111\u1ed9 v\u00e0 ch\u1ebf \u0111\u1ed9 xem.\u00a0H\u01a1n n\u1eefa, c\u00e1c ph\u00edm m\u0169i t\u00ean ch\u1eef T ng\u01b0\u1ee3c m\u1edbi gi\u00fap b\u1ea1n l\u01b0\u1edbt qua c\u00e1c d\u00f2ng m\u00e3, b\u1ea3ng t\u00ednh ho\u1eb7c m\u00f4i tr\u01b0\u1eddng tr\u00f2 ch\u01a1i.",
+            "B\u00e0n ph\u00edm n\u00e0y c\u0169ng c\u00f3 Touch Bar \u0111\u1eb7t c\u00e1c ph\u00edm t\u1eaft m\u1ea1nh m\u1ebd \u1edf ph\u00eda tr\u01b0\u1edbc v\u00e0 ch\u00ednh gi\u1eefa v\u00e0 Touch ID cung c\u1ea5p kh\u1ea3 n\u0103ng x\u00e1c th\u1ef1c nhanh ch\u00f3ng.",
+            "",
+            "B\u00ean d\u01b0\u1edbi b\u00e0n ph\u00edm l\u00e0 m\u1ed9t touchpad l\u1edbn v\u00e0 m\u01b0\u1ee3t m\u00e0 \u0111\u1ec3 d\u1ec5 d\u00e0ng \u0111i\u1ec1u h\u01b0\u1edbng v\u00e0 \u0111i\u1ec1u khi\u1ec3n.",
+            "Tr\u00ean h\u1ebft, Apple Macbook Pro 13-inch (2020) \u0111i k\u00e8m v\u1edbi hai c\u1ed5ng USB-C / Thunderbolt 3, \u0111\u01b0\u1ee3c \u0111\u1eb7t \u1edf ph\u00eda b\u00ean ph\u1ea3i.\u00a0Tuy nhi\u00ean, \u1edf b\u00ean tr\u00e1i, \u0111\u1eb7t gi\u1eafc c\u1eafm \u00e2m thanh \u0111\u1ec3 c\u1eafm tai nghe.\u00a0M\u1ed9t s\u1ed1 m\u1eabu 13 inch c\u0169ng s\u1ebd b\u1ed5 sung th\u00eam hai c\u1ed5ng USB-C / Thunderbolt 3 \u1edf ph\u00eda b\u00ean ph\u1ea3i.",
+            "",
+            "Apple MacBook Pro (2020) v\u1eabn duy tr\u00ec m\u00e0n h\u00ecnh Retina 13,3 inch truy\u1ec1n th\u1ed1ng \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng tr\u00ean m\u00e0n h\u00ecnh IPS LCD.\u00a0Do \u0111\u00f3, n\u00f3 s\u1eed d\u1ee5ng \u0111\u00e8n n\u1ec1n LED s\u00e1ng v\u00e0 mang l\u1ea1i m\u00e0u \u0111en s\u00e2u v\u00e0 da tr\u1eafng s\u00e1ng.",
+            "M\u00e0n h\u00ecnh n\u00e0y c\u00f3 \u0111\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c l\u00e0 2.560 x 1.600 d\u1eabn \u0111\u1ebfn m\u1eadt \u0111\u1ed9 227 pixel v\u1edbi h\u1ed7 tr\u1ee3 h\u00e0ng tri\u1ec7u m\u00e0u, do \u0111\u00f3, m\u00e0n h\u00ecnh s\u00e1ng v\u00e0 s\u1eafc n\u00e9t.",
+            "Apple Macbook Pro 13-inch (2020) c\u0169ng h\u1ed7 tr\u1ee3 m\u00e0u r\u1ed9ng P3 cho m\u00e0u xanh v\u00e0 \u0111\u1ecf r\u1ef1c r\u1ee1 h\u01a1n so v\u1edbi sRGB.",
+            "Ngo\u00e0i ra, gi\u1ed1ng nh\u01b0 m\u1ecdi MacBook Pro,M\u00e1y t\u00ednh\u00a0n\u00e0y\u00a0c\u00f3 c\u00f4ng ngh\u1ec7 True Tone t\u1ef1 \u0111\u1ed9ng \u0111i\u1ec1u ch\u1ec9nh nhi\u1ec7t \u0111\u1ed9 m\u00e0u t\u00f9y thu\u1ed9c v\u00e0o \u00e1nh s\u00e1ng xung quanh, do \u0111\u00f3, mang l\u1ea1i tr\u1ea3i nghi\u1ec7m xem t\u1ef1 nhi\u00ean h\u01a1n.",
+            "H\u01a1n h\u1ebft, Apple Macbook Pro 13-inch (2020) c\u00f3 \u0111\u1ed9 s\u00e1ng l\u00ean \u0111\u1ebfn 500 nit, do \u0111\u00f3, n\u00f3 cho ph\u00e9p ng\u01b0\u1eddi d\u00f9ng t\u1eadn h\u01b0\u1edfng t\u1ed1t nh\u1ea5t t\u1ea5t c\u1ea3 c\u00e1c ho\u1ea1t \u0111\u1ed9ng tr\u00ean m\u00e0n h\u00ecnh: ch\u01a1i game, \u0111\u1ecdc v\u00e0 xem video.",
+            "",
+            "MacBook Pro 2020 s\u1edf h\u1eefu con chip M1 \u0111\u1ed9c quy\u1ec1n cho d\u00f2ng Macbook \u0111\u01b0\u1ee3c ph\u00e1t tri\u1ec3n v\u1edbi ki\u1ebfn tr\u00fac ARM m\u1edbi v\u1edbi nhi\u1ec1u t\u00ednh n\u0103ng \u0111\u00e1ng ng\u1ea1c nhi\u00ean, t\u0103ng hi\u1ec7u su\u1ea5t t\u1ed1i \u0111a cho m\u00e1y. C\u00f9ng CPU 8 l\u00f5i cho hi\u1ec7u su\u1ea5t cao h\u01a1n \u0111\u1ebfn 3.5 l\u1ea7n, b\u1ea1n d\u1ec5 d\u00e0ng x\u1eed l\u00fd c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng c\u00f3 dung l\u01b0\u1ee3ng cao tr\u00ean c\u00e1c ph\u1ea7n m\u1ec1m Word, Excel,...",
+            "Kh\u00f4ng ch\u1ec9 v\u1eady, m\u00e1y n\u00e2ng cao t\u1ed1i \u0111a hi\u1ec7u n\u0103ng ph\u1ee5c v\u1ee5 nhu c\u1ea7u \u0111\u1ed3 ho\u1ea1 ph\u1ee9c t\u1ea1p tr\u00ean c\u00e1c ph\u1ea7n m\u1ec1m AI, Photoshop,...ho\u1ea1t \u0111\u1ed9ng tr\u01a1n tru h\u01a1n. Tho\u1ea3 s\u1ee9c s\u00e1ng t\u1ea1o n\u1ed9i dung, s\u1eed d\u1ee5ng m\u01b0\u1edbt c\u00e1c thao t\u00e1c nh\u01b0 render video, k\u1ebft xu\u1ea5t 3D, ph\u00e1t tr\u1ef1c ti\u1ebfp tuy\u1ec7t v\u1eddi v\u1edbi \u0111\u1ed9 n\u00e9t cao l\u00ean \u0111\u1ebfn 4K v\u00e0 ti\u1ebft ki\u1ec7m \u0111\u01b0\u1ee3c \u0111i\u1ec7n n\u0103ng cho m\u00e1y.",
+            "RAM 8 GB \u0111\u00e1p \u1ee9ng t\u1ed1t \u0111a nhi\u1ec7m, b\u1ea1n d\u00f9ng nhi\u1ec1u \u1ee9ng d\u1ee5ng c\u00f9ng l\u00fac \u1ed5n \u0111\u1ecbnh h\u01a1n, tr\u00e1nh b\u1ecb gi\u1eadt lag khi thao t\u00e1c, b\u1ea1n l\u01b0\u1edbt web nhanh h\u01a1n, c\u00e1c \u1ee9ng d\u1ee5ng v\u0103n ph\u00f2ng m\u01b0\u1ee3t m\u00e0 h\u01a1n, x\u1eed l\u00fd c\u00f4ng vi\u1ec7c trong thi\u1ebft k\u1ebf \u0111\u1ed3 ho\u1ea1 m\u1ed9t c\u00e1ch d\u1ec5 d\u00e0ng. Ngo\u00e0i ra, b\u1ea1n c\u0169ng c\u00f3 th\u1ec3 ch\u01a1i nh\u1eefng t\u1ef1a game ph\u1ed5 bi\u1ebfn \u0111\u1ec3 gi\u1ea3i tr\u00ed nh\u01b0 PUBG, League of Legends, Call of Duty,...",
+            "Nh\u1edd \u1ed5 c\u1ee9ng SSD 256 GB th\u1eddi gian kh\u1edfi \u0111\u1ed9ng m\u00e1y ho\u1eb7c m\u1edf c\u00e1c ph\u1ea7n m\u1ec1m n\u1eb7ng \u0111\u01b0\u1ee3c ti\u1ebft ki\u1ec7m h\u01a1n, t\u1ed1c \u0111\u1ed9 \u0111\u1ecdc ghi th\u00f4ng tin c\u0169ng \u0111\u01b0\u1ee3c c\u1ea3i thi\u1ec7n nhanh ch\u00f3ng. Ngo\u00e0i ra, b\u1ea1n c\u00f3 th\u1ec3 l\u01b0u tr\u1eef c\u00e1c d\u1eef li\u1ec7u trong c\u00f4ng vi\u1ec7c, c\u00e1c b\u1ed9 phim hay,... thu\u1eadn ti\u1ec7n.",
+            "",
+            "Macbook Pro 13-inch (2020) c\u00f3 \u00e2m tr\u01b0\u1eddng s\u1ed1ng \u0111\u1ed9ng cho c\u1ea3m gi\u00e1c v\u00e0 \u00e2m thanh r\u1ed9ng h\u01a1n nhi\u1ec1u so v\u1edbi k\u00edch th\u01b0\u1edbc v\u1eadt l\u00fd c\u1ee7a n\u00f3.\u00a0Ngo\u00e0i ra c\u00f2n c\u00f3 ba micr\u00f4 t\u00edch h\u1ee3p t\u1ea1o th\u00e0nh ch\u00f9m tia \u0111\u1ecbnh h\u01b0\u1edbng gi\u00fap thu gi\u1ecdng n\u00f3i c\u1ee7a b\u1ea1n r\u00f5 r\u00e0ng h\u01a1n cho c\u00e1c cu\u1ed9c g\u1ecdi FaceTime.",
+            "N\u00f3 c\u0169ng \u0111i k\u00e8m v\u1edbi chip b\u1ea3o m\u1eadt T2, silicon t\u00f9y ch\u1ec9nh Mac th\u1ebf h\u1ec7 th\u1ee9 hai c\u1ee7a Apple \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf \u0111\u1ec3 gi\u00fap m\u1ecdi th\u1ee9 b\u1ea1n l\u00e0m tr\u1edf n\u00ean an to\u00e0n h\u01a1n.",
+            "N\u00f3 bao g\u1ed3m m\u1ed9t b\u1ed9 \u0111\u1ed3ng x\u1eed l\u00fd Secure Enclave cung c\u1ea5p n\u1ec1n t\u1ea3ng cho kh\u1ea3 n\u0103ng kh\u1edfi \u0111\u1ed9ng an to\u00e0n v\u00e0 l\u01b0u tr\u1eef \u0111\u01b0\u1ee3c m\u00e3 h\u00f3a.\u00a0Con chip n\u00e0y c\u0169ng h\u1ee3p nh\u1ea5t nhi\u1ec1u b\u1ed9 \u0111i\u1ec1u khi\u1ec3n r\u1eddi, bao g\u1ed3m b\u1ed9 \u0111i\u1ec1u khi\u1ec3n qu\u1ea3n l\u00fd h\u1ec7 th\u1ed1ng, b\u1ed9 \u0111i\u1ec1u khi\u1ec3n \u00e2m thanh v\u00e0 b\u1ed9 \u0111i\u1ec1u khi\u1ec3n SSD th\u00e0nh m\u1ed9t.",
+            "M\u00e1y t\u00ednh x\u00e1ch tay n\u00e0y c\u0169ng \u0111i k\u00e8m v\u1edbi m\u1ed9t webcam \u0111\u1ed9 ph\u00e2n gi\u1ea3i 720p cung c\u1ea5p \u0111\u1ed9 chi ti\u1ebft v\u00e0 \u0111\u1ed9 r\u00f5 n\u00e9t c\u1ee7a video t\u1ed1t h\u01a1n.",
+            "H\u01a1n n\u1eefa, Apple gi\u1edbi thi\u1ec7u Macbook Pro 13-inch (2020) v\u1edbi th\u1eddi l\u01b0\u1ee3ng pin m\u1ea1nh m\u1ebd.\u00a0N\u00f3 c\u00f3 pin 58 watt gi\u1edd (v\u00e0 58,2 watt gi\u1edd l\u1edbn h\u01a1n m\u1ed9t ch\u00fat \u1edf m\u00f4 h\u00ecnh c\u1ea5p th\u1ea5p nh\u1ea5t).\u00a0\u01afu \u0111\u00e3i n\u00e0y c\u00f3 th\u1eddi l\u01b0\u1ee3ng pin 10 gi\u1edd \u0111i k\u00e8m v\u1edbi B\u1ed9 \u0111\u1ed5i ngu\u1ed3n USB \u2011 C 61W c\u00f3 th\u1ec3 s\u1ea1c \u0111\u1ea7y m\u00e1y t\u00ednh x\u00e1ch tay trong v\u00f2ng 60 ph\u00fat sau khi s\u1ea1c.",
+            "Cu\u1ed1i c\u00f9ng, h\u00e3y t\u1eadn h\u01b0\u1edfng vi\u1ec7c s\u1eed d\u1ee5ng m\u1ea1ng kh\u00f4ng d\u00e2y Wi-Fi 802.11ac v\u00e0 c\u00e1c t\u00ednh n\u0103ng kh\u00f4ng d\u00e2y Bluetooth 5.0 \u0111\u1ec3 chia s\u1ebb v\u00e0 k\u1ebft n\u1ed1i ho\u00e0n h\u1ea3o."
+        ]
+    },
+    {
+        "id_prodcut": "21075",
+        "name": " MacBook Pro 16 M1 Max- Z14X000G1 ",
+        "cost": "160.589.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 8TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1.jpg",
+            "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21075_apple_macbook_pro_16_m1_max_z14x000g1_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21074",
+        "name": " MacBook Pro 16 M1 Max- Z14X000G0 ",
+        "cost": "128.579.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 4TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0.jpg",
+            "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21074_apple_macbook_pro_16_m1_max_z14x000g0_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21071",
+        "name": " MacBook Pro 16 M1 Max- Z14Y0012P ",
+        "cost": "112.849.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 2TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p.jpg",
+            "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21071_apple_macbook_pro_16_m1_max_z14y0012p_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21073",
+        "name": " MacBook Pro 16 M1 Max- Z14Z000WY ",
+        "cost": "128.579.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 4TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy.jpg",
+            "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21073_apple_macbook_pro_16_m1_max_z14z000wy_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21070",
+        "name": " MacBook Pro 16 M1 Max- Z14X000FZ ",
+        "cost": "112.849.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 2TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz.jpg",
+            "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21070_apple_macbook_pro_16_m1_max_z14x000fz_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21069",
+        "name": " MacBook Pro 16 M1 Max- Z14V0012L ",
+        "cost": "102.179.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color X\u00e1m, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l.jpg",
+            "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21069_apple_macbook_pro_16_m1_max_z14v0012l_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21068",
+        "name": " MacBook Pro 16 M1 Max- Z14Y0012N ",
+        "cost": "102.179.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 32-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n.jpg",
+            "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21068_apple_macbook_pro_16_m1_max_z14y0012n_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21067",
+        "name": " MacBook Pro 16 M1 Max- Z14V0012K ",
+        "cost": "96.459.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 64GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 24-Core GPU, Color Grey (X\u00e1m), Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k.jpg",
+            "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21067_apple_macbook_pro_16_m1_max_z14v0012k_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21066",
+        "name": " MacBook Pro 16 M1 Pro- Z14V00125 ",
+        "cost": "80.619.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color Grey (X\u00e1m), Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125.jpg",
+            "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21066_apple_macbook_pro_16_m1_pro_z14v00125_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21065",
+        "name": " MacBook Pro 16 M1 Pro- Z14Y00124 ",
+        "cost": "80.619.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 1TB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color B\u1ea1c, Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124.jpg",
+            "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21065_apple_macbook_pro_16_m1_pro_z14y00124_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21064",
+        "name": " MacBook Pro 16 M1 Pro- Z14V00122 ",
+        "cost": "75.449.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 512GB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color Grey (X\u00e1m), Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122.jpg",
+            "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21064_apple_macbook_pro_16_m1_pro_z14v00122_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21063",
+        "name": " MacBook Pro 16 M1 Pro- Z14Y00121 ",
+        "cost": "75.449.000 VND",
+        "specifications": "CPU Apple M1 PRO 10-Core, SSD 512GB, RAM 32GB, Display 16.2Inch,\u0110\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c 3456 x 2234 \u1edf 254 pixel m\u1ed7i inch, VGA 16-Core GPU, Color Silver (B\u1ea1c), Weight 2.1kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121.jpg",
+            "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21063_apple_macbook_pro_16_m1_pro_z14y00121_2.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21060",
+        "name": " MacBook Pro 14 M1 MAX- Z15H000VQ ",
+        "cost": "86.119.000 VND",
+        "specifications": "CPU Apple M1 MAX 10-Core CPU, SSD 1TB, RAM 32GB, Display 14.2Inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c (3024 x 1964) \u1edf 254 pixel m\u1ed7i inch, \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a 1600 nits, VGA 32-Core GPU, Color X\u00e1m, Pin lithium-polymer 96watt, Weight 1.6kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq.jpg",
+            "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21060_apple_macbook_pro_14_m1_max_z15h000vq_3.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21059",
+        "name": " MacBook Pro 14 M1 MAX- Z15H000VP ",
+        "cost": "80.619.000 VND",
+        "specifications": "CPU Apple M1 MAX 10-Core CPU, SSD 1TB, RAM 32GB, Display 14.2Inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c (3024 x 1964) \u1edf 254 pixel m\u1ed7i inch, \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a 1600 nits, VGA 24-Core GPU, Color X\u00e1m, Pin lithium-polymer 96watt, Weight 1.6kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp.jpg",
+            "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21059_apple_macbook_pro_14_m1_max_z15h000vp_3.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21058",
+        "name": " MacBook Pro 14 M1 MAX- Z15G001ML ",
+        "cost": "75.449.000 VND",
+        "specifications": "CPU Apple M1 MAX 10-Core CPU, SSD 512GB, RAM 32GB, Display 14.2Inch, \u0111\u1ed9 ph\u00e2n gi\u1ea3i g\u1ed1c (3024 x 1964) \u1edf 254 pixel m\u1ed7i inch, \u0111\u1ed9 s\u00e1ng t\u1ed1i \u0111a 1600 nits, VGA 24-Core GPU, Color X\u00e1m, Pin lithium-polymer 96watt, Weight 1.6kg, OS Mac-OS, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml.jpg",
+            "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21058_apple_macbook_pro_14_m1_max_z15g001ml_3.jpg"
+        ],
+        "details": []
+    }
 ]

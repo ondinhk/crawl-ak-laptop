@@ -1,44 +1,47 @@
 [
-  {
-    "id_prodcut": "21825",
-    "name": " Laptop Intel NUC M15 BBC710ECUXBC1 m\u00e0u x\u00e1m ",
-    "cost": "23.450.000 VN\u0110",
-    "specifications": "CPU Intel Core i7-1165G7 (12MB, up to 4.70GHz), RAM 16GB LPDDR4X 4266MHz (2 x 8GB Onboard) , SSD 512GB NVMe PCIe, VGA Intel Iris Xe Graphics, Display 15.6Inch FHD IPS Touch 60Hz 100%sRGB, Pin 73WHrs, Color Gray (X\u00e1m), Weight 1.65 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_5.jpg",
-      "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_6.jpg",
-      "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_7.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21826",
-    "name": " Laptop Intel NUC M15 BBC510EAUXBC1 b\u1ea3n i5-1135G7 ",
-    "cost": "19.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i5-1135G7 (8MB, up to 4.20GHz), RAM 16GB LPDDR4X 4266MHz (2 x 8GB Onboard) , SSD 512GB NVMe PCIe, VGA Intel Iris Xe Graphics, Display 15.6Inch FHD IPS 60Hz 100%sRGB, Pin 73WHrs, Color Gray (X\u00e1m), Weight 1.65 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_6.jpg",
-      "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_5.jpg",
-      "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_7.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21824",
-    "name": " Laptop Intel NUC M15 BBC710BCUXBC1 (i7-1165G7 | 16GB | 512GB | 15.6FHDT | Win 10 | \u0110en) ",
-    "cost": "23.450.000 VN\u0110",
-    "specifications": "CPU Intel Core i7-1165G7 (12MB, up to 4.70GHz), RAM 16GB LPDDR4X 4266MHz (2 x 8GB Onboard) , SSD 512GB NVMe PCIe, VGA Intel Iris Xe Graphics, Display 15.6Inch FHD IPS Touch 60Hz 100%sRGB, Pin 73WHrs, Color Black (\u0110en), Weight 1.65 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_4.jpg"
-    ]
-  }
+    {
+        "id_prodcut": "21825",
+        "name": " Laptop Intel NUC M15 BBC710ECUXBC1 m\u00e0u x\u00e1m ",
+        "cost": "23.450.000 VN\u0110",
+        "specifications": "CPU Intel Core i7-1165G7 (12MB, up to 4.70GHz), RAM 16GB LPDDR4X 4266MHz (2 x 8GB Onboard) , SSD 512GB NVMe PCIe, VGA Intel Iris Xe Graphics, Display 15.6Inch FHD IPS Touch 60Hz 100%sRGB, Pin 73WHrs, Color Gray (X\u00e1m), Weight 1.65 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_5.jpg",
+            "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_6.jpg",
+            "https://cdn.ankhang.vn/media/product/21825_laptop_intel_nuc_m15_bbc710ecuxbc1_7.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21826",
+        "name": " Laptop Intel NUC M15 BBC510EAUXBC1 b\u1ea3n i5-1135G7 ",
+        "cost": "19.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i5-1135G7 (8MB, up to 4.20GHz), RAM 16GB LPDDR4X 4266MHz (2 x 8GB Onboard) , SSD 512GB NVMe PCIe, VGA Intel Iris Xe Graphics, Display 15.6Inch FHD IPS 60Hz 100%sRGB, Pin 73WHrs, Color Gray (X\u00e1m), Weight 1.65 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_6.jpg",
+            "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_5.jpg",
+            "https://cdn.ankhang.vn/media/product/21826_laptop_intel_nuc_m15_bbc510eauxbc1_7.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21824",
+        "name": " Laptop Intel NUC M15 BBC710BCUXBC1 (i7-1165G7 | 16GB | 512GB | 15.6FHDT | Win 10 | \u0110en) ",
+        "cost": "23.450.000 VN\u0110",
+        "specifications": "CPU Intel Core i7-1165G7 (12MB, up to 4.70GHz), RAM 16GB LPDDR4X 4266MHz (2 x 8GB Onboard) , SSD 512GB NVMe PCIe, VGA Intel Iris Xe Graphics, Display 15.6Inch FHD IPS Touch 60Hz 100%sRGB, Pin 73WHrs, Color Black (\u0110en), Weight 1.65 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21824_laptop_intel_nuc_m15_bbc710bcuxbc1_4.jpg"
+        ],
+        "details": []
+    }
 ]

@@ -1,285 +1,511 @@
 [
-  {
-    "id_prodcut": "21030",
-    "name": " Laptop Gaming  Gigabyte G5 GD-51S1123SO ",
-    "cost": "20.490.000 VN\u0110",
-    "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 3Cell 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_5.jpg",
-      "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_6.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20078",
-    "name": " Laptop Gigabyte AERO 15 OLED YD 73S1624GH ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3080 8GB GDDR6, Display 15.6Inch UHD Samsung AMOLED, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.00 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_6.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20081",
-    "name": " Laptop Gigabyte AERO 15 OLED XD 73S1624GH ",
-    "cost": "48.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3070 8GB GDDR6, Display 15.6Inch UHD Samsung AMOLED, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.00 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_6.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "19934",
-    "name": " Laptop Gaming Gigabyte G5 KC-5S11130SH  ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i5-10500H (12MB, up to 4.50GHz), Chipset Intel HM470, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20085",
-    "name": " Laptop Gigabyte AORUS 15P YD 73S1224GH ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3080 8GB GDDR6, Display 15.6Inch FHD IPS 240Hz, Pin 99WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20091",
-    "name": " Laptop Gigabyte G5 MD 51S1123SH ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20092",
-    "name": " Laptop Gigabyte G7 MD 71S1223SH ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 17.3Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.50 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_6.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20583",
-    "name": " Laptop Gigabyte G5 GD 51S1223SH ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_6.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20899",
-    "name": " Laptop Gigabyte U4 UD-70S1823SO ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i7-1195G7 (12MB, up to 5.00GHz), RAM 16GB DDR4 3200MHz, SSD 512GB M.2 NVMe PCIe, VGA Intel Iris Xe Graphics, Display 14.0Inch FHD IPS Anti-Glare, Pin 36WHrs, Color Gray (X\u00e1m), Weight 990g, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "20902",
-    "name": " Laptop Gaming Gigabyte G5 KC-5S11130SB ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i5-10500H (12MB, up to 4.50GHz), Chipset Intel HM470, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_1.jpg",
-      "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_2.jpg",
-      "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_3.jpg",
-      "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21027",
-    "name": " Laptop Gigabyte AERO 15 OLED KD-72S1623GO ",
-    "cost": "36.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch UHD Samsung AMOLED, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.00 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_5.jpg",
-      "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_6.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21028",
-    "name": " Laptop Gigabyte AORUS 15P XD-73S1324GO ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3070 8GB GDDR6, Display 15.6Inch FHD IPS 300Hz, Pin 99WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21602",
-    "name": " Laptop Gigabyte G5 GD-51VN123SO ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.03 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_5.jpg",
-      "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_6.jpg",
-      "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_7.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21029",
-    "name": " Laptop Gigabyte AORUS 15P KD-72S1223GO ",
-    "cost": "Li\u00ean h\u1ec7",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 240Hz, Pin 99WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21271",
-    "name": " Laptop Gigabyte AERO 16 XE5-73VN938AH ",
-    "cost": "73.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i7-12700H (24MB, up to 4.70GHz), RAM 16GB DDR5 4800MHz (2x8GB), SSD 2TB Gen4 7K (2x1TB), VGA NVIDIA GeForce RTX 3070Ti 8GB GDDR6, Display 16.0Inch UHD Thin Bezel Samsung AMOLED, Pin 99WHrs, Color Silver (B\u1ea1c), Finger Print, Weight 2.30 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21272",
-    "name": " Laptop Gigabyte AORUS 15 XE4-73VNB14GH ",
-    "cost": "52.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i7-12700H (24MB, up to 4.70GHz), RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB Gen4 7K (2x1TB), VGA NVIDIA GeForce RTX 3070Ti 8GB GDDR6, Display 15.6Inch QHD IPS 165Hz, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.30 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21273",
-    "name": " Laptop Gigabyte G5 MD-51S1123SO ",
-    "cost": "21.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21274",
-    "name": " Laptop Gigabyte U4 UD-50S1823SO ",
-    "cost": "16.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i5-1155G7 (8MB, up to 4.50GHz), RAM 16GB DDR4 3200MHz, SSD 512GB M.2 NVMe PCIe, VGA Intel Iris Xe Graphics, Display 14.0Inch FHD IPS Anti-Glare, Pin 36WHrs, Color Light Gray (X\u00e1m), Weight 990g, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_4.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21488",
-    "name": " Laptop Gigabyte G7 MD-71S1123SO ",
-    "cost": "25.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 17.3Inch FHD IPS 72%NTSC, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.50 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_5.jpg",
-      "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_6.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  },
-  {
-    "id_prodcut": "21696",
-    "name": " Laptop Gigabyte G5 KD-52VN123SO ",
-    "cost": "25.990.000 VN\u0110",
-    "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz, SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.18 kg, OS Windows 11 Home, ",
-    "images": [
-      "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_1.jpg",
-      "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_2.jpg",
-      "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_3.jpg",
-      "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_4.jpg",
-      "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_5.jpg",
-      "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
-    ]
-  }
+    {
+        "id_prodcut": "21030",
+        "name": " Laptop Gaming  Gigabyte G5 GD-51S1123SO ",
+        "cost": "20.490.000 VN\u0110",
+        "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 3Cell 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_5.jpg",
+            "https://cdn.ankhang.vn/media/product/21030_laptop_gigabyte_g5_gd_51s1123so_6.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": [
+            "Ch\u00fang ta \u0111\u00e3 qu\u00e1 quen thu\u1ed9c v\u1edbi th\u01b0\u01a1ng hi\u1ec7u Gigabyte v\u1ec1 m\u1ea3ng linh ki\u1ec7n nh\u01b0 bo m\u1ea1ch ch\u1ee7 (mainboard), card \u0111\u1ed3 h\u1ecda (vga), b\u1ed9 vi x\u1eed l\u00fd (cpu), memory (ram), \u1ed5 c\u1ee9ng (ssd,..),.... Tuy nhi\u00ean m\u1edbi c\u00f3 kh\u00e1 \u00edt ng\u01b0\u1eddi bi\u1ebft \u0111\u1ebfn Gigabyte c\u00f2n tri\u1ec3n khai c\u1ea3 m\u1ea3ng m\u00e1y t\u00ednh x\u00e1ch tay gaming v\u1edbi nh\u1eefng m\u00e3 laptop v\u1edbi thi\u1ebft k\u1ebf m\u1ea1nh m\u1ebd, \u1ea5n t\u01b0\u1ee3ng; c\u1ea5u h\u00ecnh kh\u1ee7ng nh\u01b0ng gi\u00e1 th\u00e0nh si\u00eau si\u00eau r\u1ebb. \u0110\u00e2y l\u00e0 m\u1ed9t th\u1ecb tr\u01b0\u1eddng m\u1edbi \u0111\u1ed1i v\u1edbi Gigabyte n\u00ean h\u00e3ng \u0111\u00e3 chi c\u1ef1c m\u1ea1nh tay cho c\u1ea5u h\u00ecnh, t\u1ea1o ra nh\u1eefng con qu\u00e1i v\u1eadt si\u00eau kh\u1ee7ng nh\u01b0ng gi\u00e1 th\u00e0nh l\u1ea1i r\u1ebb nh\u01b0 cho, \u0111i\u1ec3n h\u00ecnh l\u00e0 Laptop Gigabyte\u00a0G5 GD-51S1123SO. \u0110\u00e2y ch\u00ednh l\u00e0 m\u1ed9t trong nh\u1eefng c\u01a1 h\u1ed9i cho c\u00e1c game th\u1ee7, designer ho\u1eb7c ng\u01b0\u1eddi y\u00eau th\u00edch laptop c\u1ea5u h\u00ecnh kh\u1ee7ng t\u1eadn d\u1ee5ng.",
+            "",
+            "Laptop Gigabyte G5 GD\u00a0s\u1edf h\u1eefu thi\u1ebft k\u1ebf hi\u1ec7n \u0111\u1ea1i, \u0111\u01b0\u1ee3c k\u1ebft h\u1ee3p t\u1eeb v\u1ebb \u0111\u1eb9p\u00a0m\u1ea1nh m\u1ebd c\u1ee7a m\u1ed9t chi\u1ebfc laptop gaming v\u00e0 s\u1ef1 tinh gi\u1ea3n c\u1ee7a m\u1ed9t chi\u1ebfc laptop v\u0103n ph\u00f2ng. V\u1edbi thi\u1ebft k\u1ebf \u0111\u1eb7c bi\u1ec7t\u00a0n\u00e0y, v\u1eeba ph\u00f9 h\u1ee3p \u0111\u1ec3 l\u00e0m \u0111\u1ed3 h\u1ecda trong m\u00f4i tr\u01b0\u1eddng doanh nghi\u1ec7p, c\u01a1 quan nghi\u00eam t\u00fac;\u00a0v\u1eeba\u00a0ph\u00f9 h\u1ee3p cho ng\u01b0\u1eddi d\u00f9ng l\u00e0 h\u1ecdc sinh, sinh vi\u00ean c\u00f3 s\u1edf th\u00edch ch\u01a1i game nh\u01b0ng \u0111\u1ed3ng th\u1eddi c\u0169ng mu\u1ed1n mang m\u00e1y t\u00ednh l\u00ean tr\u01b0\u1eddng, ph\u1ee5c v\u1ee5 m\u1ee5c \u0111\u00edch h\u1ecdc t\u1eadp; ho\u1eb7c ph\u00f9 h\u1ee3p v\u1edbi ng\u01b0\u1eddi d\u00f9ng v\u0103n ph\u00f2ng c\u00f3 s\u1edf th\u00edch gaming nh\u01b0ng kh\u00f4ng mu\u1ed1n g\u00e2y ch\u00fa \u00fd v\u1edbi S\u1ebfp v\u00e0 \u0111\u1ed3ng nghi\u1ec7p.",
+            "",
+            "M\u00e1y \u0111\u01b0\u1ee3c l\u00e0m t\u1eeb ch\u1ea5t li\u1ec7u nh\u1ef1a c\u1ee9ng cao c\u1ea5p, v\u1eeba gi\u1eef \u0111\u01b0\u1ee3c \u0111\u1ed9 b\u1ec1n, v\u1eeba gi\u00fap gi\u1ea3m tr\u1ecdng l\u01b0\u1ee3ng cho m\u00e1y v\u00e0 \"s\u1ee9c n\u1eb7ng\" c\u1ee7a gi\u00e1 th\u00e0nh cho s\u1ea3n ph\u1ea9m. \u0110\u00e2y l\u00e0 m\u1ed9t s\u1ef1 l\u1ef1a ch\u1ecdn \u0111\u00fang \u0111\u1eafn c\u1ee7a Gigabyte. \u0110\u1ed9 b\u1ec1n c\u1ee7a m\u00e1y c\u0169ng \u0111\u01b0\u1ee3c th\u1ec3 hi\u1ec7n qua thi\u1ebft k\u1ebf ch\u1eafc ch\u1eafn c\u1ee7a b\u1ea3n l\u1ec1 v\u00e0 c\u00e1c \u0111\u01b0\u1eddng n\u00e9t thi\u1ebft k\u1ebf th\u00f4ng minh, h\u1ea1n ch\u1ebf t\u00e1c \u0111\u1ed9ng t\u1edbi c\u00e1c b\u1ed9 ph\u1eadn quan tr\u1ecdng khi va \u0111\u1eadp.\u00a0",
+            "M\u00e1y c\u00f3 t\u1ed5ng c\u1ed5ng\u00a0ba khe t\u1ea3n nhi\u1ec7t v\u1edbi hai khe \u1edf hai c\u1ea1nh b\u00ean v\u00e0\u00a0m\u1ed9t\u00a0khe \u1edf c\u1ea1nh \u0111\u00e1y. Tuy nhi\u00ean \u1edf c\u1ea1nh g\u00e1y c\u1ee7a m\u00e1y, ch\u00fang ta l\u1ea1i nh\u00ecn th\u1ea5y c\u00f3 t\u1edbi t\u1eadn hai khe t\u1ea3n nhi\u1ec7t. Th\u1eadt ra,\u00a0trong \u0111\u00f3 ch\u1ec9 c\u00f3\u00a0m\u1ed9t\u00a0khe l\u00e0 th\u1eadt, m\u1ed9t khe c\u00f2n l\u1ea1i \u0111\u1ec3 c\u00e2n b\u1eb1ng, \u0111\u1ea3m b\u1ea3o s\u1ef1 th\u1ea9m m\u1ef9 cho t\u1ed5ng th\u1ec3 thi\u1ebft k\u1ebf c\u1ee7a m\u00e1y. \u0110i\u1ec1u n\u00e0y cho th\u1ea5y, tuy l\u00e0 \u0111\u00e0n em \u0111i sau trong th\u1ecb tr\u01b0\u1eddng m\u1edbi, nh\u01b0ng Gigabyte th\u1eadt s\u1ef1 c\u1ed1 g\u1eafng, t\u1ec9 m\u1ec9 v\u00e0 ch\u0103m ch\u00fat trong t\u1eebng chi ti\u1ebft cho s\u1ea3n ph\u1ea9m c\u1ee7a m\u00ecnh.\u00a0",
+            "",
+            "Laptop Gigabyte G5 GD-51S1123SO s\u1edf h\u1eefu m\u00e0n h\u00ecnh 15.6 inch r\u1ed9ng r\u00e3i trong m\u1ed9t thi\u1ebft k\u1ebf g\u1ecdn g\u00e0ng; \u0111\u1ed9 ph\u00e2n gi\u1ea3i FHD (1920x1080) cho ch\u1ea5t l\u01b0\u1ee3ng h\u00ecnh \u1ea3nh \u0111\u1eb9p m\u1eaft, s\u1eafc n\u00e9t, r\u00f5 r\u00e0ng; t\u1ea5m n\u1ec1n IPS x\u1ecbn m\u01b0\u1ee3t, mang t\u1edbi g\u00f3c nh\u00ecn r\u1ed9ng r\u00e3i 178 \u0111\u1ed9, gi\u00fap ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 tho\u1ea3i m\u00e1i nh\u00ecn r\u00f5 n\u1ed9i dung m\u00e0n h\u00ecnh \u1edf nhi\u1ec1u ph\u00eda, h\u1ed7 tr\u1ee3 nh\u1eefng l\u00fac trao \u0111\u1ed5i c\u00f4ng vi\u1ec7c tr\u00ean c\u00f9ng m\u1ed9t m\u00e0n h\u00ecnh c\u1ef1c t\u1ed1t.",
+            "",
+            "C\u1ea3 ba th\u00f4ng s\u1ed1 tr\u00ean \u0111\u00e3 qu\u00e1 ph\u00f9 h\u1ee3p cho c\u1ea3 h\u1ecdc t\u1eadp, l\u00e0m vi\u1ec7c v\u00e0 gi\u1ea3i tr\u00ed, nh\u01b0ng ch\u01b0a h\u1ebft, m\u00e0n h\u00ecnh\u00a0Gigabyte G5 GD-51S1123SO c\u00f2n c\u00f3 t\u1ea7n s\u1ed1 qu\u00e9t 144Hz c\u1ef1c nhanh \u0111\u1ec3 chi\u1ebfn game; v\u00e0 \u0111\u1eb7c bi\u1ec7t nh\u1ea5t l\u00e0 c\u00e1c th\u00f4ng s\u1ed1\u00a072%NTSC, 100%sRGB, 75%AdobeRGB \u0111\u1ec1u l\u00e0 c\u00e1c th\u00f4ng s\u1ed1 ph\u1ee5c v\u1ee5 l\u00e0m \u0111\u1ed3 h\u1ecda chuy\u00ean nghi\u1ec7p, design, edit video,.... V\u1edbi gi\u00e1 th\u00e0nh nh\u01b0 th\u1ebf n\u00e0y nh\u01b0ng l\u1ea1i s\u1edf h\u1eefu m\u00e0n h\u00ecnh c\u1ef1c x\u1ecbn nh\u01b0 th\u1ebf th\u00ec c\u00f2n g\u00ec h\u1eddi h\u01a1n.",
+            "",
+            "",
+            "\u0110\u00e2y th\u1ef1c s\u1ef1 l\u00e0 m\u1ed9t c\u1ea5u h\u00ecnh kh\u1ee7ng trong t\u1ea7m gi\u00e1.\u00a0B\u1ed9 \u0111\u00f4i g\u1ed3m\u00a0b\u1ed9 vi x\u1eed l\u00fd Intel Core i5 th\u1ebf h\u1ec7 11, chip H chuy\u00ean game, v\u1edbi t\u1ed1c \u0111\u1ed9 t\u1ed1i \u0111a l\u00ean t\u1edbi 4.50GHz, b\u1ed9 nh\u1edb \u0111\u1ec7m t\u1eadn 12MB Cache k\u1ebft h\u1ee3p c\u00f9ng c\u1ea1 c\u1ee9ng VGA\u00a0NVIDIA GeForce RTX 3050 dung l\u01b0\u1ee3ng 4GB GDDR6 s\u1eb5n s\u00e0ng c\u00e2n m\u1ecdi t\u1ef1a game n\u1eb7ng \u1edf c\u1ea5u h\u00ecnh cao v\u00e0 c\u00e1c t\u00e1c v\u1ee5 \u0111\u1ed3 h\u1ecda chuy\u00ean nghi\u1ec7p, design \u0111\u1ebfn edit video.",
+            "",
+            "Ch\u01b0a h\u1ebft ram Dual\u00a0DDR4 3200MHz, t\u1ed5ng dung l\u01b0\u1ee3ng 16GB, mang l\u1ea1i kh\u1ea3 n\u0103ng \u0111a nhi\u1ec7m v\u01b0\u1ee3t tr\u1ed9i cho chi\u1ebfc laptop Core i5 n\u00e0y. \u1ed4 c\u1ee9ng\u00a0512GB M.2 NVMe PCIe s\u1eb5n s\u00e0ng l\u01b0u tr\u1eef c\u00e1c t\u1ef1a game AAA hot nh\u1ea5t hi\u1ec7n nay ho\u1eb7c c\u00e1c file \u0111\u1ed3 h\u1ecda n\u1eb7ng, \u0111\u1ed3ng th\u1eddi c\u0169ng mang l\u1ea1i tr\u1ea3i nghi\u1ec7m \u0111\u00f3ng m\u1edf m\u00e1y v\u00e0 \u1ee9ng d\u1ee5ng c\u1ef1c nhanh nh\u1ea1y.",
+            "Windows 11 Home b\u1ea3n quy\u1ec1n xua tan n\u1ed7i lo kh\u00f4ng an to\u00e0n t\u1eeb Win crack",
+            "",
+            "Laptop Gigabyte G5 GD-51S1123SO\u00a0\u0111\u01b0\u1ee3c trang b\u1ecb b\u00e0n ph\u00edm full size v\u1edbi h\u00e0nh tr\u00ecnh ph\u00edm r\u1ea5t s\u00e2u, mang l\u1ea1i tr\u1ea3i nghi\u1ec7m g\u00f5 ph\u00edm\u00a0v\u00f4 c\u00f9ng\u00a0tho\u1ea3i m\u00e1i v\u00e0 th\u00edch th\u00fa. Ph\u00f4ng ch\u1eef d\u1ec5 nh\u00ecn, kho\u1ea3ng c\u00e1ch ph\u00edm khoa h\u1ecdc, k\u00edch th\u01b0\u1edbc ph\u00edm l\u1edbn. \u0110\u1eb7c bi\u1ec7t b\u00e0n ph\u00edm c\u00f2n c\u00f3 LED RGB c\u1ef1c ng\u1ea7u, c\u00e1c game th\u1ee7 \u0111\u01b0\u1ee3c \u0111\u1eafm ch\u00ecm trong nh\u1eefng t\u1ef1a game y\u00eau th\u00edch. Ng\u01b0\u1eddi thi\u1ebft k\u1ebf \u0111\u1ed3 h\u1ecda c\u0169ng nh\u1edd \u0111\u00f3 m\u00e0 t\u0103ng c\u1ea3m h\u1ee9ng s\u00e1ng t\u1ea1o ngh\u1ec7 thu\u1eadt.",
+            "",
+            "Gigabyte G5 GD s\u1edf h\u1eefu h\u1ec7 th\u1ed1ng c\u1ed5ng k\u1ebft n\u1ed1i \u0111\u1ea7y \u0111\u1ee7 v\u00e0 ti\u1ec7n l\u1ee3i. Ch\u00fang ta d\u1ec5 d\u00e0ng th\u1ea5y, c\u00e1c c\u1ed5ng k\u1ebft n\u1ed1i c\u1ed3ng k\u1ec1nh, th\u01b0\u1eddng ph\u1ea3i s\u1eed d\u00f9ng d\u00e2y k\u00edch th\u01b0\u1edbc l\u1edbn nh\u01b0 c\u1ed5ng ngu\u1ed3n, c\u1ed5ng m\u1ea1ng Lan RJ-45, c\u1ed5ng HDMI v\u00e0 c\u1ed5ng mini DisplayPort \u0111\u01b0\u1ee3c Gigabyte \u0111\u1ec3 ra c\u1ea1nh sau c\u1ee7a m\u00e1y r\u1ea5t th\u00f4ng minh trong thi\u1ebft k\u1ebf v\u00e0 ti\u1ec7n l\u1ee3i cho ng\u01b0\u1eddi d\u00f9ng. \u0110\u00e2y l\u00e0 c\u1ea1nh c\u00f3 \u0111\u1ed9 d\u00e0y l\u1edbn nh\u1ea5t c\u1ee7a m\u00e1y, v\u00ec v\u1eady s\u1ef1 th\u00f4ng minh \u1edf \u0111\u00e2y l\u00e0\u00a0m\u00e1y\u00a0kh\u00f4ng h\u1ec1 b\u1ecb c\u1eaft gi\u1ea3m c\u00e1c c\u1ed5ng HDMI, c\u1ed5ng m\u1ea1ng Lan hay DP nh\u01b0 c\u00e1c m\u00e1y kh\u00e1c m\u00e0 m\u00e1y v\u1eabn gi\u1eef \u0111\u01b0\u1ee3c \u0111\u1ed9 m\u1ecfng nh\u1eb9 c\u1ee7a m\u00ecnh; c\u00f2n\u00a0s\u1ef1 ti\u1ec7n l\u1ee3i \u1edf \u0111\u00e2y l\u00e0 ngo\u00e0i kh\u00f4ng b\u1ecb c\u1eaft gi\u1ea3m c\u1ed5ng, kh\u00f4ng ph\u1ea3i mua d\u00e2y chuy\u1ec3n \u0111\u1ed5i m\u00e0 c\u00f2n gi\u00fap\u00a0ng\u01b0\u1eddi d\u00f9ng\u00a0\u0111i d\u00e2y d\u1ec5 d\u00e0ng v\u00e0\u00a0kh\u00f4ng g\u00e2y tr\u1edf ng\u1ea1i khi di chu\u1ed9t hay \u0111\u1ec3 \u0111\u1ed3 b\u00ean c\u1ea1nh m\u00e1y t\u00ednh.",
+            "",
+            "Hai c\u1ea1nh hai b\u00ean, m\u00e1y c\u0169ng \u0111\u01b0\u1ee3c trang b\u1ecb r\u1ea5t \u0111\u1ea7y \u0111\u1ee7 c\u00e1c lo\u1ea1i c\u1ed5ng nh\u01b0 l\u00e0 hai c\u1ed5ng USB 3.2 nhanh nh\u1ea1y, USB-Type C th\u1ebf h\u1ec7 m\u1edbi,\u00a0m\u1ed9t\u00a0c\u1ed5ng USB 2.0, khe c\u1eafm th\u1ebb nh\u1edb, jack tai nghe m\u00e0 kh\u00f4ng thi\u1ebfu th\u1ed1n c\u1ed5ng g\u00ec. Ng\u01b0\u1eddi d\u00f9ng tho\u1ea3i m\u00e1i k\u1ebft n\u1ed1i m\u00e0 kh\u00f4ng c\u1ea7n mua c\u1ed5ng chuy\u1ec3n \u0111\u1ed5i.\u00a0",
+            "",
+            "Ngo\u00e0i ra m\u00e3 laptop Gigabyte n\u00e0y c\u00f2n \u0111\u01b0\u1ee3c trang b\u1ecb camera \u1edf c\u1ea1nh tr\u00ean c\u1ee7a m\u00e0n h\u00ecnh. Camera tuy kh\u00f4ng thu\u1ed9c h\u1ec7 th\u1ed1ng c\u1ed5ng k\u1ebft n\u1ed1i nh\u01b0ng c\u0169ng r\u1ea5t quan tr\u1ecdng trong vi\u1ec7c k\u1ebft n\u1ed1i h\u00ecnh \u1ea3nh, h\u1ed7 tr\u1ee3 ng\u01b0\u1eddi d\u00f9ng video call, h\u1ed9i h\u1ecdp, h\u1ecdc h\u00e0nh, livestream,... \u0111\u1eb7c bi\u1ec7t l\u00e0 trong nh\u1eefng tr\u01b0\u1eddng h\u1ee3p ph\u1ea3i th\u1ef1c hi\u1ec7n online nh\u01b0 m\u00f9a d\u1ecbch v\u1eeba qua ho\u1eb7c nh\u1eefng ng\u01b0\u1eddi kinh doanh online t\u1ea1i nh\u00e0.",
+            "",
+            "M\u00e3 laptop Gigabyte core i5 n\u00e0y\u00a0\u0111\u01b0\u1ee3c trang b\u1ecb vi\u00ean pin 49WHrs v\u1edbi th\u1eddi l\u01b0\u1ee3ng s\u1eed d\u1ee5ng th\u1ef1c t\u1ebf t\u1ea7m 3 ti\u1ebfng khi s\u1eed d\u1ee5ng c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng. N\u1ebfu ch\u01a1i game ho\u1eb7c l\u00e0m \u0111\u1ed3 h\u1ecda th\u00ec n\u00ean c\u1eafm s\u1ea1c \u0111\u1ec3 \u0111\u01b0\u1ee3c tr\u1ea3i nghi\u1ec7m hi\u1ec7u n\u0103ng t\u1ed1t nh\u1ea5t c\u1ee7a m\u00e1y. \u0110i\u1ec1u n\u00e0y kh\u00f4ng ch\u1ec9 \u00e1p d\u1ee5ng v\u1edbi laptop Gigabyte m\u00e0 b\u1ea5t c\u1ee9 laptop Gaming n\u00e0o c\u0169ng n\u00ean c\u1eafm s\u1ea1c khi ch\u01a1i game. Ngo\u00e0i ra, vi\u00ean pin n\u00e0y l\u00e0 pin r\u1eddi, ch\u00fang ta c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng th\u00e1o ra n\u1ebfu kh\u00f4ng c\u00f3 nhu c\u1ea7u s\u1eed d\u1ee5ng pin m\u00e0 c\u1eafm tr\u1ef1c ti\u1ebfp v\u00e0o ngu\u1ed3n \u0111\u1ec3 h\u1ea1n ch\u1ebf chai pin.\u00a0",
+            "",
+            "H\u1ec7 th\u1ed1ng loa \u1ea5n t\u01b0\u1ee3ng v\u1edbi \u00e2m bass d\u00e0y, mang l\u1ea1i ch\u1ea5t l\u01b0\u1ee3ng \u00e2m thanh trong tr\u1ebbo v\u00e0 ch\u00ednh x\u00e1c, n\u00e2ng t\u1ea7m ch\u1ea5t l\u01b0\u1ee3ng tr\u1ea3i nghi\u1ec7m gaming c\u1ee7a b\u1ea1n, c\u0169ng nh\u01b0 tho\u1ea3i m\u00e1i x\u1eadp x\u00ecnh v\u1edbi nh\u1eefng giai \u0111i\u1ec7u \u00e2m nh\u1ea1c y\u00eau th\u00edch.",
+            "",
+            "K\u1ebft lu\u1eadn:\u00a0Laptop Gigabyte G5 GD-51S1123SO s\u1edf h\u1eefu thi\u1ebft k\u1ebf \u1ea5n t\u01b0\u1ee3ng, k\u1ebft h\u1ee3p gi\u1eefa gaming v\u00e0 \u0111\u1ed3 h\u1ecda. M\u00e0n h\u00ecnh chuy\u00ean game v\u00e0 \u0111\u1ed3 h\u1ecda chuy\u00ean nghi\u1ec7p. C\u1ea5u h\u00ecnh kh\u1ee7ng, \u0111\u00e1p \u1ee9ng t\u1ed1t nhu c\u1ea7u h\u1ecdc t\u1eadp v\u00e0 l\u00e0m vi\u1ec7c, \u0111\u1ebfn vi\u1ec7c c\u00e2n m\u1ecdi t\u1ef1a game v\u00e0 \u0111\u1ed3 h\u1ecda n\u1eb7ng. B\u00e0n ph\u00edm led RGB, h\u1ec7 th\u1ed1ng c\u1ed5ng k\u1ebft n\u1ed1i \u0111\u1ea7y \u0111\u1ee7, pin \u1ed5n v\u00e0 \u00e2m thanh ch\u1ea5t l\u01b0\u1ee3ng cao. To\u00e0n b\u1ed9 \u0111\u01b0\u1ee3c g\u00f3i g\u1ecdn trong m\u1ed9t chi\u1ebfc laptop gaming gi\u00e1 r\u1ebb, l\u00e0 m\u1ed9t l\u1ef1a ch\u1ecdn th\u00f4ng th\u00e1i cho ng\u01b0\u1eddi d\u00f9ng.",
+            "Tham kh\u1ea3o:",
+            "- Laptop MSI GF63 Thin 11UC 441VN:\u00a0https://www.ankhang.vn/laptop-msi-gf63-thin-11uc-441vn.html",
+            "- Laptop Gaming Dell G15 5511 70266676:\u00a0https://www.ankhang.vn/laptop-gaming-dell-g15-5511-70266676.html",
+            "\u0110\u1ebfn \u0111\u00e2y b\u1ea1n \u0111\u00e3 ch\u1ecdn cho m\u00ecnh \u0111\u01b0\u1ee3c m\u00e3 laptop ph\u00f9 h\u1ee3p v\u1edbi m\u00ecnh ch\u01b0a, n\u1ebfu ch\u1ecdn \u0111\u01b0\u1ee3c r\u1ed3i hay ch\u01b0a ch\u1ecdn \u0111\u01b0\u1ee3c h\u00e3y c\u1ee9 li\u00ean h\u1ec7 v\u1edbi An Khang nh\u00e9. An Khang s\u1ebd gi\u00fap b\u1ea1n.",
+            "C\u01a1 s\u1edf 1: S\u1ed1 25 Y\u00ean L\u00e3ng, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i.\u260e 1900 2655 (M\u00e1y l\u1ebb 101 & 102) / Hotline: 0922 744 999.C\u01a1 s\u1edf 2: S\u1ed1 105 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, M\u1ec5 Tr\u00ec, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i\u260e 1900 2655 (M\u00e1y l\u1ebb 301) / Hotline: 0399 655 368",
+            "An Khang Computer\u00a0"
+        ]
+    },
+    {
+        "id_prodcut": "21602",
+        "name": " Laptop Gigabyte G5 GD-51VN123SO ",
+        "cost": "21.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.03 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_5.jpg",
+            "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_6.jpg",
+            "https://cdn.ankhang.vn/media/product/21602_laptop_gigabyte_g5_gd_51vn123so_7.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "20078",
+        "name": " Laptop Gigabyte AERO 15 OLED YD 73S1624GH ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3080 8GB GDDR6, Display 15.6Inch UHD Samsung AMOLED, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.00 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20078_laptop_gigabyte_aero_15_oled_yd_73s1624gh_6.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "20081",
+        "name": " Laptop Gigabyte AERO 15 OLED XD 73S1624GH ",
+        "cost": "48.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3070 8GB GDDR6, Display 15.6Inch UHD Samsung AMOLED, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.00 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20081_laptop_gigabyte_aero_15_oled_xd_73s1624gh_6.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "19934",
+        "name": " Laptop Gaming Gigabyte G5 KC-5S11130SH  ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i5-10500H (12MB, up to 4.50GHz), Chipset Intel HM470, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/19934_laptop_gigabyte_g5_kc_5s11130sh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": [
+            "Th\u00eam m\u1ed9t h\u00e3ng l\u1ef1a ch\u1ecdn m\u1edbi cho ng\u01b0\u1eddi d\u00f9ng ch\u01a1i game \u0111\u00f3 ch\u00ednh l\u00e0 Laptop Gaming Gigabyte. C\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a nghe th\u1ea5y t\u00ean tu\u1ed5i c\u1ee7a h\u00e3ng s\u1ea3n xu\u1ea5t n\u00e0y v\u1ec1 m\u1ea3ng m\u00e1y t\u00ednh x\u00e1ch tay, nh\u01b0ng c\u00e1ch \u0111\u00e2y kho\u1ea3ng 2 th\u00e1ng tr\u01b0\u1edbc, h\u1ecd \u0111\u00e3 cho ra m\u1eaft b\u1ed9 s\u1ea3n ph\u1ea9m laptop gaming v\u1edbi 3 d\u00f2ng s\u1ea3n ph\u1ea9m ch\u00ednh: GIGABYTE Gaming G5 & G7, Gigabyte AERO, Gigabyte AORUS. H\u00e3y c\u00f9ng An Khang \u0111i t\u00ecm hi\u1ec3u s\u00e2u h\u01a1n v\u1ec1 s\u1ea3n ph\u1ea9m \u1edf b\u00e0i vi\u1ebft d\u01b0\u1edbi \u0111\u00e2y.",
+            "THI\u1ebeT K\u1ebe M\u1edaI \u0110\u01a0N GI\u1ea2N NH\u01afNG V\u1eaaN GAMING",
+            "S\u1edf h\u1eefu m\u1ed9t v\u1ebb ngo\u00e0i \u0111\u01a1n gi\u1ea3n, kh\u00f4ng m\u00e0u m\u00e8 gi\u1ed1ng nh\u01b0 nh\u1eefng chi\u1ebfc\u00a0laptop gaming kh\u00e1c. Laptop Gaming Gigabyte G5 KC-5S11130SH \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t \u0111\u1ec3 h\u01b0\u1edbng t\u1edbi \u0111\u1ed1i t\u01b0\u1ee3ng l\u00e0 h\u1ecdc sinh, sinh vi\u00ean hay b\u1ea5t c\u1ee9 \u0111\u1ed1i t\u01b0\u1ee3ng t\u1ef1 do n\u00e0o c\u1ea7n s\u1eed d\u1ee5ng nhu c\u1ea7u \u0111\u1ed3 h\u1ecda. \u0110i\u1ec3m c\u1ed9ng \u0111\u1ea7u ti\u00ean d\u00e0nh cho chi\u1ebfc m\u00e1y t\u00ednh gaming n\u00e0y ch\u00ednh l\u00e0 c\u00e2n n\u1eb7ng v\u00e0 k\u00edch th\u01b0\u1edbc. m\u00e0n h\u00ecnh 15.6inch, n\u1eb1m tr\u1ecdn trong khung h\u00ecnh chi\u1ebfc laptop 14inch ti\u00eau chu\u1ea9n v\u00e0 c\u00f3 c\u00e2n n\u1eb7ng ch\u1ec9 2.2kg.",
+            "Nh\u00ecn t\u1ed5ng th\u1ec3 c\u1ee7a s\u1ea3n ph\u1ea9m, form d\u00e1ng kh\u00e1 vu\u00f4ng v\u1ee9c v\u1edbi duy nh\u1ea5t l\u1edbp s\u01a1n m\u00e0u \u0111en (matte black), b\u1ec1 m\u1eb7t ho\u00e0n thi\u1ec7n gi\u1ea3 carbon k\u1ebft h\u1ee3p v\u1edbi khe t\u1ea3n nhi\u1ec7t h\u1ea7m h\u1ed1. M\u1ed9t ph\u1ea7n k\u1ebft n\u1ed1i chuy\u1ec3n v\u1ec1 ph\u00eda sau m\u00e1y, ph\u1ea7n c\u00f2n l\u1ea1i \u0111\u01b0\u1ee3c \u0111\u1eb7t \u1edf c\u1ea1nh b\u00ean ph\u1ea3i ng\u01b0\u1eddi d\u00f9ng. Cho d\u00f9 to\u00e0n b\u1ed9 ch\u1ea5t li\u1ec7u \u0111\u01b0\u1ee3c l\u00e0m b\u1eb1ng nh\u1ef1a, nh\u01b0ng khung m\u00e1y v\u1eabn th\u1ec3 hi\u1ec7n s\u1ef1 ch\u1eafc ch\u1eafn \u0111\u00e1ng k\u1ec3. Tuy nhi\u00ean, v\u1edbi m\u00e0u \u0111en v\u00e0 b\u1ec1 m\u1eb7t s\u01a1n b\u00f3ng, r\u1ea5t d\u1ec5 b\u00e1m d\u00ednh v\u00e2n tay n\u00ean ng\u01b0\u1eddi d\u00f9ng ph\u1ea3i v\u1ec7 sinh m\u00e1y th\u01b0\u1eddng xuy\u00ean.",
+            "HI\u1ec6U N\u0102NG M\u1ea0NH M\u1ebc V\u1edaI CARD \u0110\u1ed2 H\u1eccA R\u1edcI RTX 3060",
+            "Th\u1ec3 hi\u1ec7n nh\u1eefng g\u00ec v\u1ed1n c\u00f3 khi n\u1ed5i ti\u1ebfng s\u1ea3n xu\u1ea5t card m\u00e0n h\u00ecnh, h\u00e3ng \u0111\u00e3 \u00e1p d\u1ee5ng v\u00e0 ch\u1ecdn cho s\u1ea3n ph\u1ea9m m\u1ed9t chi\u1ebfc card r\u1eddi m\u1ea1nh ph\u00f9 h\u1ee3p v\u00e0 m\u1ea1nh nh\u1ea5t. VGA NVIDIA GeForce RTX 3060 6GB GDDR6 s\u1ebd kh\u00f4ng l\u00e0m b\u1ea1n ph\u1ea3i th\u1ea5t v\u1ecdng. M\u1ed9t lo\u1ea1i card khi k\u1ebft h\u1ee3p c\u00f9ng v\u1edbi CPU Intel Core i5-10500H s\u1ebd mang l\u1ea1i m\u1ed9t hi\u1ec7u su\u1ea5t t\u1ed1i th\u01b0\u1ee3ng cho c\u00e1c game th\u1ee7. Ho\u1ea1t \u0111\u1ed9ng d\u1ef1a tr\u00ean n\u1ec1n t\u1ea3ng Ampere, ki\u1ebfn tr\u00fac RTX th\u1ebf h\u1ec7 th\u1ee9 2 c\u1ee7a NVIDIA \u2013 nh\u00e2n RT s\u1ebd cung c\u1ea5p kh\u1ea3 n\u0103ng \u0111\u1ed3 h\u1ecda \u1edf \u0111\u1ec9nh cao, \u0111\u1ed9 tr\u1ec5 th\u1ea5p, t\u0103ng t\u1ed1c \u0111\u1ed9 khung h\u00ecnh h\u01a1n t\u1edbi 1.5 l\u1ea7n. Ch\u1ea5t l\u01b0\u1ee3ng h\u00ecnh \u1ea3nh nh\u1edd \u0111\u00f3 \u0111\u01b0\u1ee3c c\u1ea3i thi\u1ec7n r\u00f5 r\u1ec7t, th\u1eadm ch\u00ed l\u00e0 s\u1eafc n\u00e9t t\u1eebng chi ti\u1ebft, kh\u00f4ng x\u1ea3y ra hi\u1ec7n t\u01b0\u1edfng gi\u1eadt h\u00ecnh, lu\u00f4n mang t\u1edbi cho b\u1ea1n nh\u1eefng x\u1eed l\u00fd nhanh v\u00e0 ch\u1ea5t l\u01b0\u1ee3ng nh\u1ea5t.",
+            "B\u1ed9 nh\u1edb trong trang b\u1ecb l\u00ean t\u1edbi 16GB c\u00f9ng kh\u1ea3 n\u0103ng n\u00e2ng c\u1ea5p linh ho\u1ea1t, n\u1ebfu b\u1ea1n c\u1ea3m th\u1ea5y thi\u1ebfu, c\u00f3 th\u1ec3 n\u00e2ng cao b\u1ed9 nh\u1edb c\u1ee7a m\u00ecnh l\u00ean t\u1edbi 64GB. Th\u1eadt kinh ng\u1ea1c khi s\u1ea3n ph\u1ea9m \u0111\u01b0\u1ee3c trang b\u1ecb l\u00ean t\u1edbi 2 \u1ed5 c\u1ee9ng SSD v\u00e0 m\u1ed9t \u1ed5 HDD trong \u0111\u00f3 \u0111\u00e3 c\u00f3 m\u1ed9t khe SSD \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng v\u1edbi dung l\u01b0\u1ee3ng 512GB. ",
+            "\u00a0",
+            "T\u1ea2N NHI\u1ec6T TH\u00d4NG MINH",
+            "Qu\u1ea1t t\u1ea3n nhi\u1ec7t \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf n\u1eb1m t\u1ea1i v\u1ecb tr\u00ed \u0111\u00e1y m\u00e1y n\u00f3 bao g\u1ed3m: Hai qu\u1ea1t,\u00a0b\u1ed1n\u00a0\u1ed1ng \u0111\u1ed3ng. Khi ho\u1ea1t \u0111\u1ed9ng, l\u01b0\u1ee3ng nhi\u1ec7t s\u1ebd \u0111\u01b0\u1ee3c \u0111\u1ea9y ra b\u00ean ngo\u00e0i th\u00f4ng qua hai khe t\u1ea3n nhi\u1ec7t \u1edf 2 c\u1ea1nh b\u00ean c\u1ee7a m\u00e1y v\u00e0 1 khe ph\u00eda sau c\u1ee7a m\u00e1y. Khi m\u00e1y t\u00ednh ho\u1ea1t \u0111\u1ed9ng, l\u01b0\u1ee3ng nhi\u1ec7t sinh ra t\u1eeb t\u1eeb, v\u00e0 \u0111\u1ebfn khi \u0111\u1ea1t t\u1edbi \u0111\u1ed9 n\u00f3ng nh\u1ea5t \u0111\u1ecbnh, h\u1ec7 th\u1ed1ng t\u1ea3n nhi\u1ec7t s\u1ebd t\u1ef1 k\u00edch qu\u1ea1t \u0111\u1ec3 l\u00e0m m\u00e1t m\u00e1y ngay t\u1ee9c th\u00ec. ",
+            "N\u00f3i chung, nhi\u1ec7t \u0111\u1ed9 c\u1ee7a m\u00e1y t\u01b0\u01a1ng \u0111\u1ed1i m\u00e1t, khi ho\u1ea1t \u0111\u1ed9ng \u0111\u1ed9 \u1ed3n kh\u00f4ng qu\u00e1 l\u1edbn. Khi s\u1eed d\u1ee5ng, khu v\u1ef1c b\u00e0n ph\u00edm kh\u00f4ng b\u1ecb n\u00f3ng qu\u00e1, kh\u00f4ng g\u00e2y c\u1ea3m gi\u00e1c kh\u00f3 ch\u1ecbu cho nh\u1eefng thao t\u00e1c c\u1ee7a \u0111\u00f4i b\u00e0n tay.",
+            "\u00a0",
+            "M\u00c0N H\u00ccNH S\u1eaeC N\u00c9T T\u1eea M\u1eccI G\u00d3C NH\u00ccN",
+            "M\u00e0n h\u00ecnh 15.6inch FULL HD vi\u1ec1n m\u1ecfng t\u00edch h\u1ee3p \u0111\u1ea7y \u0111\u1ee7 c\u00e1c c\u00f4ng ngh\u1ec7 hi\u1ec7n \u0111\u1ea1i bao g\u1ed3m: M\u00e0n h\u00ecnh IPS \u0111\u1ed9 s\u1eafc n\u00e9t t\u1eeb m\u1ecdi g\u00f3c nh\u00ecn, c\u1ed9ng v\u1edbi t\u1ea7n s\u1ed1 qu\u00e9t 144Hz mang t\u1edbi khung h\u00ecnh chuy\u1ec3n \u0111\u1ed9ng m\u01b0\u1ee3t m\u00e0. C\u00f4ng ngh\u1ec7 ch\u1ed1ng l\u00f3a Anti- Glare gi\u00fap l\u00e0m vi\u1ec7c t\u1ed1t v\u1edbi nhi\u1ec1u \u0111i\u1ec1u ki\u1ec7n \u00e1nh s\u00e1ng kh\u00e1c nhau.",
+            "",
+            "\u00a0",
+            "Kh\u00f4ng d\u1eebng l\u1ea1i \u1edf \u0111\u00f3, t\u1ea5m n\u1ec1n m\u00e0 h\u00e3ng GigaByte s\u1eed d\u1ee5ng cho chi\u1ebfc laptop n\u00e0y c\u00f2n c\u00f3 th\u01b0\u01a1ng hi\u1ec7u l\u1edbn tr\u00ean th\u1ecb tr\u01b0\u1eddng Vi\u1ec7t Nam \u0111\u00f3 l\u00e0 t\u1ea5m n\u1ec1n c\u1ee7a Sharp. Ch\u1ec9 s\u1ed1 \u0111\u1ed9 s\u00e1ng 300 nits, \u0111\u1ed9 chu\u1ea9n m\u00e0u s\u1eafc 100% sRGB, 79% P3, 73% AdobeRGB. R\u1ea5t t\u1ef1 tin cho b\u1ea1n ch\u1ec9nh s\u1eeda \u1ea3nh tr\u00ean c\u00e1c ph\u1ea7n m\u1ec1m \u0111\u1ed3 h\u1ecda hay ch\u01a1i game t\u1ed1c \u0111\u1ed9 cao.",
+            "B\u00c0N PH\u00cdM NH\u1ea0Y B\u00c9N",
+            "",
+            "V\u1ec1 b\u00e0n ph\u00edm c\u1ee7a s\u1ea3n ph\u1ea9m, c\u00f3 t\u1edbi 15 l\u1ef1a ch\u1ecdn cho \u0111\u00e8n n\u1ec1n ph\u00edm \u1edf tr\u00ean ph\u1ea7n m\u1ec1m \u0111\u01b0\u1ee3c c\u00e0i \u0111\u1eb7t s\u1eb5n trong m\u00e1y. B\u1ea1n c\u00f3 th\u1ec3 b\u1eadt/ t\u1eaft, t\u0103ng gi\u1ea3m m\u00e0u s\u1eafc, nh\u01b0ng l\u1ea1i kh\u00f4ng c\u00f3 hi\u1ec7u \u1ee9ng nh\u1ea5p nh\u00e1y d\u00e0nh cho \u0111\u00e8n n\u1ec1n, s\u1ea3n ph\u1ea9m ch\u1ec9 trang b\u1ecb LED m\u1ed9t v\u00f9ng, c\u00f3 l\u1ebd \u0111\u00e2y c\u0169ng l\u00e0 \u0111i\u1ec3m tr\u1eeb c\u1ee7a s\u1ea3n ph\u1ea9m n\u00e0y.",
+            "N\u00f3i v\u1ec1 tr\u1ea3i nghi\u1ec7m g\u00f5 ph\u00edm th\u00ec n\u00f3 c\u00f3 \u0111\u1ed9 s\u00e2u v\u1eeba ph\u1ea3i, ph\u00edm b\u1ea5m nh\u1eb9 nh\u00e0ng, h\u00e0nh tr\u00ecnh ph\u00edm h\u1ee3p l\u00fd, font ch\u1eef m\u1ea1nh m\u1ebd, ph\u00f9 h\u1ee3p v\u1edbi c\u1ea3 \u0111\u1ed1i t\u01b0\u1ee3ng ng\u01b0\u1eddi d\u00f9ng l\u00e0m vi\u1ec7c v\u00e0 ch\u01a1i game.",
+            "Touchpad thi\u1ebft k\u1ebf k\u00edch th\u01b0\u1edbc kh\u00e1 l\u1edbn, b\u1ec1 m\u1eb7t nh\u1eb5n m\u1ecbn do \u0111\u01b0\u1ee3c ph\u1ee7 l\u1edbp k\u00ednh, d\u1ec5 d\u00e0ng thao t\u00e1c ch\u1ea1m l\u01b0\u1edbt, t\u1ed1c \u0111\u1ed9 ph\u1ea3n h\u1ed3i nhanh. Tuy nhi\u00ean, ph\u00edm b\u1ea5m chu\u1ed9t tr\u00e1i v\u00e0 chu\u1ed9t ph\u1ea3i h\u01a1i l\u00ec, b\u1ea1n c\u1ea7n ph\u1ea3i s\u1eed d\u1ee5ng m\u1ed9t l\u1ef1c kh\u00e1 m\u1ea1nh \u0111\u1ec3 nh\u1ea5n v\u00e0o hai ph\u00edm n\u00e0y. ",
+            "K\u1ebeT N\u1ed0I NHANH NH\u1ea0Y",
+            "",
+            "C\u00f3 th\u1ec3 n\u00f3i k\u1ebft n\u1ed1i ch\u00ednh l\u00e0 \u01b0u \u0111i\u1ec3m c\u1ee7a s\u1ea3n ph\u1ea9m n\u00e0y. Laptop Gaming Gigabyte G5 KC-5S11130SH \u0111\u01b0\u1ee3c trang b\u1ecb kh\u00e1 nhi\u1ec1u k\u1ebft n\u1ed1i c\u1ea3 \u1edf m\u1eb7t b\u00ean v\u00e0 c\u1ea1nh sau c\u1ee7a m\u00e1y.",
+            "Th\u00f4ng qua c\u1ed5ng HDMI, mini DisplayPort 1.4 c\u00f9ng c\u1ed5ng Thunderbolt 4 cho ph\u00e9p xu\u1ea5t ra t\u1edbi 3 m\u00e0n h\u00ecnh b\u00ean ngo\u00e0i. Ti\u1ebfp theo \u0111\u00f3 l\u00e0 c\u00e1c c\u1ed5ng k\u1ebft n\u1ed1i c\u00f3 kh\u1ea3 n\u0103ng truy\u1ec1n d\u1eef li\u1ec7u \u1edf t\u1ed1c \u0111\u1ed9 cao nh\u01b0: 1 c\u1ed5ng USB 2.0, 1 x USB 3.2 Gen 1\u00a0 Type A, 1 x USB 3.2 Gen 2 Type A; Khe c\u1eafm th\u1ebb nh\u1edb SD, Jack c\u1eafm tai nghe hi\u1ec7n \u0111\u1ea1i cho ph\u00e9p s\u1eed d\u1ee5ng c\u00e1c m\u1eabu\u00a0tai nghe gaming cao c\u1ea5p m\u00e0 kh\u00f4ng c\u1ea7n c\u1ed5ng chuy\u1ec3n \u0111\u1ed5i.",
+            "K\u1ebft n\u1ed1i kh\u00f4ng d\u00e2y c\u1ee7a m\u00e3 laptop n\u00e0y \u0111\u01b0\u1ee3c trang b\u1ecb chu\u1ea9n AX200 t\u1ed1c \u0111\u1ed9 cao l\u00ean t\u1edbi 2.4Gbps. B\u1ea1n d\u1ec5 d\u00e0ng truy c\u1eadp internet nhanh ch\u00f3ng cho d\u00f9 \u1edf b\u1ea5t c\u1ee9 n\u01a1i \u0111\u00e2u."
+        ]
+    },
+    {
+        "id_prodcut": "20085",
+        "name": " Laptop Gigabyte AORUS 15P YD 73S1224GH ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3080 8GB GDDR6, Display 15.6Inch FHD IPS 240Hz, Pin 99WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20085_laptop_gigabyte_aorus_15p_yd_73s1224gh_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "20091",
+        "name": " Laptop Gigabyte G5 MD 51S1123SH ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20091_laptop_gigabyte_g5_md_51s1223sh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "20092",
+        "name": " Laptop Gigabyte G7 MD 71S1223SH ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 17.3Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.50 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20092_laptop_gigabyte_g7_md_71s1223sh_6.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "20583",
+        "name": " Laptop Gigabyte G5 GD 51S1223SH ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 10 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20583_laptop_gigabyte_g5_gd_51s1223sh_6.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "20899",
+        "name": " Laptop Gigabyte U4 UD-70S1823SO ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i7-1195G7 (12MB, up to 5.00GHz), RAM 16GB DDR4 3200MHz, SSD 512GB M.2 NVMe PCIe, VGA Intel Iris Xe Graphics, Display 14.0Inch FHD IPS Anti-Glare, Pin 36WHrs, Color Gray (X\u00e1m), Weight 990g, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20899_laptop_gigabyte_u4_ud_70s1823so_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": [
+            "Laptop Gigabyte U4 UD-70S1823SO l\u00e0 m\u1ed9t trong nh\u1eefng m\u00e3 laptop thu\u1ed9c ph\u00e2n kh\u00fac v\u0103n ph\u00f2ng m\u1ecfng nh\u1eb9 \u0111\u1ea7u ti\u00ean c\u1ee7a Gigabyte, n\u00ean nh\u1eefng b\u1ea5t ng\u1edd m\u00e0 h\u00e3ng \u0111em l\u1ea1i tr\u00ean m\u00e3 laptop n\u00e0y th\u1eadt s\u1ef1 qu\u00e1 \u1ea5n t\u01b0\u1ee3ng: ch\u0103m ch\u00fat trong t\u1eebng chi ti\u1ebft, t\u1eeb thi\u1ebft k\u1ebf si\u00eau m\u1ecfng nh\u1eb9 990g, v\u1ecf kim lo\u1ea1i si\u00eau b\u1ec1n chu\u1ea9n qu\u00e2n \u0111\u1ed9i, b\u1ea3n l\u1ec1 180 \u0111\u1ed9, c\u1ea5u h\u00ecnh i7 si\u00eau kh\u1ee7ng \u0111\u1ebfn m\u00e0n h\u00ecnh FHD IPS v\u1edbi \u0111\u1ed9 ph\u1ee7 m\u00e0u \u0111\u00e1ng ng\u01b0\u1ee1ng m\u1ed9, b\u00e0n ph\u00edm c\u00f3 \u0111\u00e8n n\u1ec1n,.... Th\u1ebf nh\u01b0ng t\u1ea5t c\u1ea3 ch\u1ec9 g\u00f3i g\u1ecdn trong m\u1ed9t chi\u1ebfc laptop v\u0103n ph\u00f2ng GI\u00c1 R\u1eba. Kh\u00f4ng ph\u1ea3i qu\u1ea3ng c\u00e1o \u0111\u00e2u, theo ch\u00e2n An Khang ngay \u0111\u1ec3 t\u00ecm hi\u1ec3u th\u1ef1c t\u1ebf n\u00e0o.",
+            "",
+            "\u0110i\u1ec3m n\u1ed5i b\u1eadt trong thi\u1ebft k\u1ebf:- Si\u00eau m\u1ecfng nh\u1eb9; thu\u1ed9c top ultrabook m\u1ecfng, nh\u1eb9 nh\u1ea5t th\u1eddi \u0111i\u1ec3m hi\u1ec7n t\u1ea1i (2022); t\u01b0\u01a1ng \u0111\u01b0\u01a1ng v\u1edbi m\u1ed9t cu\u1ed1n s\u00e1ch.- Ch\u1ea5t li\u1ec7u kim lo\u1ea1i cao c\u1ea5p.- \u0110\u1ea1t \u0111\u1ed9 b\u1ec1n chu\u1ea9n qu\u00e2n \u0111\u1ed9i M\u1ef9 MIL-STD-810.- Thi\u1ebft k\u1ebf \u0111\u01a1n gi\u1ea3n, sang tr\u1ecdng.- B\u1ea3n l\u1ec1 180 \u0111\u1ed9 sang x\u1ecbn.",
+            "",
+            "Laptop Gigabyte U4\u00a0s\u1edf h\u1eefu thi\u1ebft k\u1ebf l\u1ecbch s\u1ef1, t\u1ed1i gi\u1ea3n v\u1edbi nh\u1eefng \u0111\u01b0\u1eddng n\u00e9t thi\u1ebft k\u1ebf \u0111\u01a1n gi\u1ea3n. T\u00f4ng m\u00e0u x\u00e1m l\u1ecbch l\u00e3m c\u00f9ng ch\u1ea5t li\u1ec7u kim lo\u1ea1i t\u00f4n l\u00ean n\u00e9t \u0111\u1eb9p cao c\u1ea5p, sang tr\u1ecdng cho t\u1ed5ng quan thi\u1ebft k\u1ebf. \u0110i\u1ec3m nh\u1ea5n l\u00e0 logo Gigabyte m\u00e0u b\u1ea1c s\u00e1ng, c\u00f9ng nh\u1eefng d\u00f2ng k\u1ebb ngang \"\u0111\u00fang ng\u01b0\u1eddi \u0111\u00fang th\u1eddi \u0111i\u1ec3m\", ph\u00f9 h\u1ee3p v\u1edbi ng\u01b0\u1eddi d\u00f9ng l\u00e0 doanh nh\u00e2n, nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng ho\u1eb7c h\u1ecdc sinh, sinh vi\u00ean, nh\u1eefng ng\u01b0\u1eddi y\u00eau th\u00edch s\u1ef1 \u0111\u01a1n gi\u1ea3n, sang tr\u1ecdng.",
+            "",
+            "\u0110i\u1ec3m \u0111\u1eb7c bi\u1ec7t trong thi\u1ebft k\u1ebf c\u1ee7a\u00a0Gigabyte U4 UD\u00a0ch\u00ednh l\u00e0 tr\u1ecdng l\u01b0\u1ee3ng si\u00eau nh\u1eb9 ch\u1ec9 990g, nh\u1eb9 h\u01a1n r\u1ea5t nhi\u1ec1u nh\u1eefng ng\u01b0\u1eddi \"\u0111\u00e0n anh, \u0111\u00e0n ch\u1ecb\" c\u00f9ng t\u1ea7m gi\u00e1. \u0110\u1ed9 d\u00e0y c\u0169ng ch\u1ec9 ch\u01b0a t\u1edbi 1.7cm. T\u1ed5ng th\u1ec3 chi\u1ebfc m\u00e1y ch\u1ec9 t\u01b0\u01a1ng \u0111\u01b0\u01a1ng nh\u01b0 m\u1ed9t quy\u1ec3n s\u00e1ch, ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng mang m\u00e1y \u0111i kh\u1eafp m\u1ecdi n\u01a1i, t\u1eeb c\u01a1 quan, tr\u01b0\u1eddng h\u1ecdc, qu\u00e1n cafe g\u1eb7p g\u1ee1 b\u1ea1n b\u00e8, \u0111\u1ed1i t\u00e1c, ho\u1eb7c \u0111i du l\u1ecbch, c\u00f4ng t\u00e1c ch\u1eb3ng h\u1ea1n.",
+            "",
+            "Do \u0111\u01b0\u1ee3c l\u00e0m t\u1eeb ch\u1ea5t li\u1ec7u kim lo\u1ea1i c\u00f9ng k\u1ebft c\u1ea5u ch\u1eafc ch\u1eafn trong t\u1eebng chi ti\u1ebft thi\u1ebft k\u1ebf, n\u00ean m\u00e1y\u00a0d\u1ec5 d\u00e0ng th\u00f4ng qua c\u00e1c b\u00e0i test v\u1ec1 \u0111\u1ed9 b\u1ec1n theo chu\u1ea9n qu\u00e2n \u0111\u1ed9i M\u1ef9 MIL-STD-810, \u0111em l\u1ea1i cho ng\u01b0\u1eddi d\u00f9ng gi\u00e1 tr\u1ecb s\u1eed d\u1ee5ng l\u00e2u d\u00e0i v\u1edbi th\u1eddi gian. V\u1edbi \u0111\u1ed9 b\u1ec1n \u0111\u1ea1t chu\u1ea9n qu\u00e2n \u0111\u1ed9i M\u1ef9 nh\u01b0 n\u00e0y, Gigabyte U4 s\u1eb5n s\u00e0ng \u0111\u1ed3ng h\u00e0nh c\u00f9ng b\u1ea1n \u1edf b\u1ea5t c\u1ee9 \u0111i\u1ec1u ki\u1ec7n kh\u1eafc nghi\u1ec7t n\u00e0o m\u00e0 con ng\u01b0\u1eddi c\u00f3 th\u1ec3 l\u00e0m vi\u1ec7c v\u1edbi m\u00e1y t\u00ednh nh\u01b0 tuy\u1ebft, \u0111\u1ed9 \u1ea9m cao, nhi\u1ec7t \u0111\u1ed9 cao,.... \u0110i\u1ec1u n\u00e0y kh\u00f4ng ch\u1ec9 ph\u00f9 h\u1ee3p v\u1edbi ng\u01b0\u1eddi d\u00f9ng l\u00e0 doanh nh\u00e2n, nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng, l\u1eadp tr\u00ecnh vi\u00ean m\u00e0 c\u00f2n ph\u00f9 h\u1ee3p v\u1edbi c\u00e1c ng\u00e0nh ngh\u1ec1 \u0111\u1eb7c bi\u1ec7t nh\u01b0 nghi\u00ean c\u1ee9u sinh, nh\u00e0 nghi\u00ean c\u1ee9u,....",
+            "",
+            "Kh\u00f4ng ch\u1ec9 g\u1ecdn nh\u1eb9 nh\u01b0 quy\u1ec3n s\u00e1ch m\u00e0 laptop Gigabyte U4 UD c\u00f2n s\u1edf h\u1eefu b\u1ea3n l\u1ec1 c\u00f3 th\u1ec3 m\u1edf ra 180 \u0111\u1ed9 nh\u01b0 m\u1edf m\u1ed9t quy\u1ec3n s\u00e1ch tr\u00ean gi\u01b0\u1eddng hay tr\u00ean b\u00e0n l\u00e0m vi\u1ec7c v\u1eady. Do \u0111\u00f3, ch\u00fang ta c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng chia s\u1ebb n\u1ed9i dung v\u1edbi b\u1ea1n b\u00e8, \u0111\u1ed3ng nghi\u1ec7p, hay b\u1ea5t c\u1ee9 ng\u01b0\u1eddi th\u00e2n n\u00e0o m\u00ecnh mu\u1ed1n.",
+            "",
+            "\u1ede phi\u00ean b\u1ea3n\u00a0laptop Gigabyte core i7 n\u00e0y, ch\u00fang ta c\u00f3 \u0111\u01b0\u1ee3c \u0111\u1ed9 ph\u1ee7 m\u00e0u 100%sRGB, k\u1ebft h\u1ee3p v\u1edbi \u0111\u1ed9 ph\u00e2n gi\u1ea3i FHD t\u00e1i hi\u1ec7n h\u00ecnh \u1ea3nh s\u1eafc n\u00e9t, m\u00e0u s\u1eafc chu\u1ea9n v\u00e0 ch\u00ednh x\u00e1c; ph\u1ee5c v\u1ee5 t\u1ed1t nhu c\u1ea7u h\u1ecdc t\u1eadp, l\u00e0m vi\u1ec7c v\u00e0 n\u00e2ng t\u1ea7m ch\u1ea5t l\u01b0\u1ee3ng tr\u1ea3i nghi\u1ec7m gi\u1ea3i tr\u00ed. V\u1edbi \u0111\u1ed9 ph\u1ee7 m\u00e0u n\u00e0y, ch\u00fang ta c\u00f3 th\u1ec3 l\u00e0m \u0111\u1ed3 h\u1ecda 2D v\u00e0 ch\u01a1i game c\u0169ng c\u00f3 ch\u1ea5t l\u01b0\u1ee3ng tr\u1ea3i nghi\u1ec7m r\u1ea5t t\u1ed1t nh\u01b0ng v\u1edbi k\u00edch th\u01b0\u1edbc 14.0inch c\u1ee7a laptop v\u0103n ph\u00f2ng th\u00ec v\u1eabn n\u00ean l\u00e0m c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng ho\u1eb7c l\u1eadp tr\u00ecnh s\u1ebd ok h\u01a1n. Ngo\u00e0i vi\u1ec7c t\u1ea5m n\u1ec1n IPS cho g\u00f3c nh\u00ecn r\u1ed9ng, c\u00f4ng ngh\u1ec7 ch\u1ed1ng l\u00f3a Anti-Glare c\u0169ng gi\u00fap ng\u01b0\u1eddi d\u00f9ng l\u00e0m vi\u1ec7c trong \u0111i\u1ec1u ki\u1ec7n \u00e1nh s\u00e1ng m\u1ea1nh nh\u01b0 c\u00f4ng x\u01b0\u1edfng, ph\u00f2ng th\u00ed nghi\u1ec7m, ngo\u00e0i tr\u1eddi,...",
+            "",
+            "T\u00f3m t\u1eaft c\u1ea5u h\u00ecnh c\u01a1 b\u1ea3n:- CPU Intel Core i7-1195G7 (12MB, up to 5.00GHz)- RAM 16GB DDR4 3200MHz- SSD 512GB M.2 NVMe PCIe- VGA Intel Iris Xe Graphics- OS Windows 11 Home",
+            "",
+            "Nh\u1eefng m\u00e3 laptop v\u0103n ph\u00f2ng gi\u00e1 r\u1ebb\u00a0m\u00e0 s\u1edf h\u1eefu t\u1ed1c \u0111\u1ed9 x\u1eed l\u00fd \u0111\u1ea1t \u0111\u01b0\u1ee3c t\u1edbi 5.00GHz th\u1eadt s\u1ef1 r\u1ea5t hi\u1ebfm, h\u01a1n n\u1eefa thi\u1ebft k\u1ebf l\u1ea1i \u0111\u01b0\u1ee3c t\u1ed1i \u01b0u tri\u1ec7t \u0111\u1ec3 nh\u01b0 \u0111\u00e3 xem x\u00e9t chi ti\u1ebft \u1edf tr\u00ean, th\u00ec \u0111\u00e2y th\u00edch th\u1ecb l\u00e0 c\u01a1 h\u1ed9i hi\u1ebfm c\u00f3 cho nh\u1eefng l\u1eadp tr\u00ecnh vi\u00ean, nghi\u00ean c\u1ee9u sinh, nh\u00e0 nghi\u00ean c\u1ee9u,... ho\u1eb7c nh\u1eefng ng\u01b0\u1eddi y\u00eau th\u00edch laptop v\u0103n ph\u00f2ng c\u1ea5u h\u00ecnh cao, s\u1edf h\u1eefu m\u00e1y v\u1edbi gi\u00e1 r\u1ea5t h\u1eddi. B\u1ed9 vi x\u1eed l\u00fd Intel Core i7-1195G7 v\u1edbi 12MB b\u1ed9 nh\u1edb \u0111\u1ec7m, c\u00f9ng t\u1ed1c \u0111\u1ed9 xung nh\u1ecbp t\u1ed1i \u0111a l\u00ean t\u1edbi 5.00GHz, \u0111\u01b0\u1ee3c k\u1ebft h\u1ee3p v\u1edbi VGA Intel Iris Xe Graphics, s\u1eb5n s\u00e0ng c\u00e2n m\u01b0\u1ee3t c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng, \u0111\u1ed3 h\u1ecda 2D v\u00e0 c\u00e1c t\u1ef1a game online c\u01a1 b\u1ea3n nh\u01b0 LOL, Dota, \u0110\u1ed9t k\u00edch,...",
+            "",
+            "S\u00e1nh vai c\u00f9ng v\u1edbi CPU kh\u1ee7ng l\u00e0 16GB Ram DDR4 3200MHz v\u00e0 512GB SSD M.2 NVMe PCIe kh\u00f4ng h\u1ec1 k\u00e9m c\u1ea1nh t\u00ed n\u00e0o. V\u1edbi 8GB ram \u0111\u00e3 th\u1eeba s\u1ee9c c\u00e2n t\u1ed1t c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng v\u00e0 \u0111\u1ed3 h\u1ecda 2D nh\u1eb9 nh\u00e0ng, nh\u01b0ng Gigabyte v\u1eabn trang b\u1ecb cho laptop Gigabyte U4 UD-70S1823SO 16GB ram kh\u00f4ng ch\u1ec9 t\u0103ng t\u1ed1c \u0111\u1ed9 x\u1eed l\u00fd, m\u00e0 c\u00f2n h\u1ed7 tr\u1ee3 \u0111a nhi\u1ec7m si\u00eau m\u01b0\u1ee3t m\u00e0 cho m\u00e1y, \u0111\u1eb7c bi\u1ec7t ph\u00f9 h\u1ee3p v\u1edbi c\u00e1c \u0111\u1ed1i t\u01b0\u1ee3ng kh\u00e1ch h\u00e0ng m\u00e0 chi\u1ebfc m\u00e1y n\u00e0y nh\u1eafm t\u1edbi. SSD c\u0169ng thu\u1ed9c top SSD nhanh nh\u1ea1y nh\u1ea5t th\u1eddi \u0111i\u1ec3m hi\u1ec7n t\u1ea1i, h\u1ed7 tr\u1ee3 \u0111\u1ea9y nhanh t\u1ed1c \u0111\u1ed9 \u0111\u00f3ng m\u1edf m\u00e1y v\u00e0 \u1ee9ng d\u1ee5ng, \u0111\u1ed3ng th\u1eddi dung l\u01b0\u1ee3ng l\u01b0u tr\u1eef c\u0169ng r\u1ea5t d\u01b0 d\u1ea3 v\u1edbi 512GB, ch\u1ee9 kh\u00f4ng ph\u1ea3i 256GB nh\u01b0 c\u00e1c m\u00e3 m\u00e1y kh\u00e1c c\u00f9ng t\u1ea7m gi\u00e1.",
+            "",
+            "Cu\u1ed1i c\u00f9ng Windows 11 Home l\u00e0 \u0111i\u1ec3m nh\u1ea5n cho c\u1ea5u h\u00ecnh kh\u1ee7ng khi\u1ebfp n\u00e0y, ng\u01b0\u1eddi d\u00f9ng \u0111\u01b0\u1ee3c d\u00f9ng win b\u1ea3n quy\u1ec1n ch\u1ee9 kh\u00f4ng c\u1ea7n ph\u1ea3i crack hay d\u00f9ng win l\u1eadu, \u0111\u1ea3m b\u1ea3o an to\u00e0n cho chi\u1ebfc m\u00e1y c\u1ee7a m\u00ecnh.",
+            "",
+            "Kh\u00f4ng ch\u1ec9 s\u1edf h\u1eefu c\u1ea5u h\u00ecnh kh\u1ee7ng m\u00e0 c\u00e1c c\u00f4ng ngh\u1ec7 k\u1ebft n\u1ed1i kh\u00f4ng d\u00e2y c\u0169ng hi\u1ec7n \u0111\u1ea1i kh\u00f4ng k\u00e9m v\u1edbi Wifi 6 Giga+ v\u00e0 Bluetooth 5.2 x\u1ecbn x\u00f2. \u0110\u00e2y l\u00e0 2 c\u00f4ng ngh\u1ec7 k\u1ebft n\u1ed1i kh\u00f4ng d\u00e2y cho t\u1ed1c \u0111\u1ed9 x\u1eed l\u00fd c\u1ef1c nhanh nh\u1ea1y, m\u01b0\u1ee3t m\u00e0 d\u00f9 b\u1ea1n \u1edf b\u1ea5t c\u1ee9 n\u01a1i n\u00e0o wifi y\u1ebfu hay \u0111i\u1ec1u ki\u1ec7n l\u00e0m vi\u1ec7c kh\u1eafc nghi\u1ec7t.",
+            "",
+            "M\u1eb7c d\u00f9 \u0111\u1ed9 d\u00e0y c\u1ee7a m\u00e1y ch\u1ec9 c\u00f3 16.5mm nh\u01b0ng Gigabyte g\u1ea7n nh\u01b0 kh\u00f4ng b\u1ecf x\u00f3t b\u1ea5t k\u1ef3 c\u1ed5ng k\u1ebft n\u1ed1i n\u00e0o c\u1ea7n thi\u1ebft cho chi\u1ebfc laptop v\u0103n ph\u00f2ng core i7 n\u00e0y v\u1edbi 02 c\u1ed5ng USB 3.2 Type-A, 01 c\u1ed5ng HSMI, 01 c\u1ed5ng USB-C Thunderbolt 4 (k\u1ebft n\u1ed1i \u0111\u01b0\u1ee3c r\u1ea5t nhi\u1ec1u thi\u1ebft b\u1ecb ngo\u1ea1i vi r\u1eddi v\u1edbi t\u1ed1c \u0111\u1ed9 nhanh nh\u1ea1y), 01 jack \u00e2m thanh 3.5mm 2 trong 1\u00a0v\u00e0 01 khe c\u1eafm th\u1ebb nh\u1edb MicroSD.",
+            "",
+            "Laptop Gigabyte U4 UD-70S1823SO\u00a0s\u1edf h\u1eefu b\u00e0n ph\u00edm chiclet v\u1edbi \u0111\u1ed9\u00a0n\u1ea3y cao, c\u1ea3m nh\u1eadn ph\u1ea3n h\u1ed3i x\u00fac gi\u00e1c r\u00f5 r\u00e0ng, mang l\u1ea1i tr\u1ea3i nghi\u1ec7m tho\u1ea3i m\u00e1i, ch\u00e2n th\u1ef1c cho ng\u01b0\u1eddi s\u1eed d\u1ee5ng. H\u00e0nh tr\u00ecnh ph\u00edm v\u1eeba ph\u1ea3i, ph\u00f4ng ch\u1eef \u0111\u1eb9p, sang; k\u00edch th\u01b0\u1edbc ph\u00edm v\u00e0 kho\u1ea3ng c\u00e1ch ph\u00edm \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf khoa h\u1ecdc. \u0110i\u1ec3m \u0111\u1eb7c bi\u1ec7t nh\u1ea5t l\u00e0 b\u00e0n ph\u00edm \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u00e8n n\u1ec1n m\u00e0u tr\u1eafng, h\u1ed7 tr\u1ee3 ng\u01b0\u1eddi d\u00f9ng s\u1eed d\u1ee5ng m\u00e1y trong tr\u01b0\u1eddng h\u1ee3p thi\u1ebfu \u00e1nh s\u00e1ng.\u00a0",
+            "Trackpad c\u00f3 k\u00edch th\u01b0\u1edbc kh\u00f4ng qu\u00e1 to, kh\u00f4ng qu\u00e1 nh\u1ecf, v\u1eeba ph\u1ea3i \u0111\u1ec3 thao t\u00e1c. \u0110\u1ed9 nh\u1ea1y t\u1ed1t v\u00e0 ch\u00ednh x\u00e1c.",
+            "",
+            "\u1ede \u0111i\u1ec1u ki\u1ec7n ho\u1ea1t \u0111\u1ed9ng v\u1edbi c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng c\u01a1 b\u1ea3n, v\u1edbi \u0111\u1ed9 s\u00e1ng v\u1eeba ph\u1ea3i, m\u00e1y cho th\u1eddi l\u01b0\u1ee3ng pin \u1ed5n, r\u01a1i v\u00e0o kho\u1ea3ng 4 ti\u1ebfng ho\u1ea1t \u0111\u1ed9ng li\u00ean t\u1ee5c, tho\u1ea3i m\u00e1i cho m\u1ed9t bu\u1ed5i l\u00e0m vi\u1ec7c. C\u1ee5c s\u1ea1c c\u1ee7a m\u00e1y r\u1ea5t nh\u1ecf v\u00e0 c\u00f3 ch\u1ee9c n\u0103ng s\u1ea1c nhanh. Ch\u00fang ta c\u00f3 th\u1ec3 tranh th\u1ee7 b\u1ed5 sung pin v\u00e0o th\u1eddi gian gi\u1ea3i lao.",
+            "",
+            "K\u1ebft lu\u1eadn: Laptop Gigabyte U4 UD-70S1823SO l\u00e0 m\u1ed9t m\u00e3 ultraboook \u0111\u00fang ngh\u0129a v\u1edbi tr\u1ecdng l\u01b0\u1ee3ng si\u00eau nh\u1eb9, ch\u1ec9 990gram, v\u1ecf kim lo\u1ea1i si\u00eau b\u1ec1n \u0111\u1ea1t chu\u1ea9n qu\u00e2n \u0111\u1ed9i M\u1ef9, b\u1ea3n l\u1ec1 180 \u0111\u1ed9 x\u1ecbn x\u00f2; m\u00e0n h\u00ecnh s\u1eafc n\u00e9t, chu\u1ea9n m\u00e0u; c\u1ea5u h\u00ecnh core i7 kh\u1ee7ng, h\u1ec7 th\u1ed1ng c\u1ed5ng k\u1ebft n\u1ed1i \u0111\u1ea7y \u0111\u1ee7, k\u1ebft n\u1ed1i kh\u00f4ng d\u00e2y hi\u1ec7n \u0111\u1ea1i; b\u00e0n ph\u00edm c\u00f3 led tr\u1eafng, th\u1eddi l\u01b0\u1ee3ng pin \u1ed5n. To\u00e0n b\u1ed9 chi ti\u1ebft t\u1eeb thi\u1ebft k\u1ebf, m\u00e0n h\u00ecnh, c\u1ea5u h\u00ecnh, b\u00e0n ph\u00edm, s\u1ea1c pin \u0111\u1ec1u \u0111\u01b0\u1ee3c t\u1ed1i \u01b0u ph\u1ee5c v\u1ee5 ng\u01b0\u1eddi d\u00f9ng doanh nh\u00e2n, v\u0103n ph\u00f2ng \u0111\u1ebfn ng\u01b0\u1eddi d\u00f9ng \u0111\u1eb7c th\u00f9 nh\u01b0 l\u1eadp tr\u00ecnh vi\u00ean, nghi\u00ean c\u1ee9u sinh, nh\u00e0 khoa h\u1ecdc. \u0110\u1eb7c bi\u1ec7t, v\u1edbi gi\u00e1 th\u00e0nh tr\u00ean d\u01b0\u1edbi 24-25 tri\u1ec7u nh\u01b0 v\u1eady, so v\u1edbi nh\u1eefng gi\u00e1 tr\u1ecb m\u00e0 chi\u1ebfc m\u00e1y n\u00e0y mang l\u1ea1i th\u1eadt s\u1ef1 l\u00e0 m\u1ed9t m\u00f3n h\u1eddi cho ng\u01b0\u1eddi s\u1eed d\u1ee5ng.",
+            "Tham kh\u1ea3o th\u00eam phi\u00ean b\u1ea3n Core i5:\u00a0https://www.ankhang.vn/laptop-gigabyte-u4-ud-50s1823so.html",
+            "\u0110\u1ebfn \u0111\u00e2y b\u1ea1n \u0111\u00e3 ch\u1ecdn cho m\u00ecnh \u0111\u01b0\u1ee3c m\u00e3 laptop ph\u00f9 h\u1ee3p v\u1edbi m\u00ecnh ch\u01b0a, n\u1ebfu ch\u1ecdn \u0111\u01b0\u1ee3c r\u1ed3i hay ch\u01b0a ch\u1ecdn \u0111\u01b0\u1ee3c h\u00e3y c\u1ee9 li\u00ean h\u1ec7 v\u1edbi An Khang nh\u00e9. An Khang s\u1ebd gi\u00fap b\u1ea1n.",
+            "C\u01a1 s\u1edf 1: S\u1ed1 25 Y\u00ean L\u00e3ng, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i.\u260e 1900 2655 (M\u00e1y l\u1ebb 101 & 102) / Hotline: 0922 744 999.C\u01a1 s\u1edf 2: S\u1ed1 105 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, M\u1ec5 Tr\u00ec, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i\u260e 1900 2655 (M\u00e1y l\u1ebb 301) / Hotline: 0399 655 368",
+            "An Khang Computer\u00a0"
+        ]
+    },
+    {
+        "id_prodcut": "20902",
+        "name": " Laptop Gaming Gigabyte G5 KC-5S11130SB ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i5-10500H (12MB, up to 4.50GHz), Chipset Intel HM470, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_1.jpg",
+            "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_2.jpg",
+            "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_3.jpg",
+            "https://cdn.ankhang.vn/media/product/20902_laptop_gigabyte_g5_kc_5s11130sb_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21027",
+        "name": " Laptop Gigabyte AERO 15 OLED KD-72S1623GO ",
+        "cost": "36.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch UHD Samsung AMOLED, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.00 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_5.jpg",
+            "https://cdn.ankhang.vn/media/product/21027_laptop_gigabyte_aero_15_oled_kd_72s1623go_6.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21028",
+        "name": " Laptop Gigabyte AORUS 15P XD-73S1324GO ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3070 8GB GDDR6, Display 15.6Inch FHD IPS 300Hz, Pin 99WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21028_laptop_gigabyte_aorus_15p_xd_73s1324go_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21029",
+        "name": " Laptop Gigabyte AORUS 15P KD-72S1223GO ",
+        "cost": "Li\u00ean h\u1ec7",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 240Hz, Pin 99WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21029_laptop_gigabyte_aorus_15p_kd_72s1223go_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21271",
+        "name": " Laptop Gigabyte AERO 16 XE5-73VN938AH ",
+        "cost": "73.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i7-12700H (24MB, up to 4.70GHz), RAM 16GB DDR5 4800MHz (2x8GB), SSD 2TB Gen4 7K (2x1TB), VGA NVIDIA GeForce RTX 3070Ti 8GB GDDR6, Display 16.0Inch UHD Thin Bezel Samsung AMOLED, Pin 99WHrs, Color Silver (B\u1ea1c), Finger Print, Weight 2.30 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21271_laptop_gigabyte_aero_16_xe5_73vn938ah_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21272",
+        "name": " Laptop Gigabyte AORUS 15 XE4-73VNB14GH ",
+        "cost": "52.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i7-12700H (24MB, up to 4.70GHz), RAM 16GB DDR4 3200MHz (2x8GB), SSD 1TB Gen4 7K (2x1TB), VGA NVIDIA GeForce RTX 3070Ti 8GB GDDR6, Display 15.6Inch QHD IPS 165Hz, Pin 99WHrs, Color Black (\u0110en), Finger Print, Weight 2.30 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21272_laptop_gigabyte_aorus_15_xe4_73vnb14gh_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21273",
+        "name": " Laptop Gigabyte G5 MD-51S1123SO ",
+        "cost": "21.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.20 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21273_laptop_gigabyte_g5_md_51s1123so_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": []
+    },
+    {
+        "id_prodcut": "21274",
+        "name": " Laptop Gigabyte U4 UD-50S1823SO ",
+        "cost": "16.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i5-1155G7 (8MB, up to 4.50GHz), RAM 16GB DDR4 3200MHz, SSD 512GB M.2 NVMe PCIe, VGA Intel Iris Xe Graphics, Display 14.0Inch FHD IPS Anti-Glare, Pin 36WHrs, Color Light Gray (X\u00e1m), Weight 990g, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21274_laptop_gigabyte_u4_ud_50s1823so_4.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": [
+            "Tuy m\u1edbi tham gia v\u00e0o th\u1ecb tr\u01b0\u1eddng laptop, nh\u01b0ng Gigabyte c\u0169ng \u0111\u00e3 r\u1ea5t th\u00e0nh c\u00f4ng ghi l\u1ea1i d\u1ea5u \u1ea5n th\u01b0\u01a1ng hi\u1ec7u v\u1edbi ng\u01b0\u1eddi d\u00f9ng trong th\u1ecb tr\u01b0\u1eddng n\u00e0y, v\u1edbi nh\u1eefng m\u00e3 laptop \u1ea5n t\u01b0\u1ee3ng v\u00e0 \u0111\u1ea7y \u0111i\u1ec3m nh\u1ea5n. M\u1ed9t trong s\u1ed1 \u0111\u00f3 l\u00e0 laptop Gigabyte U4 UD-50S1823SO. \u0110\u00e2y l\u00e0 m\u1ed9t trong nh\u1eefng m\u00e3\u00a0laptop v\u0103n ph\u00f2ng m\u1ecfng nh\u1eb9 nh\u1ea5t v\u1edbi tr\u1ecdng l\u01b0\u1ee3ng d\u01b0\u1edbi 1kg, thi\u1ebft k\u1ebf sang tr\u1ecdng, v\u00e0 ti\u1ebfp t\u1ee5c th\u1eeba h\u01b0\u1edfng c\u1ea5u h\u00ecnh kh\u1ee7ng - \u0111\u1eb7c tr\u01b0ng c\u1ee7a th\u01b0\u01a1ng hi\u1ec7u laptop Gigabyte. N\u00e0o, ch\u00fang ta h\u00e3y c\u00f9ng theo ch\u00e2n An Khang xem x\u00e9t th\u1eadt chi ti\u1ebft m\u00e3 laptop n\u00e0y nh\u00e9.",
+            "",
+            "\u0110\u1eb7c \u0111i\u1ec3m n\u1ed5i b\u1eadt trong thi\u1ebft k\u1ebf c\u1ee7a\u00a0laptop Gigabyte U4 UD-50S1823SO:",
+            "- Tr\u1ecdng l\u01b0\u1ee3ng si\u00eau nh\u1eb9, ch\u1ec9 990g, ch\u01b0a t\u1edbi 1 kg, nh\u1eb9 h\u01a1n c\u1ea3 LG- \u0110\u1ed9 d\u00e0y ch\u1ec9 16.5mm- Ch\u1ea5t li\u1ec7u Nh\u00f4m Magie si\u00eau b\u1ec1n b\u1ec9\u00a0- B\u1ea3n l\u1ec1 180 \u0111\u1ed9 cao c\u1ea5p",
+            "\u0110\u1ea7u ti\u00ean, d\u00f2ng laptop v\u0103n ph\u00f2ng U4 UD n\u00e0y c\u1ee7a Gigabyte th\u1eadt s\u1ef1 t\u1ea1o \u1ea5n t\u01b0\u1ee3ng m\u1ea1nh cho ng\u01b0\u1eddi d\u00f9ng v\u1edbi tr\u1ecdng l\u01b0\u1ee3ng si\u00eau nh\u1eb9, ch\u1ec9 990g, d\u00f9 b\u1ea1n l\u00e0 nam hay n\u1eef c\u0169ng d\u1ec5 d\u00e0ng c\u1ea7m n\u1eafm chi\u1ebfc m\u00e1y b\u1eb1ng m\u1ed9t tay, l\u00fac di chuy\u1ec3n m\u00e1y ch\u1ec9 nh\u01b0 c\u1ea7m theo m\u1ed9t quy\u1ec3n s\u00e1ch m\u00e0 th\u00f4i. Hi\u1ec7n t\u1ea1i, ngo\u00e0i th\u1ecb tr\u01b0\u1eddng c\u00f3 m\u1ed9t s\u1ed1 d\u00f2ng m\u00e1y \u0111i \u0111\u1ea7u v\u1ec1 \u01b0u \u0111i\u1ec3m si\u00eau m\u1ecfng nh\u1eb9, nh\u01b0ng v\u1edbi gi\u00e1 th\u00e0nh ch\u1ec9 tr\u00ean d\u01b0\u1edbi 16 tri\u1ec7u cho m\u1ed9t chi\u1ebfc laptop core i5\u00a0nh\u01b0 m\u00e3 laptop n\u00e0y th\u00ec hi\u1ec7n t\u1ea1i c\u00f9ng ph\u00e2n kh\u00fac ch\u01b0a c\u00f3 m\u00e3 laptop n\u00e0o n\u1ed5i b\u1eadt.",
+            "",
+            "Kh\u00f4ng ch\u1ec9 \u1ea5n t\u01b0\u1ee3ng b\u1edfi tr\u1ecdng l\u01b0\u1ee3ng si\u00eau nh\u1eb9, \u0111\u1ed9 d\u00e0y c\u1ee7a m\u00e3\u00a0laptop Gigabyte U4 UD c\u0169ng r\u1ea5t m\u1ecfng, ch\u1ec9 d\u00e0y 16.5mm, ch\u01b0a t\u1edbi 1.7cm, v\u00ed n\u00f3 nh\u01b0 m\u1ed9t quy\u1ec3n s\u00e1ch th\u00ec kh\u00f4ng qu\u00e1 ch\u00fat n\u00e0o, \u0111\u1eb7c bi\u1ec7t l\u00e0 khi b\u1ea1n th\u1eadt s\u1ef1 c\u1ea7m chi\u1ebfc laptop n\u00e0y tr\u00ean tay \u0111\u1ec3 tr\u1ea3i nghi\u1ec7m. B\u1ea1n c\u00f3 th\u1ec3 gh\u00e9 qua b\u1ea5t k\u1ef3 c\u01a1 s\u1edf n\u00e0o c\u1ee7a An Khang Computer \u0111\u1ec1u c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng quan s\u00e1t, tr\u1ea3i nghi\u1ec7m h\u00ecnh th\u1ee9c th\u1ef1c t\u1ebf c\u1ee7a m\u00e3 m\u00e1y n\u00e0y ngay l\u1eadp t\u1ee9c m\u00e0 kh\u00f4ng m\u1ea5t b\u1ea5t k\u1ef3 chi ph\u00ed n\u00e0o \u0111\u1ec3 tr\u1ea3i nghi\u1ec7m \u0111\u00e2u nh\u00e9.V\u1edbi \u01b0u \u0111i\u1ec3m n\u00e0y, ch\u00fang ta d\u1ec5 d\u00e0ng b\u1ecf m\u00e1y v\u00e0o t\u00fai x\u00e1ch ho\u1eb7c balo c\u00e1 nh\u00e2n \u0111\u1ec3 mang \u0111\u1ebfn b\u1ea5t k\u1ef3 n\u01a1i n\u00e0o ch\u00fang ta mu\u1ed1n m\u00e0 kh\u00f4ng h\u1ec1 c\u1ed3ng k\u1ec1nh ho\u1eb7c n\u1eb7ng n\u1ec1.",
+            "",
+            "V\u1ec1 m\u1eb7t thi\u1ebft k\u1ebf, Gigabyte U4 UD\u00a0\u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf theo phong c\u00e1ch hi\u1ec7n \u0111\u1ea1i, sang tr\u1ecdng v\u1edbi \u0111\u01b0\u1eddng n\u00e9t thi\u1ebft k\u1ebf tinh gi\u1ea3n, thu h\u00fat; logo m\u00e0u b\u1ea1c t\u1ea1o \u0111i\u1ec3m nh\u1ea5n \u1ea5n t\u01b0\u1ee3ng; t\u00f4ng m\u00e0u x\u00e1m l\u1ecbch s\u1ef1 tr\u00ean n\u1ec1n ch\u1ea5t li\u1ec7u h\u1ee3p kim nh\u00f4m v\u00e0 magie mang l\u1ea1i c\u1ea3m gi\u00e1c cao c\u1ea5p, trang tr\u1ecdng. Ch\u1ea5t li\u1ec7u n\u00e0y mang l\u1ea1i s\u1ef1 b\u1ec1n b\u1ec9 l\u00e2u d\u00e0i v\u1edbi th\u1eddi gian cho m\u00e1y, \u0111\u00e2y c\u0169ng l\u00e0 m\u1ed9t \u01b0u \u0111i\u1ec3m c\u1ee7a m\u00e3 laptop n\u00e0y, b\u1edfi trong c\u00f9ng ph\u00e2n kh\u00fac n\u00e0y, c\u00e1c m\u00e1y kh\u00e1c t\u01b0\u01a1ng t\u1ef1 ch\u1ec9 \u0111\u01b0\u1ee3c l\u00e0m t\u1eeb ch\u1ea5t li\u1ec7u nh\u1ef1a m\u00e0 th\u00f4i. N\u1ebfu b\u1ea1n l\u00e0 doanh nh\u00e2n ho\u1eb7c b\u1ea5t k\u1ef3 ai y\u00eau th\u00edch s\u1ef1 sang tr\u1ecdng, cao c\u1ea5p th\u00ec \u0111\u00e2y ch\u00ednh l\u00e0 ng\u01b0\u1eddi b\u1ea1n \u0111\u1ed3ng h\u00e0nh kh\u00e1 l\u00fd t\u01b0\u1edfng cho b\u1ea1n \u0111\u1ea5y.",
+            "",
+            "\u1ede c\u1ea1nh tr\u00ean c\u1ee7a Gigabyte UD-50S1823SO c\u00f3 m\u1ed9t ph\u1ea7n nh\u00f4 ra, gi\u00fap ng\u01b0\u1eddi d\u00f9ng m\u1edf m\u00e1y ra d\u1ec5 d\u00e0ng, \u0111\u00e2y l\u00e0 m\u1ed9t \u0111i\u1ec3m c\u1ed9ng cho s\u1ef1 th\u00f4ng minh v\u00e0 tinh t\u1ebf c\u1ee7a Gigabyte tr\u00ean d\u00f2ng laptop Gigabyte U4 UD n\u00e0y. B\u1ea3n l\u1ec1 ch\u1eafc ch\u1eafn v\u00e0 \u0111\u1eb7c bi\u1ec7t c\u00f3 g\u00f3c m\u1edf r\u1ed9ng t\u1edbi 180 \u0111\u1ed9 gi\u00fap ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng chia s\u1ebb m\u00e0n h\u00ecnh ho\u1eb7c thao t\u00e1c v\u1edbi m\u00e1y \u0111\u01a1n gi\u1ea3n h\u01a1n khi n\u1eb1m tr\u00ean gi\u01b0\u1eddng xem phim, l\u01b0\u1edbt web,...",
+            "",
+            "T\u00f3m t\u1eaft c\u1ea5u h\u00ecnh Laptop Gigabyte U4 UD-50S1823SO:\u00a0- CPU Intel Core i5-1155G7 (8MB, up to 4.50GHz)- RAM 16GB DDR4 3200MHz- SSD 512GB M.2 NVMe PCIe- VGA Intel Iris Xe Graphics- OS Windows 11 Home",
+            "Laptop Gigabyte U4 UD-50S1823SO s\u1edf h\u1eefu b\u1ed9 vi x\u1eed l\u00fd Intel Core i5-1155G7, 4 nh\u00e2n 8 lu\u1ed3ng, b\u1ed9 nh\u1edb \u0111\u1ec7m 8MB, xung nh\u1ecbp t\u1ed1i \u0111a l\u00ean t\u1edbi 4.50GHz, c\u00f9ng v\u1edbi card \u0111\u1ed3 h\u1ecda Intel Iris Xe Graphics h\u1ed7 tr\u1ee3 t\u1ed1t c\u00e1c t\u00e1c v\u1ee5 \u0111\u1ed3 h\u1ecda 2D nh\u1eb9 nh\u00e0ng v\u00e0 x\u1eed l\u00fd m\u01b0\u1ee3t m\u00e0 c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng nh\u01b0 word, excel, power point,..., l\u01b0\u1edbt web, xem phim, gi\u1ea3i tr\u00ed, gaming nh\u1eb9 nh\u00e0ng (LOL, Dota, \u0111\u1ed9t k\u00edch,...)",
+            "",
+            "Kh\u00e1 hi\u1ebfm c\u00e1c m\u00e3\u00a0laptop v\u0103n ph\u00f2ng gi\u00e1 r\u1ebb \u0111\u01b0\u1ee3c trang b\u1ecb ram 16GB DDR4 bus 3200MHz \u0111\u1eb7c bi\u1ec7t l\u1ea1i trong tr\u01b0\u1eddng h\u1ee3p thi\u1ebft k\u1ebf \u0111\u00e3 \u0111\u01b0\u1ee3c t\u1ed1i \u01b0u v\u01b0\u1ee3t b\u1eadc nh\u01b0 Gigabyte U4 UD-50S1823SO th\u1ebf n\u00e0y, ng\u01b0\u1eddi d\u00f9ng tho\u1ea3i m\u00e1i th\u1ef1c hi\u1ec7n c\u00e1c t\u00e1c v\u1ee5 k\u1ec3 tr\u00ean, \u0111\u1ed3ng th\u1eddi c\u0169ng \u0111\u01b0\u1ee3c tr\u1ea3i nghi\u1ec7m c\u1ea3m gi\u00e1c \u0111a nhi\u1ec7m m\u01b0\u1ee3t m\u00e0 \u0111\u1ebfn t\u1eeb s\u1ee9c m\u1ea1nh c\u1ee7a 16GB ram.",
+            "",
+            "\u1ed4 c\u1ee9ng SSD M.2 NVMe PCIe Gen 4 dung l\u01b0\u1ee3ng 512GB kh\u00f4ng ch\u1ec9 gi\u00fap ng\u01b0\u1eddi d\u00f9ng tho\u1ea3i m\u00e1i l\u01b0u tr\u1eef c\u00e1c file t\u1ec7p v\u0103n ph\u00f2ng, \u0111\u1ed3 h\u1ecda, ho\u1eb7c c\u00e1c video, h\u00ecnh \u1ea3nh, \u00e2m thanh y\u00eau th\u00edch,..., m\u00e0 mang l\u1ea1i t\u1ed1c \u0111\u1ed9 kh\u1edfi \u0111\u1ed9ng m\u00e1y nhanh h\u01a1n r\u1ea5t nhi\u1ec1u so v\u1edbi c\u00e1c m\u00e3 SSD Gen 3 th\u01b0\u1eddng th\u1ea5y \u1edf c\u00e1c m\u00e3 laptop c\u00f9ng ph\u00e2n kh\u00fac tr\u00ean th\u1ecb tr\u01b0\u1eddng. Ngo\u00e0i ra, m\u00e1y c\u00f2n s\u1edf h\u1eefu Windows 11 Home \u0111\u00e1nh tan n\u1ed7i lo virus, kh\u00f4ng an to\u00e0n t\u1eeb win crack cho ng\u01b0\u1eddi d\u00f9ng.",
+            "",
+            "M\u00e3\u00a0laptop Gigabyte core i5 n\u00e0y kh\u00f4ng ch\u1ec9 cao c\u1ea5p \u1edf thi\u1ebft k\u1ebf, m\u1ea1nh m\u1ebd \u1edf c\u1ea5u h\u00ecnh m\u00e0 c\u00f2n c\u00f3 m\u00e0n h\u00ecnh FHD IPS v\u1edbi ba vi\u1ec1n si\u00eau m\u1ecfng. K\u00edch th\u01b0\u1edbc 14.0inch c\u1ee7a m\u00e0n h\u00ecnh l\u00e0 m\u1ed9t k\u00edch th\u01b0\u1edbc v\u1eeba \u0111\u1eb9p cho c\u00e1c m\u00e3 laptop v\u0103n ph\u00f2ng, kh\u00f4ng qu\u00e1 to c\u0169ng kh\u00f4ng qu\u00e1 nh\u1ecf \u0111\u1ec3 ph\u1ee5c v\u1ee5 nhu c\u1ea7u l\u00e0m vi\u1ec7c nh\u01b0ng v\u1eabn gi\u1eef \u0111\u01b0\u1ee3c s\u1ef1 g\u1ecdn nh\u1eb9 cho to\u00e0n b\u1ed9 thi\u1ebft k\u1ebf. Tuy ba vi\u1ec1n c\u1ee7a m\u00e0n h\u00ecnh \u0111\u00e3 \u0111\u01b0\u1ee3c tinh g\u1ecdn r\u1ea5t m\u1ecfng nh\u01b0ng Gigabyte v\u1eabn gi\u1eef l\u1ea1i ph\u1ea7n camera \u0111\u1ec3 ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng call video, h\u1ecdp, h\u1ecdc online t\u1eeb xa d\u1ec5 d\u00e0ng.",
+            "",
+            "Quay tr\u1edf l\u1ea1i v\u1edbi m\u00e0n h\u00ecnh, Gigabyte U4 UD-50S1823SO s\u1edf h\u1eefu c\u00e1c th\u00f4ng s\u1ed1 hi\u1ec3n th\u1ecb r\u1ea5t \u1ea5n t\u01b0\u1ee3ng. Ngo\u00e0i \u0111\u1ed9 ph\u00e2n gi\u1ea3i FHD c\u00f9ng t\u1ea5m n\u1ec1n IPS nh\u01b0 tr\u00ean m\u00e1y c\u00f2n c\u00f3 \u0111\u1ed9 bao ph\u1ee7 m\u00e0u 72%NTSC, 100%sRGB v\u00e0 75%DCI-P3 v\u00e0 cho ch\u1ea5t l\u01b0\u1ee3ng h\u00ecnh \u1ea3nh chi ti\u1ebft, s\u1eafc n\u00e9t, m\u00e0u s\u1eafc ch\u00ednh x\u00e1c, ph\u1ee5c v\u1ee5 t\u1ed1t nhu c\u1ea7u h\u1ecdc t\u1eadp, l\u00e0m vi\u1ec7c, gi\u1ea3i tr\u00ed \u0111\u1ebfn nhu c\u1ea7u \u0111\u1ed3 h\u1ecda 2D nh\u1eb9 nh\u00e0ng.",
+            "",
+            "Ch\u01b0a h\u1ebft, v\u1edbi \u0111\u1ed9 s\u00e1ng 300nits, ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 l\u00e0m vi\u1ec7c \u1edf b\u1ea5t k\u1ef3 \u0111i\u1ec1u ki\u1ec7n \u00e1nh s\u00e1ng n\u00e0o k\u1ec3 c\u1ea3 ngo\u00e0i tr\u1eddi hay trong v\u0103n ph\u00f2ng \u00e1nh s\u00e1ng m\u1ea1nh c\u0169ng kh\u00f4ng b\u1ecb b\u00f3ng m\u1edd hay b\u1ecb t\u1ed1i m\u00e0n h\u00ecnh.",
+            "",
+            "Laptop Gigabyte U4 UD s\u1edf h\u1eefu b\u00e0n ph\u00edm Chiclet v\u1edbi h\u00e0nh tr\u00ecnh ph\u00edm d\u00e0i; layout ph\u00edm th\u00f4ng minh, d\u1ec5 nh\u00ecn; k\u00edch th\u01b0\u1edbc ph\u00edm t\u1ed1t; \u0111\u1eb7c bi\u1ec7t c\u00f3 \u0111\u00e8n n\u1ec1n m\u00e0u tr\u1eafng h\u1ed7 tr\u1ee3 ng\u01b0\u1eddi d\u00f9ng l\u00e0m vi\u1ec7c trong \u0111i\u1ec1u ki\u1ec7n thi\u1ebfu \u00e1nh s\u00e1ng.\u00a0V\u1ecb tr\u00ed n\u00fat ngu\u1ed3n \u1edf c\u1ea1nh h\u00f4ng r\u1ea5t th\u00f4ng minh, ch\u00fang ta c\u00f3 th\u1ec3 m\u1edf n\u00fat ngu\u1ed3n k\u1ec3 c\u1ea3 khi ch\u01b0a m\u1edf m\u00e0n h\u00ecnh.Touchpad m\u01b0\u1ee3t, c\u00e1c thao t\u00e1c k\u00e9o, vu\u1ed1t, th\u1ea3,... kh\u00e1 m\u01b0\u1edbt tay.",
+            "",
+            "Laptop Gigabyte U4 \u0111\u01b0\u1ee3c Gigabyte trang b\u1ecb cho m\u1ed9t h\u1ec7 th\u1ed1ng k\u1ebft n\u1ed1i th\u00f4ng minh v\u00e0 t\u01b0\u01a1ng \u0111\u1ed1i \u0111\u1ea7y \u0111\u1ee7. C\u1ea1nh ph\u1ea3i g\u1ed3m 01 c\u1ed5ng USB 3.2 Type-A,01 jack tai nghr 3.5mm, 01 th\u1ebb MicroSD, n\u00fat ngu\u1ed3n \u0111\u00e3 n\u00f3i \u1edf tr\u00ean v\u00e0 kh\u00f3a K-Lock. C\u1ea1nh tr\u00e1i g\u1ed3m 01 c\u1ed5ng s\u1ea1c, 01 c\u1ed5ng HDMI v\u00e0 01 c\u1ed5ng USB 3.2 Type-A v\u00e0 \u0111\u1eb7c bi\u1ec7t l\u00e0 01 c\u1ed5ng USB Type-C. V\u1edbi s\u1ed1 l\u01b0\u1ee3ng c\u1ed5ng nh\u01b0 th\u1ebf n\u00e0y, ng\u01b0\u1eddi d\u00f9ng tho\u1ea3i m\u00e1i k\u1ebft n\u1ed1i c\u00e1c thi\u1ebft b\u1ecb ngo\u1ea1i vi ph\u1ee5c v\u1ee5 nhu c\u1ea7u h\u1ecdc t\u1eadp v\u00e0 l\u00e0m vi\u1ec7c m\u00e0 g\u1ea7n nh\u01b0 kh\u00f4ng ph\u1ea3i mua c\u00e1c c\u1ed5ng chuy\u1ec3n \u0111\u1ed5i ph\u1ee9c t\u1ea1p.",
+            "",
+            "Tuy \u0111\u01b0\u1ee3c trang b\u1ecb vi\u00ean pin kh\u00e1 nh\u1ecf v\u1edbi 36WHrs nh\u01b0ng th\u1eddi l\u01b0\u1ee3ng pin c\u1ee7a laptop Gigabyte U4 UD-50S1823SO\u00a0v\u1eabn r\u1ea5t \u1ed5n v\u1edbi 4,5 ti\u1ebfng n\u1ebfu ch\u1ec9 ho\u1ea1t \u0111\u1ed9ng c\u00e1c t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng. \u0110\u00e2y l\u00e0 m\u1ed9t th\u1eddi l\u01b0\u1ee3ng pin ph\u00f9 h\u1ee3p cho doanh nh\u00e2n, nh\u00e2n vi\u00ean v\u0103n ph\u00f2ng, gi\u00e1o vi\u00ean, h\u1ecdc sinh sinh vi\u00ean,... ho\u1ea1t \u0111\u1ed9ng tho\u1ea3i m\u00e1i trong m\u1ed9t bu\u1ed5i l\u00e0m vi\u1ec7c. Bu\u1ed5i tr\u01b0a ho\u1eb7c gi\u1edd gi\u1ea3i lao b\u1ea1n c\u00f3 th\u1ec3 tranh th\u1ee7 s\u1ea1c nhanh th\u00f4ng qua\u00a0c\u1ed5ng\u00a0USB Type-C, ch\u1ec9 c\u1ea7n 30% l\u00e0 ch\u00fang ta \u0111\u00e3 c\u00f3 \u0111\u01b0\u1ee3c 45% pin \u0111\u1ec3 s\u1eed d\u1ee5ng. Tuy nhi\u00ean n\u1ebfu b\u1ea1n l\u00e0m \u0111\u1ed3 h\u1ecda ho\u1eb7c ch\u01a1i game th\u00ec th\u1eddi l\u01b0\u1ee3ng s\u1eed d\u1ee5ng pin s\u1ebd \u00edt h\u01a1n m\u1ed9t ch\u00fat.",
+            "",
+            "K\u1ebft lu\u1eadn: Laptop Gigabyte U4 UD-50S1823SO l\u00e0 m\u1ed9t m\u00e3 laptop v\u0103n ph\u00f2ng gi\u00e1 r\u1ebb c\u00f3 tr\u1ecdng l\u01b0\u1ee3ng si\u00eau nh\u1eb9, thi\u1ebft k\u1ebf cao c\u1ea5p, v\u1ecf kim lo\u1ea1i b\u1ec1n b\u1ec9, b\u1ea3n l\u1ec1 180 \u0111\u1ed9 ti\u1ec7n l\u1ee3i, c\u1ea5u h\u00ecnh kh\u1ee7ng, m\u00e0n h\u00ecnh si\u00eau x\u1ecbn, b\u00e0n ph\u00edm c\u00f3 \u0111\u00e8n led, th\u1eddi l\u01b0\u1ee3ng pin \u1ed5n, ph\u1ee5c v\u1ee5 m\u01b0\u1ee3t m\u00e0 c\u00e1c c\u00f4ng vi\u1ec7c v\u0103n ph\u00f2ng, gi\u1ea3i tr\u00ed, h\u1ecdc t\u1eadp v\u00e0 l\u00e0m \u0111\u1ed3 h\u1ecda nh\u1eb9 nh\u00e0ng. Trong t\u1ea7m gi\u00e1 16, 17tr th\u00ec \u0111\u00e2y l\u00e0 m\u1ed9t l\u1ef1a ch\u1ecdn ho\u00e0n h\u1ea3o nh\u1ea5t.",
+            "Tham kh\u1ea3o th\u00eam d\u00f2ng laptop gaming c\u1ee7a Gigabyte:\u00a0https://www.ankhang.vn/laptop-gigabyte-g5-gd-51s1123so.html",
+            "\u0110\u1ebfn \u0111\u00e2y b\u1ea1n \u0111\u00e3 ch\u1ecdn cho m\u00ecnh \u0111\u01b0\u1ee3c m\u00e3 laptop ph\u00f9 h\u1ee3p v\u1edbi m\u00ecnh ch\u01b0a, n\u1ebfu ch\u1ecdn \u0111\u01b0\u1ee3c r\u1ed3i hay ch\u01b0a ch\u1ecdn \u0111\u01b0\u1ee3c h\u00e3y c\u1ee9 li\u00ean h\u1ec7 v\u1edbi An Khang nh\u00e9. An Khang s\u1ebd gi\u00fap b\u1ea1n.",
+            "C\u01a1 s\u1edf 1: S\u1ed1 25 Y\u00ean L\u00e3ng, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i.\u260e 1900 2655 (M\u00e1y l\u1ebb 101 & 102) / Hotline: 0922 744 999.C\u01a1 s\u1edf 2: S\u1ed1 105 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, M\u1ec5 Tr\u00ec, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i\u260e 1900 2655 (M\u00e1y l\u1ebb 301) / Hotline: 0399 655 368",
+            "An Khang Computer\u00a0"
+        ]
+    },
+    {
+        "id_prodcut": "21488",
+        "name": " Laptop Gigabyte G7 MD-71S1123SO ",
+        "cost": "25.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i7-11800H (24MB, up to 4.60GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz (2x8GB), SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Display 17.3Inch FHD IPS 72%NTSC, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.50 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_5.jpg",
+            "https://cdn.ankhang.vn/media/product/21488_laptop_gigabyte_g7_md_71s1123so_6.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": [
+            "N\u1ebfu b\u1ea1n l\u00e0 game th\u1ee7, ng\u01b0\u1eddi l\u00e0m \u0111\u1ed3 h\u1ecda chuy\u00ean nghi\u1ec7p, ng\u01b0\u1eddi s\u00e1ng t\u1ea1o video ho\u1eb7c \u0111\u01a1n gi\u1ea3n b\u1ea1n \u0111ang t\u00ecm m\u1ed9t chi\u1ebfc laptop \u0111\u1ec3 v\u1eeba h\u1ecdc, v\u1eeba ch\u01a1i game m\u00e0 gi\u00e1 th\u00e0nh v\u1eeba ph\u1ea3i, th\u00ec Laptop Gigabyte G7 MD-71S1123SO ch\u00ednh l\u00e0 m\u1ed9t l\u1ef1a ch\u1ecdn ph\u00f9 h\u1ee3p v\u1edbi y\u00eau c\u1ea7u c\u1ee7a b\u1ea1n. N\u1ebfu c\u00f2n nghi ng\u1edd, h\u00e3y xem chi ti\u1ebft b\u00e0i \u0111\u00e1nh gi\u00e1 nhanh c\u1ee7a An Khang v\u1ec1 chi\u1ebfc\u00a0laptop Gaming gi\u00e1 r\u1ebb n\u00e0y \u0111\u1ec3 t\u00ecm hi\u1ec3u xem c\u00f3 th\u1ef1c s\u1ef1 ph\u00f9 h\u1ee3p v\u1edbi nhu c\u1ea7u c\u1ee7a m\u00ecnh kh\u00f4ng nh\u00e9.",
+            "",
+            "\u0110\u1eb7c \u0111i\u1ec3m n\u1ed5i b\u1eadt trong thi\u1ebft k\u1ebf c\u1ee7a Laptop Gigabyte G7 MD-71S1123SO:+ M\u00e0n h\u00ecnh r\u1ed9ng r\u00e3i 17.3inch \u00edt c\u00f3 \u1edf laptop gaming, \u0111\u1ed3 h\u1ecda c\u00f9ng t\u1ea7m gi\u00e1+ M\u00e0n h\u00ecnh l\u1edbn nh\u01b0ng tr\u1ecdng l\u01b0\u1ee3ng nh\u1eb9.+ Thi\u1ebft k\u1ebf m\u1ea1nh m\u1ebd nh\u01b0ng kh\u00f4ng qu\u00e1 h\u1ea7m h\u1ed1 t\u1ea1i m\u00f4i tr\u01b0\u1eddng c\u00f4ng ty, tr\u01b0\u1eddng h\u1ecdc",
+            "",
+            "\u0110\u00e2y l\u00e0 m\u00e3 laptop th\u1ee9 hai trong Series nh\u1eefng m\u00e3\u00a0laptop gaming Gigabyte m\u00e0 An Khang review v\u00e0 th\u1eadt s\u1ef1 t\u00e2m \u0111\u1eafc c\u1ea3 v\u1ec1 thi\u1ebft k\u1ebf\u00a0l\u1eabn\u00a0tr\u1ea3i nghi\u1ec7m khi s\u1eed d\u1ee5ng. Nh\u01b0 \u0111\u00e3 n\u00f3i, m\u1eb7c d\u00f9 \u0111\u00e2y l\u00e0 m\u1ed9t m\u00e3 laptop gaming gi\u00e1 r\u1ebb 17.3inch nh\u01b0ng m\u00e1y ch\u1ec9 n\u1eb7ng 2.50kg v\u00e0 d\u00e0y ch\u1ec9 25.9mm, r\u1ea5t g\u1ecdn, nh\u1eb9 so v\u1edbi laptop gaming 17.3inch kh\u00e1c, ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng \u0111em theo m\u00e1y \u0111\u1ebfn c\u00f4ng ty, tr\u01b0\u1eddng h\u1ecdc ho\u1eb7c b\u1ea5t c\u1ee9 \u0111\u00e2u ng\u01b0\u1eddi d\u00f9ng mu\u1ed1n.",
+            "",
+            "Do m\u1ee5c \u0111\u00edch s\u1eed d\u1ee5ng h\u01b0\u1edbng t\u1edbi nh\u1eefng ng\u01b0\u1eddi d\u00f9ng l\u00e0m \u0111\u1ed3 h\u1ecda, game th\u1ee7 chuy\u00ean nghi\u1ec7p l\u00e0m vi\u1ec7c t\u1ea1i c\u00f4ng ty, ho\u1eb7c v\u1eeba h\u1ecdc v\u1eeba ch\u01a1i game n\u00ean kh\u00f4ng ch\u1ec9 c\u1ea7n m\u1ed9t chi\u1ebfc laptop c\u00f3 ngo\u1ea1i h\u00ecnh m\u1ea1nh m\u1ebd, \u0111\u1eb9p m\u1eaft nh\u01b0ng l\u1ea1i kh\u00f4ng qu\u00e1 h\u1ea7m h\u1ed1 t\u1ea1i m\u00f4i tr\u01b0\u1eddng c\u00f4ng ty, tr\u01b0\u1eddng h\u1ecdc n\u00ean m\u00e3 laptop gaming Gigabyte n\u00e0y \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf theo phong c\u00e1ch Gaming \"\u1ea9n m\u00ecnh\" trong phong c\u00e1ch v\u0103n ph\u00f2ng. M\u1eb7t l\u01b0ng c\u1ee7a m\u00e1y \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf \u0111\u01a1n gi\u1ea3n ch\u1ee9 kh\u00f4ng h\u1ea7m h\u1ed1 v\u1edbi c\u00e1c \u0111\u01b0\u1eddng g\u00e2n hay \u0111\u00e8n Led ch\u1edbp nh\u00e1y nh\u01b0ng v\u1eabn \u0111\u1ea7y m\u1ea1nh m\u1ebd t\u1eeb t\u00f4ng m\u00e0u \u0111en hi\u1ec7n \u0111\u1ea1i, \u0111\u01b0\u1eddng n\u00e9t thi\u1ebft k\u1ebf tinh t\u1ebf, ph\u00f3ng kho\u00e1ng, d\u1ee9t kho\u00e1t. Logo Gigabyte m\u00e0u s\u00e1ng n\u1ed5i b\u1eadt tr\u00ean to\u00e0n b\u1ed9 m\u1eb7t l\u01b0ng t\u1ea1o \u0111i\u1ec3m nh\u1ea5n \u1ea5n t\u01b0\u1ee3ng cho t\u1ed5ng th\u1ec3 thi\u1ebft k\u1ebf.",
+            "",
+            "Laptop Gigabyte G7 MD-71S1123SO c\u00f3 m\u00e0n h\u00ecnh k\u00edch th\u01b0\u1edbc 17.3Inch r\u1ed9ng r\u00e3i. Th\u1ed1ng nh\u1ea5t trong m\u1ee5c \u0111\u00edch thi\u1ebft k\u1ebf v\u00e0 x\u00e2y d\u1ef1ng, \u0111\u1ec1u h\u01b0\u1edbng t\u1edbi \u0111\u1ed1i t\u01b0\u1ee3ng kh\u00e1ch h\u00e0ng game th\u1ee7, designer, th\u01b0\u1eddng c\u1ea7n m\u1ed9t m\u00e0n h\u00ecnh c\u00f3 k\u00edch th\u01b0\u1edbc r\u1ed9ng r\u00e3i, n\u00ean k\u00edch th\u01b0\u1edbc 17.3inch c\u1ee7a MD-71S1123SO th\u1eadt s\u1ef1 l\u00e0 m\u1ed9t \u01b0u \u0111i\u1ec3m so v\u1edbi c\u00e1c m\u00e3 laptop kh\u00e1c c\u00f9ng ph\u00e2n kh\u00fac.",
+            "",
+            "Ngo\u00e0i ra, m\u00e3\u00a0laptop 17.3inch n\u00e0y c\u00f2n c\u00f3\u00a0 \u0111\u1ed9 ph\u00e2n gi\u1ea3i FHD k\u1ebft h\u1ee3p v\u1edbi \u0111\u1ed9 ph\u1ee7 m\u00e0u 72%NTSC mang l\u1ea1i cho MD-71S1123SO ch\u1ea5t l\u01b0\u1ee3ng h\u00ecnh \u1ea3nh s\u1eafc n\u00e9t, chi ti\u1ebft, m\u00e0u s\u1eafc ch\u00ednh x\u00e1c, kh\u00f4ng ch\u1ec9 t\u0103ng ch\u1ea5t l\u01b0\u1ee3ng tr\u1ea3i nghi\u1ec7m ch\u01a1i game, gi\u1ea3i tr\u00ed m\u00e0 c\u00f2n h\u1ed7 tr\u1ee3 chu\u1ea9n m\u00e0u \u0111\u1ec3 l\u00e0m \u0111\u1ed3 h\u1ecda. T\u1ea5m n\u1ec1n IPS cho g\u00f3c nh\u00ecn r\u1ed9ng l\u00ean t\u1edbi 178 \u0111\u1ed9 m\u00e0 kh\u00f4ng b\u1ecb l\u00f3a.",
+            "",
+            "T\u00f3m t\u1eaft c\u1ea5u h\u00ecnh c\u1ee7a m\u00e3 Laptop Gigabyte G7 MD-71S1123SO- CPU Intel Core i7-11800H (24MB, up to 4.60GHz)- Chipset Intel HM570- RAM 16GB DDR4 3200MHz (2x8GB)- SSD 512GB M.2 NVMe PCIe- VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6- OS Windows 11 Home",
+            "",
+            "D\u1ec5 d\u00e0ng th\u1ea5y, v\u1edbi s\u1ee9c m\u1ea1nh \u0111\u1ebfn t\u1eeb b\u1ed9 \u0111\u00f4i Intel Core i7-11800H Processor v\u00e0 VGA NVIDIA GeForce RTX 3050Ti 4GB GDDR6, Gigabyte G7 MD-71S1123SO s\u1eb5n s\u00e0ng c\u00e2n m\u1ecdi t\u1ef1a game AAA hot nh\u1ea5t hi\u1ec7n t\u1ea1i, kh\u00f4ng nh\u1eefng th\u1ebf, n\u1ebfu b\u1ea1n l\u00e0m \u0111\u1ed3 h\u1ecda 2D, 3D hay edit, render video c\u0169ng r\u1ea5t m\u01b0\u1ee3t m\u00e0. Ram Dual DDR4 bus 3200MHz nhanh nh\u1ea1y v\u1edbi dung l\u01b0\u1ee3ng 16GB kh\u00f4ng ch\u1ec9 g\u00f3p ph\u1ea7n v\u00e0o t\u1ed1c \u0111\u1ed9 x\u1eed l\u00fd m\u01b0\u1ee3t m\u00e0 c\u1ee7a m\u00e1y m\u00e0 c\u00f2n h\u1ed7 tr\u1ee3 \u0111a nhi\u1ec7m c\u1ef1c t\u1ed1t, d\u00f9 b\u1ea1n h\u1ecdc hay l\u00e0m vi\u1ec7c th\u00ec chi\u1ebfc laptop n\u00e0y \u0111\u1ec1u \u0111\u00e1p \u1ee9ng m\u01b0\u1ee3t m\u00e0 y\u00eau c\u1ea7u c\u1ee7a b\u1ea1n.",
+            "",
+            "\u1ed4 c\u1ee9ng SSD M.2 NVMe PCIe dung l\u01b0\u1ee3ng 512GB cho ph\u00e9p ng\u01b0\u1eddi d\u00f9ng tho\u1ea3i m\u00e1i l\u01b0u tr\u1eef c\u00e1c t\u1ef1a game y\u00eau th\u00edch, b\u00e0i gi\u1ea3ng, t\u00e0i li\u1ec7u c\u00f4ng vi\u1ec7c, film, \u1ea3nh ho\u1eb7c b\u1ea5t c\u1ee9 file t\u1ec7p g\u00ec v\u00e0o m\u00e3\u00a0laptop Core i7 x\u1ecbn x\u00f2. Ch\u01b0a k\u1ec3 SSD M.2 NVMe PCIe c\u00f2n mang l\u1ea1i cho Gigabyte G7 MD kh\u1ea3 n\u0103ng \u0111\u00f3ng m\u1edf m\u00e1y v\u00e0 c\u00e1c \u1ee9ng d\u1ee5ng c\u1ef1c nhanh nh\u1ea1y.",
+            "",
+            "V\u1edbi h\u1ec7 \u0111i\u1ec1u h\u00e0nh Windows 11 Home b\u1ea3n quy\u1ec1n m\u1edbi nh\u1ea5t s\u1eb5n theo m\u00e1y,\u00a0Laptop Gigabyte G7 MD-71S1123SO \u0111\u1ea3m b\u1ea3o cho ng\u01b0\u1eddi d\u00f9ng an t\u00e2m s\u1eed d\u1ee5ng m\u00e0 kh\u00f4ng c\u1ea7n lo s\u1ee3 m\u1ed7i l\u1ea7n g\u1eb7p \u0111\u1ee3t update windows hay virus t\u1ea5n c\u00f4ng nh\u01b0 nh\u1eefng b\u1ea3n win kh\u00f4ng ch\u00ednh h\u00e3ng ngo\u00e0i th\u1ecb tr\u01b0\u1eddng.",
+            "",
+            "Laptop Gaming Gigabyte G7 MD \u0111\u01b0\u1ee3c Gigabyte trang b\u1ecb cho m\u1ed9t h\u1ec7 th\u1ed1ng c\u1ed5ng k\u1ebft n\u1ed1i kh\u00f4ng th\u1ec3 \u0111\u1ea7y \u0111\u1ee7 h\u01a1n. C\u1ed5ng m\u1ea1ng Lan k\u1ebft n\u1ed1i m\u1ea1ng \u0111\u1ec3 hi\u1ec7u su\u1ea5t ch\u01a1i game v\u00e0 l\u00e0m \u0111\u1ed3 h\u1ecda m\u1ea1nh v\u00e0 \u1ed5n \u0111\u1ecbnh nh\u1ea5t. C\u1ed5ng HDMI k\u1ebft n\u1ed1i m\u00e0n h\u00ecnh ngo\u00e0i v\u1eeba \u0111\u1ec3 ch\u01a1i game, l\u00e0m \u0111\u1ed3 h\u1ecda, thuy\u1ebft tr\u00ecnh, h\u1ecdp h\u00e0nh,.... Kh\u00f4ng ch\u1ec9 c\u00f3 HDMI m\u00e0 c\u1ed5ng mini DisplayPort c\u0169ng \u0111\u01b0\u1ee3c trang b\u1ecb \u0111\u1ec3 \u0111\u1ee1 ph\u1ea3i chuy\u1ec3n \u0111\u1ed5i c\u1ed5ng lo\u1eb1ng ngo\u1eb1ng. C\u1ed5ng USB Type-C \u0111a ch\u1ee9c n\u0103ng. Nh\u01b0 v\u1eady, ch\u00fang ta c\u00f3 h\u1eb3n 3 c\u1ed5ng \u0111\u1ec3 k\u1ebft n\u1ed1i m\u00e0n h\u00ecnh ngo\u00e0i, kh\u00f4ng ch\u1ec9 ph\u1ee5c v\u1ee5 nhu c\u1ea7u ch\u01a1i game (\u0111\u1eb7c bi\u1ec7t l\u00e0 game \u0111ua xe) m\u00e0 c\u00f2n h\u1ed7 tr\u1ee3 c\u00e1c c\u00f4ng vi\u1ec7c Media c\u1ef1c t\u1ed1t m\u00e0 kh\u00f4ng ph\u1ea3i chi\u1ebfc laptop n\u00e0o c\u0169ng \u0111\u00e1p \u1ee9ng \u0111\u01b0\u1ee3c.",
+            "",
+            "C\u00e1c c\u1ed5ng USB 3.2 nhanh nh\u1ea1y \u0111\u1ec3 k\u1ebft n\u1ed1i c\u00e1c thi\u1ebft b\u1ecb ngo\u00e0i; c\u1ed5ng USB 2.0 th\u00ec \u0111\u1ec3 k\u1ebft n\u1ed1i b\u1ed9 chu\u1ed9t b\u00e0n ph\u00edm. Jack c\u1eafm tai nghe, v\u00e0 jack c\u1eafm mic 3.5mm ri\u00eang bi\u1ec7t t\u0103ng ch\u1ea5t l\u01b0\u1ee3ng tr\u1ea3i nghi\u1ec7m \u00e2m thanh, thu \u00e2m. \u0110\u1ebfn c\u1ea3 khe c\u1eafm th\u1ebb nh\u1edb c\u0169ng \u0111\u01b0\u1ee3c Gigabyte trang b\u1ecb cho\u00a0Gigabyte G7 MD-71S1123SO \u0111\u1ea7y \u0111\u1ee7, \u0111\u1ec3 h\u1ed7 tr\u1ee3 cho ng\u01b0\u1eddi d\u00f9ng t\u1ed1t nh\u1ea5t.",
+            "",
+            "Laptop Gigabyte G7 MD-71S1123SO\u00a0s\u1edf h\u1eefu b\u00e0n ph\u00edm full size, c\u00f3 c\u1ee5m b\u00e0n ph\u00edm s\u1ed1 \u0111i k\u00e8m h\u1ed7 tr\u1ee3 nh\u1eadp li\u1ec7u\u00a0khi h\u1ecdc t\u1eadp v\u00e0 l\u00e0m vi\u1ec7c;\u00a0\u0111\u00e8n LED RGB. Tuy \u0111\u00e2y l\u00e0 LED RGB m\u1ed9t v\u00f9ng nh\u01b0ng b\u1ea1n c\u00f3 th\u1ec3 tho\u1ea3i m\u00e1i \u0111i\u1ec1u ch\u1ec9nh theo m\u00e0u y\u00eau th\u00edch ho\u1eb7c h\u1ee3p v\u1edbi b\u1ea3n m\u1ec7nh c\u1ee7a b\u1ea3n th\u00e2n ch\u1eb3ng h\u1ea1n. H\u00e0nh tr\u00ecnh c\u1ee7a ph\u00edm s\u00e2u, t\u1ed1c \u0111\u1ed9 x\u1eed l\u00fd nhanh nh\u1ea1y, mang l\u1ea1i c\u1ea3m gi\u00e1c g\u00f5 ph\u00edm ch\u00e2n th\u1ef1c. \u0110\u1ed9 flex c\u1ee7a m\u00e1y r\u1ea5t th\u1ea5p, n\u1ebfu b\u1ea1n ch\u01b0a c\u00f3 b\u00e0n ph\u00edm r\u1eddi \u0111\u1ec3 ch\u01a1i game th\u00ec c\u00f3 th\u1ec3 ch\u01a1i game tr\u1ef1c ti\u1ebfp b\u1eb1ng b\u00e0n ph\u00edm laptop c\u0169ng r\u1ea5t ok.",
+            "",
+            "Touchpad m\u01b0\u1ee3t cho v\u0103n ph\u00f2ng, tuy nhi\u00ean n\u1ebfu ch\u01a1i game th\u00ec n\u00ean d\u00f9ng chu\u1ed9t r\u1eddi s\u1ebd ok h\u01a1n.",
+            "",
+            "Hi\u1ebfm th\u1ea5y l\u1ea1i m\u1ed9t m\u00e3 laptop s\u1edf h\u1eefu pin r\u1eddi nh\u01b0 m\u00e3 laptop Gaming core i7 n\u00e0y. B\u1ea1n d\u1ec5 d\u00e0ng t\u1ef1 thay pin khi c\u00f3 nhu c\u1ea7u m\u00e0 kh\u00f4ng kh\u00f3 kh\u0103n nh\u01b0 pin li\u1ec1n ph\u1ea3i th\u00e1o m\u00e1y ra m\u1edbi thay \u0111\u01b0\u1ee3c. V\u1ec1 th\u1eddi l\u01b0\u1ee3ng pin,\u00a0laptop Gigabyte G7 MD-71S1123SO kh\u00e1 \u1ed5n khi l\u00e0m t\u00e1c v\u1ee5 v\u0103n ph\u00f2ng, tuy nhi\u00ean n\u1ebfu ch\u01a1i game, l\u00e0m \u0111\u1ed3 h\u1ecda th\u00ec n\u00ean c\u1eafm s\u1ea1c \u0111\u1ec3 c\u00f3 hi\u1ec7u n\u0103ng t\u1ed1t nh\u1ea5t.",
+            "",
+            "K\u1ebft lu\u1eadn: Laptop Gigabyte G7 MD-71S1123SO l\u00e0 m\u1ed9t m\u00e3 laptop gaming gi\u00e1 r\u1ebb c\u00f3 thi\u1ebft k\u1ebf ti\u1ec7n l\u1ee3i, ph\u00f9 h\u1ee3p h\u1ecdc t\u1eadp, l\u00e0m vi\u1ec7c \u1edf c\u00e1c m\u00f4i tr\u01b0\u1eddng trang tr\u1ecdng nh\u01b0ng v\u1eabn c\u00f3 th\u1ec3 ch\u01a1i game tho\u1ea3i m\u00e1i. C\u1ea5u h\u00ecnh m\u1ea1nh m\u1ebd v\u1edbi chip core i7 th\u1ebf h\u1ec7 11 chip H, vga RTX 3000 series, win b\u1ea3n quy\u1ec1n s\u1eb5n theo m\u00e1y,\u00a0h\u1ec7 th\u1ed1ng k\u1ebft n\u1ed1i si\u00eau \u0111\u1ea7y \u0111\u1ee7, c\u00f3 th\u1ec3 k\u1ebft n\u1ed1i v\u1edbi ba m\u00e0n h\u00ecnh ngo\u00e0i m\u1ed9t l\u00fac. B\u00e0n ph\u00edm led RGB, pin r\u1eddi ti\u1ec7n thay th\u1ebf, ... ph\u00f9 h\u1ee3p cho ng\u01b0\u1eddi d\u00f9ng l\u00e0 game th\u1ee7, designer, h\u1ecdc sinh sinh vi\u00ean ho\u1eb7c ng\u01b0\u1eddi l\u00e0m v\u0103n ph\u00f2ng mu\u1ed1n m\u1ed9t chi\u1ebfc laptop m\u1ea1nh m\u1ebd v\u1eeba \u0111\u1ec3 h\u1ecdc t\u1eadp, l\u00e0m vi\u1ec7c, v\u1eeba ch\u01a1i game, gi\u1ea3i tr\u00ed,... nh\u01b0ng kh\u00f4ng g\u00e2y ch\u00fa \u00fd.",
+            "Tham kh\u1ea3o th\u00eam phi\u00ean b\u1ea3n 15.6inch:\u00a0https://www.ankhang.vn/laptop-gigabyte-g5-gd-51s1123so.html",
+            "\u0110\u1ebfn \u0111\u00e2y b\u1ea1n \u0111\u00e3 ch\u1ecdn cho m\u00ecnh \u0111\u01b0\u1ee3c m\u00e3 laptop ph\u00f9 h\u1ee3p v\u1edbi m\u00ecnh ch\u01b0a, n\u1ebfu ch\u1ecdn \u0111\u01b0\u1ee3c r\u1ed3i hay ch\u01b0a ch\u1ecdn \u0111\u01b0\u1ee3c h\u00e3y c\u1ee9 li\u00ean h\u1ec7 v\u1edbi An Khang nh\u00e9. An Khang s\u1ebd gi\u00fap b\u1ea1n.",
+            "C\u01a1 s\u1edf 1: S\u1ed1 25 Y\u00ean L\u00e3ng, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i.\u260e 1900 2655 (M\u00e1y l\u1ebb 101 & 102) / Hotline: 0922 744 999.C\u01a1 s\u1edf 2: S\u1ed1 105 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, M\u1ec5 Tr\u00ec, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i\u260e 1900 2655 (M\u00e1y l\u1ebb 301) / Hotline: 0399 655 368",
+            "An Khang Computer\u00a0"
+        ]
+    },
+    {
+        "id_prodcut": "21696",
+        "name": " Laptop Gigabyte G5 KD-52VN123SO ",
+        "cost": "25.990.000 VN\u0110",
+        "specifications": "CPU Intel Core i5-11400H (12MB, up to 4.50GHz), Chipset Intel HM570, RAM 16GB DDR4 3200MHz, SSD 512GB M.2 NVMe PCIe, VGA NVIDIA GeForce RTX 3060 6GB GDDR6, Display 15.6Inch FHD IPS 144Hz, Pin 48.96WHrs, Color Black (\u0110en), Weight 2.18 kg, OS Windows 11 Home, ",
+        "images": [
+            "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_1.jpg",
+            "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_2.jpg",
+            "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_3.jpg",
+            "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_4.jpg",
+            "https://cdn.ankhang.vn/media/product/21696_laptop_gigabyte_g5_kd_52vn123so_5.jpg",
+            "https://cdn.ankhang.vn/media/product/20531_giay_chung_nhan_chinh_hang_gigabyte_2022.jpg"
+        ],
+        "details": [
+            "Tham gia th\u1ecb tr\u01b0\u1eddng laptop Vi\u1ec7t Nam sau c\u00e1c h\u00e3ng Dell, Asus, HP, Acer, MSI,... nh\u01b0ng Gigabyte c\u0169ng th\u00e0nh c\u00f4ng kh\u1eb3ng \u0111\u1ecbnh t\u00ean tu\u1ed5i c\u1ee7a m\u00ecnh v\u1edbi h\u00e0ng lo\u1ea1t si\u00eau ph\u1ea9m\u00a0laptop gaming \"c\u1ea5u h\u00ecnh kh\u1ee7ng gi\u00e1 r\u1ebb nh\u01b0 cho\". \u0110i\u1ec3n h\u00ecnh l\u00e0 m\u00e3 laptop Gaming Gigabyte G5 KD-52VN123SO: CPU Intel Core i5 th\u1ebf h\u1ec7 11 chip \u0111\u1ed3 h\u1ecda H, VGA RTX 3060 6GB GDDR6 si\u00eau kh\u1ee7ng, m\u00e0n h\u00ecnh t\u1ea7n s\u1ed1 qu\u00e9t 144Hz, k\u1ebft n\u1ed1i ba m\u00e0n h\u00ecnh m\u1ed9t l\u00fac,... m\u00e0 gi\u00e1 th\u00e0nh ch\u1ec9 d\u01b0\u1edbi 26 tri\u1ec7u. R\u1ea5t kh\u00f3 \u0111\u1ec3 t\u00ecm \u0111\u01b0\u1ee3c m\u00e3 laptop n\u00e0o kho\u1ea3ng 25-26 tri\u1ec7u m\u00e0 l\u1ea1i s\u1edf h\u1eefu VGA RTX 3060 nh\u01b0 th\u1ebf n\u00e0y, nh\u01b0ng kh\u00f4ng v\u00ec v\u1eady m\u00e0 thi\u1ebft k\u1ebf hay c\u1ed5ng k\u1ebft n\u1ed1i b\u1ecb c\u1eaft gi\u1ea3m hay l\u00e0m qua loa \u0111\u00e2u nh\u00e9. T\u00ecm hi\u1ec3u ngay xem m\u00e3 laptop gi\u00e1 r\u1ebb nh\u01b0 cho n\u00e0y c\u00f9ng An Khang th\u00f4i n\u00e0o.",
+            "",
+            "Laptop Gaming Gigabyte G5\u00a0\u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf b\u1edfi ch\u1ea5t li\u1ec7u nh\u1ef1a c\u1ee9ng cao c\u1ea5p, b\u1eb1ng nh\u1eefng \u0111\u01b0\u1eddng n\u00e9t thi\u1ebft k\u1ebf kh\u1ecfe kho\u1eafn, thu h\u00fat. T\u1ed5ng quan ch\u00fang ta s\u1ebd th\u1ea5y to\u00e0n b\u1ed9 m\u00e1y c\u00f3 t\u1ed5ng c\u1ed9ng 04 h\u1ed1c t\u1ea3n nhi\u1ec7t. Nh\u01b0ng th\u1eadt b\u1ea5t ng\u1edd, m\u1ed9t trong s\u1ed1 ch\u00fang l\u00e0 gi\u1ea3 \u0111\u1ea5y. H\u1ed1c t\u1ea3n nhi\u1ec7t n\u00e0y n\u1eb1m \u1edf ph\u1ea7n b\u00ean ph\u1ea3i c\u1ee7a c\u1ea1nh g\u00e1y c\u1ee7a laptop nh\u1eb1m m\u1ee5c \u0111\u00edch c\u00e2n b\u1eb1ng th\u1ea9m m\u1ef9 cho h\u1ed1c t\u1ea3n nhi\u1ec7t c\u00f2n l\u1ea1i c\u0169ng n\u1eb1m \u1edf c\u1ea1nh g\u00e1y c\u1ee7a m\u00e1y. \u0110i\u1ec1u n\u00e0y cho th\u1ea5y Gigabyte r\u1ea5t ch\u00fa tr\u1ecdng v\u1ec1 \"ngo\u1ea1i h\u00ecnh\" cho nh\u1eefng \u0111\u1ee9a con tinh th\u1ea7n c\u1ee7a m\u00ecnh.",
+            "",
+            "Gigabyte G5 KD \u0111\u01b0\u1ee3c thi\u1ebft k\u1ebf theo phong c\u00e1ch t\u1ed1i gi\u1ea3n, tinh t\u1ebf, linh \u0111\u1ed9ng gi\u1eefa m\u1ee5c \u0111\u00edch gaming, \u0111\u1ed3ng th\u1eddi c\u0169ng ph\u00f9 h\u1ee3p v\u1edbi m\u00f4i tr\u01b0\u1eddng l\u00e0m vi\u1ec7c nghi\u00eam t\u00fac nh\u01b0 tr\u01b0\u1eddng h\u1ecdc, v\u0103n ph\u00f2ng, c\u01a1 quan. Th\u00eam n\u1eefa, tuy l\u00e0 m\u1ed9t m\u00e3\u00a0laptop gaming gi\u00e1 r\u1ebb v\u1edbi thi\u1ebft k\u1ebf ch\u1eafc ch\u1eafn, kh\u1ecfe kho\u1eafn nh\u01b0ng Gigabyte \u0111\u00e3 t\u1ed1i \u01b0u r\u1ea5t t\u1ed1t cho m\u00e3 laptop n\u00e0y v\u1edbi tr\u1ecdng l\u01b0\u1ee3ng ch\u1ec9 x\u1ea5p x\u1ec9 2.18kg, kh\u00e1 nh\u1eb9 nh\u00e0ng \u0111\u1ec3 c\u00f3 th\u1ec3 di chuy\u1ec3n m\u00e1y \u0111\u1ebfn b\u1ea5t c\u1ee9 \u0111\u00e2u b\u1ea1n mu\u1ed1n.",
+            "",
+            "T\u00f3m t\u1eaft th\u00f4ng s\u1ed1 c\u1ea5u h\u00ecnh c\u01a1 b\u1ea3n c\u1ee7a Gigabyte G5 KD-52VN123SO:- CPU Intel Core i5-11400H (12MB, up to 4.50GHz)- RAM 16GB DDR4 3200MHz- SSD 512GB M.2 NVMe PCIe- VGA NVIDIA GeForce RTX 3060 6GB GDDR6- OS Windows 11 Home",
+            "",
+            "Tr\u00ean th\u1ecb tr\u01b0\u1eddng laptop th\u1eddi \u0111i\u1ec3m hi\u1ec7n t\u1ea1i, th\u1eadt s\u1ef1 kh\u00e1 hi\u1ebfm m\u00e3 laptop n\u00e0o tr\u00ean d\u01b0\u1edbi 25-26 tri\u1ec7u m\u00e0 \u0111\u01b0\u1ee3c trang b\u1ecb card \u0111\u1ed3 h\u1ecda NVIDIA GeForce RTX 3060 6GB GDDR6 nh\u01b0 Gigabyte G5 KD-52VN123SO. VGA n\u00e0y k\u1ebft h\u1ee3p c\u00f9ng CPU Intel Core i5-11400H mang l\u1ea1i s\u1ee9c m\u1ea1nh c\u1ef1c \u1ea5n t\u01b0\u1ee3ng cho c\u1ea3 \u0111\u1ed3 h\u1ecda l\u1eabn gaming. B\u1ed9 \u0111\u00f4i n\u00e0y \u0111\u01b0\u1ee3c t\u00edch h\u1ee3p tr\u00ean Gigabyte G5 KD c\u00f3 \u0111i\u1ec3m \u0111\u1eb7c bi\u1ec7t h\u01a1n so v\u1edbi \u1edf c\u00e1c d\u00f2ng laptop kh\u00e1c l\u00e0 \u0111\u01b0\u1ee3c \"\u0103n \u0111i\u1ec7n\" tho\u1ea3i m\u00e1i h\u01a1n (105W thay b\u1eb1ng 90W ph\u1ed5 bi\u1ebfn tr\u00ean c\u00e1c laptop gaming hi\u1ec7n nay), n\u00ean m\u00e1y lu\u00f4n s\u1edf h\u1eefu m\u1ee9c fps cao v\u00e0 \u1ed5n \u0111\u1ecbnh h\u01a1n so v\u1edbi c\u00e1c m\u00e1y kh\u00e1c c\u00f9ng t\u1ea7m gi\u00e1. C\u00f2n n\u1ebfu b\u1ea1n d\u00f9ng l\u00e0m \u0111\u1ed3 h\u1ecda th\u00ec chi\u1ebfc m\u00e1y n\u00e0y c\u0169ng l\u00e0 m\u1ed9t l\u1ef1a ch\u1ecdn h\u1ee3p l\u00fd cho ng\u01b0\u1eddi d\u00f9ng.",
+            "",
+            "M\u1ed9t \u0111i\u1ec3m \u0111\u1eb7c bi\u1ec7t n\u1eefa trong c\u1ea5u h\u00ecnh c\u1ee7a c\u00e1c d\u00f2ng\u00a0Laptop Gaming Gigabyte G5 l\u00e0 \u0111\u1ec1u \u0111\u01b0\u1ee3c trang b\u1ecb 16GB ram Dual Chanel DDR4 3200MHz thay b\u1eb1ng 8GB nh\u01b0 nh\u1eefng \"ng\u01b0\u1eddi anh em\" laptop gaming kh\u00e1c. \u0110\u00e2y th\u1eadt s\u1ef1 r\u1ea5t c\u1ea7n thi\u1ebft cho c\u00e1c laptop gaming s\u1eed d\u1ee5ng card \u0111\u1ed3 h\u1ecda r\u1eddi RTX 3060 \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o \u0111\u01b0\u1ee3c hi\u1ec7u n\u0103ng t\u1ed1t nh\u1ea5t, fps cao nh\u1ea5t.",
+            "\u1ed4 c\u1ee9ng c\u0169ng \u0111\u01b0\u1ee3c Gigabyte chi r\u1ea5t m\u1ea1nh tay v\u1edbi 512GB SSD lo\u1ea1i M.2 NVMe PCIe Gen 4.0 kh\u00f4ng ch\u1ec9 \u0111\u1ea3m b\u1ea3o \u0111\u1ee7 v\u00e0 tho\u1ea3i m\u00e1i l\u01b0u tr\u1eef, m\u00e0 t\u1ed1c \u0111\u1ed9 l\u00e0m vi\u1ec7c c\u0169ng si\u00eau nhanh h\u01a1n r\u1ea5t nhi\u1ec1u so v\u1edbi SSD c\u00f9ng lo\u1ea1i Gen 3.",
+            "",
+            "M\u00e3\u00a0laptop core i5 n\u00e0y\u00a0c\u00f3 m\u00e0n h\u00ecnh 15.6Inch FHD 144Hz, mang l\u1ea1i ch\u1ea5t l\u01b0\u1ee3ng hi\u1ec3n th\u1ecb cao v\u1edbi h\u00ecnh \u1ea3nh s\u1ed1ng \u0111\u1ed9ng, m\u00e0u s\u1eafc t\u01b0\u01a1i s\u00e1ng, chi ti\u1ebft, ph\u00f9 h\u1ee3p cho c\u1ea3 h\u1ecdc t\u1eadp, l\u00e0m vi\u1ec7c, l\u1eabn gi\u1ea3i tr\u00ed gaming. Th\u00eam n\u1eefa v\u1edbi \u0111\u1ed9 s\u00e1ng g\u1ea7n 300nits khi k\u1ebft h\u1ee3p v\u1edbi t\u1ea5m n\u1ec1n IPS cho g\u00f3c nh\u00ecn r\u1ed9ng l\u00ean t\u1edbi 178 \u0111\u1ed9, m\u00e0 kh\u00f4ng b\u1ecb l\u00f3a, k\u1ec3 c\u1ea3 khi l\u00e0m vi\u1ec7c ngo\u00e0i tr\u1eddi hay n\u01a1i c\u00f3 \u00e1nh s\u00e1ng m\u1ea1nh.",
+            "",
+            "V\u1edbi m\u1ed9t chi\u1ebfc laptop gaming, h\u1ec7 th\u1ed1ng t\u1ea3n nhi\u1ec7t r\u1ea5t quan tr\u1ecdng. Khi d\u00f9ng m\u00e1y ch\u1ec9nh qu\u1ea1t \u1edf ch\u1ebf \u0111\u1ed9 t\u1ed1i \u0111a, th\u00ec c\u1ea3 CPU v\u00e0 GPU, khi ch\u01a1i game l\u00e2u s\u1ebd r\u01a1i v\u00e0o kho\u1ea3ng 85 \u0111\u1ed9 C. N\u1ebfu b\u1ea1n c\u00f3 th\u00f3i quen ch\u01a1i game v\u1edbi loa ngo\u00e0i th\u00ec \u0111\u1eebng lo, qu\u1ea1t c\u1ee7a laptop Gigabyte G5 KD kh\u00f4ng b\u1ecb r\u00edt gi\u00f3, gi\u00f3 tho\u00e1t ra ch\u1ec9 v\u1eeba ph\u1ea3i c\u00f9ng v\u1edbi ch\u1ea5t l\u01b0\u1ee3ng \u00e2m thanh c\u1ee7a\u00a0Laptop Gaming Gigabyte G5 r\u1ea5t to v\u00e0 r\u00f5 n\u00ean \u00e2m thanh trong game kh\u00f4ng b\u1ecb l\u1ea5n \u00e1p m\u1ea5t, mang l\u1ea1i tr\u1ea3i nghi\u1ec7m gaming tho\u1ea3i m\u00e1i, t\u1eadp trung.",
+            "",
+            "Pin r\u1eddi c\u00f3 m\u1ed9t \u01b0u \u0111i\u1ec3m m\u00e0 An Khang kh\u00e1 th\u00edch \u0111\u00f3 l\u00e0 ch\u00fang ta c\u00f3 th\u1ec3 d\u1ef1 tr\u00f9 th\u00eam m\u1ed9t c\u1ee5c pin d\u1ef1 ph\u00f2ng, \u0111\u1ec3 ph\u00f2ng tr\u1eeb tr\u01b0\u1eddng h\u1ee3p ra ngo\u00e0i kh\u00f4ng t\u00ecm \u0111\u01b0\u1ee3c ch\u1ed7 s\u1ea1c, m\u00e0 v\u1eabn c\u00f3 th\u1ec3 d\u1ec5 d\u00e0ng thay pin, m\u00e0 kh\u00f4ng nh\u1ea5t thi\u1ebft ph\u1ea3i l\u00e0 m\u1ed9t k\u1ef9 thu\u1eadt vi\u00ean m\u00e1y t\u00ednh l\u00e3o l\u00e0ng g\u00ec c\u1ea3. V\u1edbi dung l\u01b0\u1ee3ng pin 48.96WHrs, ch\u00fang ta c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng trong v\u00f2ng kho\u1ea3ng 3 ti\u1ebfng \u0111\u1ed3ng h\u1ed3 li\u00ean t\u1ee5c. \u0110\u1ed1i v\u1edbi m\u1ed9t m\u00e3 laptop gaming th\u00ec \u0111\u00e2y l\u00e0 m\u1ed9t th\u1eddi l\u01b0\u1ee3ng b\u00ecnh th\u01b0\u1eddng, kh\u00f4ng ph\u1ea3i \u0111i\u1ec3m n\u1ed5i b\u1eadt, nh\u01b0ng pin r\u1eddi l\u1ea1i l\u00e0 \u0111i\u1ec3m nh\u1ea5n th\u00fa v\u1ecb tr\u00ean m\u00e3 laptop gaming n\u00e0y.",
+            "",
+            "C\u1ea3 b\u00e0n ph\u00edm v\u00e0 trackpad c\u1ee7a Gigabyte G5 \u0111\u1ec1u cho ch\u1ea5t l\u01b0\u1ee3ng tr\u1ea3i nghi\u1ec7m t\u1ed1t, di r\u1ea5t th\u00edch tay, h\u00e0nh tr\u00ecnh ph\u00edm v\u1eeba ph\u1ea3i, c\u1ea3m nh\u1eadn g\u00f5 ph\u00edm r\u00f5 r\u00e0ng, kh\u00f4ng b\u1ecb h\u1eabng, c\u0169ng kh\u00f4ng b\u1ecb m\u1ecfi tay, h\u1ed7 tr\u1ee3 t\u0103ng hi\u1ec7u su\u1ea5t l\u00e0m vi\u1ec7c g\u00f5 ph\u00edm v\u00e0 nh\u1eadp li\u1ec7u.",
+            "",
+            "Laptop Gigabyte G5 KD-52VN123SO\u00a0\u0111\u01b0\u1ee3c trang b\u1ecb h\u1ec7 th\u1ed1ng c\u1ed5ng k\u1ebft n\u1ed1i r\u1ea5t \u0111\u1ea7y \u0111\u1ee7 t\u1eeb HDMI, mini Display Port, Type-C, Lan, th\u1ebb nh\u1edb, USB, tai nghe,... m\u00e0 kh\u00f4ng c\u1ea7n th\u00f4ng qua c\u00e1c d\u00e2y chuy\u1ec3n \u0111\u1ed5i trung gian. V\u1edbi vi\u1ec7c trang b\u1ecb m\u1ed9t l\u00fac c\u1ea3 HDMI, mini Display Port v\u00e0 c\u1ed5ng Type-C, Gigabyte G5 c\u00f3 th\u1ec3 k\u1ebft n\u1ed1i m\u1ed9t l\u00fac v\u1edbi ba m\u00e0n h\u00ecnh, trong khi c\u00e1c m\u00e3 laptop gaming kh\u00e1c ch\u1ec9 k\u1ebft n\u1ed1i \u0111\u01b0\u1ee3c v\u1edbi hai, th\u1eadm ch\u00ed ch\u1ec9 k\u1ebft n\u1ed1i \u0111\u01b0\u1ee3c v\u1edbi m\u1ed9t m\u00e0n h\u00ecnh. \u0110\u00e2y l\u00e0 m\u1ed9t \u01b0u \u0111i\u1ec3m m\u00e0 kh\u00f4ng ph\u1ea3i m\u00e3 laptop gaming n\u00e0o c\u0169ng c\u00f3, ng\u01b0\u1eddi d\u00f9ng s\u1ebd \u0111\u01b0\u1ee3c t\u1eadn h\u01b0\u1edfng nh\u1eefng tr\u1ea3i nghi\u1ec7m gaming kh\u00f4ng th\u1ec3 \"\u0111\u00e3 \u0111\u1eddi\" h\u01a1n, \u0111\u1eb7c bi\u1ec7t l\u00e0 c\u00e1c t\u1ef1a game \u0111ua xe,... ho\u1eb7c khi thi\u1ebft k\u1ebf \u0111\u1ed3 h\u1ecda.",
+            "",
+            "",
+            "K\u1ebft lu\u1eadn: Laptop Gigabyte G5 KD-52VN123SO l\u00e0 m\u1ed9t chi\u1ebfc m\u00e1y gaming c\u00f3 r\u1ea5t nhi\u1ec1u \u0111i\u1ec3m m\u1ea1nh: v\u1edbi gi\u00e1 ch\u1ec9 tr\u00ean 25 tri\u1ec7u m\u1ed9t ch\u00fat nh\u01b0ng l\u1ea1i s\u1edf h\u1eefu VGA 3060 si\u00eau kh\u1ee7ng; m\u00e0n h\u00ecnh \u0111\u1eb9p, t\u1ea7n s\u1ed1 qu\u00e9t cao; h\u1ec7 th\u1ed1ng k\u1ebft n\u1ed1i \u0111\u1ea7y \u0111\u1ee7, ti\u1ec7n \u00edch, c\u00f3 th\u1ec3 k\u1ebft n\u1ed1i v\u1edbi ba m\u00e0n h\u00ecnh m\u1ed9t l\u00fac; thi\u1ebft k\u1ebf linh \u0111\u1ed9ng gi\u1eefa m\u00f4i tr\u01b0\u1eddng l\u00e0m vi\u1ec7c, h\u1ecdc t\u1eadp m\u00e0 v\u1eabn tho\u1ea3i m\u00e1i ch\u01a1i game;\u00a0d\u1ec5 d\u00e0ng\u00a0mang theo m\u1ed9t pin d\u1ef1 ph\u00f2ng thay b\u1eb1ng mang theo s\u1ea1c \u1edf nh\u1eefng n\u01a1i kh\u00f4ng c\u00f3 s\u1ea1c,... ; th\u1eadt s\u1ef1 l\u00e0 \"c\u1ee7a h\u1eddi\" trong c\u00e1c l\u1ef1a ch\u1ecdn laptop gaming cho ng\u01b0\u1eddi d\u00f9ng.",
+            "Tham kh\u1ea3o:",
+            "- B\u1ea3n RTX 3050 4GB:\u00a0https://www.ankhang.vn/laptop-gigabyte-g5-gd-51s1123so.html",
+            "\u0110\u1ebfn \u0111\u00e2y b\u1ea1n \u0111\u00e3 ch\u1ecdn cho m\u00ecnh \u0111\u01b0\u1ee3c m\u00e3 laptop ph\u00f9 h\u1ee3p v\u1edbi m\u00ecnh ch\u01b0a, n\u1ebfu ch\u1ecdn \u0111\u01b0\u1ee3c r\u1ed3i hay ch\u01b0a ch\u1ecdn \u0111\u01b0\u1ee3c h\u00e3y c\u1ee9 li\u00ean h\u1ec7 v\u1edbi An Khang nh\u00e9. An Khang s\u1ebd gi\u00fap b\u1ea1n.",
+            "C\u01a1 s\u1edf 1: S\u1ed1 25 Y\u00ean L\u00e3ng, Trung Li\u1ec7t, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i.\u260e 1900 2655 (M\u00e1y l\u1ebb 101 & 102) / Hotline: 0922 744 999.C\u01a1 s\u1edf 2: S\u1ed1 105 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, M\u1ec5 Tr\u00ec, Nam T\u1eeb Li\u00eam, H\u00e0 N\u1ed9i\u260e 1900 2655 (M\u00e1y l\u1ebb 301) / Hotline: 0399 655 368",
+            "An Khang Computer\u00a0"
+        ]
+    }
 ]

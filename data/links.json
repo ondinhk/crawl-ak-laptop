@@ -1,1 +1,50 @@
-[{"name": "laptop-dell", "url": "https://www.ankhang.vn/laptop-dell.html"}, {"name": "laptop-asus", "url": "https://www.ankhang.vn/laptop-asus.html"}, {"name": "laptop-hp", "url": "https://www.ankhang.vn/laptop-hp.html"}, {"name": "laptop-msi", "url": "https://www.ankhang.vn/laptop-msi.html"}, {"name": "laptop-lg", "url": "https://www.ankhang.vn/laptop-lg.html"}, {"name": "laptop-lenovo", "url": "https://www.ankhang.vn/laptop-lenovo.html"}, {"name": "laptop-acer", "url": "https://www.ankhang.vn/laptop-acer.html"}, {"name": "laptop-macbook", "url": "https://www.ankhang.vn/laptop-macbook.html"}, {"name": "laptop-gigabyte", "url": "https://www.ankhang.vn/laptop-gigabyte.html"}, {"name": "laptop-avita", "url": "https://www.ankhang.vn/laptop-avita.html"}, {"name": "laptop-chuwi", "url": "https://www.ankhang.vn/laptop-chuwi.html"}, {"name": "laptop-intel", "url": "https://www.ankhang.vn/laptop-intel.html"}]
+[
+  {
+    "name": "laptop-dell",
+    "url": "https://www.ankhang.vn/laptop-dell.html"
+  },
+  {
+    "name": "laptop-asus",
+    "url": "https://www.ankhang.vn/laptop-asus.html"
+  },
+  {
+    "name": "laptop-hp",
+    "url": "https://www.ankhang.vn/laptop-hp.html"
+  },
+  {
+    "name": "laptop-msi",
+    "url": "https://www.ankhang.vn/laptop-msi.html"
+  },
+  {
+    "name": "laptop-lg",
+    "url": "https://www.ankhang.vn/laptop-lg.html"
+  },
+  {
+    "name": "laptop-lenovo",
+    "url": "https://www.ankhang.vn/laptop-lenovo.html"
+  },
+  {
+    "name": "laptop-acer",
+    "url": "https://www.ankhang.vn/laptop-acer.html"
+  },
+  {
+    "name": "laptop-macbook",
+    "url": "https://www.ankhang.vn/laptop-macbook.html"
+  },
+  {
+    "name": "laptop-gigabyte",
+    "url": "https://www.ankhang.vn/laptop-gigabyte.html"
+  },
+  {
+    "name": "laptop-avita",
+    "url": "https://www.ankhang.vn/laptop-avita.html"
+  },
+  {
+    "name": "laptop-chuwi",
+    "url": "https://www.ankhang.vn/laptop-chuwi.html"
+  },
+  {
+    "name": "laptop-intel",
+    "url": "https://www.ankhang.vn/laptop-intel.html"
+  }
+]
